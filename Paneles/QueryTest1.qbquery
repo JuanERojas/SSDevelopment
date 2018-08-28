@@ -1,0 +1,4 @@
+﻿USE ss-db;
+SELECT * FROM panel WHERE clientes = 0;
+INSERT INTO panel (idpanel, nombre, ip, marca, frecuencia, clientes) VALUE (NULL, "test", "172.1.1.1", "NANO", 5444, 0);
+UPDATE panel SET nombre = "test2" WHERE ip LIKE "172.1.1.1";

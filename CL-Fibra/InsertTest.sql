@@ -1,0 +1,18 @@
+﻿INSERT INTO nap (idnap, numero, codpon) VALUES
+(NULL, '1', 'B25'),
+(NULL, '2', 'B25'),
+(NULL, '3', 'B25'),
+(NULL, '4', 'B25'),
+(NULL, '5', 'B25'),
+(NULL, '6', 'B25'),
+(NULL, '7', 'B25'),
+(NULL, '8', 'B25'),
+(NULL, '9', 'B25'),
+(NULL, '10', 'B25'),
+(NULL, '11', 'B25'),
+(NULL, '12', 'B25'),
+(NULL, '13', 'B25'),
+(NULL, '14', 'B25'),
+(NULL, '15', 'B25'),
+(NULL, '16', 'B25'),
+(NULL, '17', 'B25');

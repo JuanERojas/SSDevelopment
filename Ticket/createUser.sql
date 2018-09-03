@@ -1,0 +1,8 @@
+﻿DROP USER 'userticket'@localhost;
+FLUSH PRIVILEGES;
+CREATE USER 'userticket' IDENTIFIED BY 'ReadWriteTk@SS';
+
+GRANT SELECT ON TABLE `SS-DBTK`.* TO 'userticket';
+GRANT SELECT, INSERT, TRIGGER ON TABLE `SS-DBTK`.* TO 'userticket';
+GRANT SELECT, INSERT, TRIGGER, UPDATE, DELETE ON TABLE `SS-DBTK`.* TO 'userticket';
+GRANT ALL ON `SS-DBTK`.* TO 'userticket';

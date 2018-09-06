@@ -64,6 +64,7 @@
 		<select id="intervalo" onchange="cargarReg(this)">
 			<option value="0">Seleccione Un Margen</option>
 			<option value="-1">Todos</option>
+			<option value="86400">Ultimas 24 Horas</option>
 			<option value="7200">Ultimas 2 Horas</option>
 			<option value="3600">Ultima Hora</option>
 			<option value="1800">Ultima Media Hora</option>

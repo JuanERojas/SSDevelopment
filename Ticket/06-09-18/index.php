@@ -85,7 +85,7 @@
 				<th align="right">
 					Reclamo: 
 				</th>
-				<th>
+				<th align="right">
 					<!--
 					<select id="reclamo" width="150">
 						<option value="Microcortes">Microcortes</option>

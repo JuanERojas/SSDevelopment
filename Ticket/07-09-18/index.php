@@ -1,23 +1,5 @@
 <html>
 <?php
-
-	$servername = "db.sslocal";
-    $database = "SS-DB"; 
-    $username = "ross";
-    $password = "ReadOnly@SS";
-/*	
-	$servername = "localhost";
-    $database = "SS-DB"; 
-    $username = "root";
-    $password = "";
-*/	
-	$conn = new mysqli($servername, $username, $password, $database);
-	if ($conn->connect_error) {
-		die("Connection failed: " . $conn->connect_error);
-	}	
-	$sql = "SELECT nombre FROM panel ORDER BY nombre";
-	$result = $conn->query($sql);
-	$conn->close();
 	
 	$servername = "db.sslocal";
     $database = "SS-DBTK"; 
@@ -63,22 +45,10 @@
 			</tr>
 			<tr>
 				<th align="right">
-					Panel: 
+					IP: 
 				</th>
 				<th>
-					<select id="nombrePanel" width="150">
-	<?php
-						if ($result->num_rows > 0) {
-							while($row = $result->fetch_assoc()) {
-								$nombrePanel= $row["nombre"];
-							
-		?>
-						<option value="<?php echo $nombrePanel; ?>"><?php echo $nombrePanel; ?></option>
-	<?php
-							}
-						}
-		?>
-					</select>
+					<INPUT TYPE = "Text" NAME = "nombrePanel" id="nombrePanel" width="100">
 				</th>
 			</tr>
 			<tr>

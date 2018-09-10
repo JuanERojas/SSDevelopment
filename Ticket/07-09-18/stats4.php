@@ -4,10 +4,7 @@
 	if( strlen($intervalo) == 0 ) { 
 		$intervalo = 0;
 	}
-	$nodo = $_POST['nodo'].'';
-	if( strlen($nodo) == 0 ) { 
-		$nodo = '';
-	}
+	$nodo = $_GET['nodo'];
 	/*
 	echo $intervalo;
 	echo "<br>";
@@ -43,9 +40,9 @@
 	*/
 	//Por tiempo
 	$registros=array();
-	$sql = "SELECT idreclamo, t.nombre AS tecnico, nodo, problema, numcliente, time FROM reclamo r INNER JOIN tecnico AS t ON r.tecnico = t.idtecnico WHERE `time` > DATE_SUB(NOW(), INTERVAL '3:0:".$intervalo."' HOUR_SECOND) ORDER BY idreclamo;";
+	$sql = "SELECT idreclamo, t.nombre AS tecnico, nodo, problema, numcliente, time FROM reclamo r INNER JOIN tecnico AS t ON r.tecnico = t.idtecnico WHERE `time` > DATE_SUB(NOW(), INTERVAL '3:0:".$intervalo."' HOUR_SECOND) AND r.nodo LIKE '".$nodo."' ORDER BY idreclamo;";
 	if($intervalo == -1){
-		$sql = "SELECT idreclamo, t.nombre AS tecnico, nodo, problema, numcliente, time FROM reclamo r INNER JOIN tecnico AS t ON r.tecnico = t.idtecnico ORDER BY idreclamo;";
+		$sql = "SELECT idreclamo, t.nombre AS tecnico, nodo, problema, numcliente, time FROM reclamo r INNER JOIN tecnico AS t ON r.tecnico = t.idtecnico WHERE r.nodo LIKE '".$nodo."' ORDER BY idreclamo;";
 	}
 	
 	$result = $conn->query($sql);
@@ -75,10 +72,10 @@
 	
 	//Por reclamo
 	//$sql = "SELECT problema AS reclamo, COUNT(*) AS cant FROM reclamo r WHERE r.nodo LIKE '%".$nodo."%' AND `time` > DATE_SUB(CURDATE(), INTERVAL ".$intervalo." SECOND) GROUP BY problema ORDER BY cant DESC LIMIT 10;";
-	$sql = "SELECT problema AS reclamo, COUNT(*) AS cant FROM reclamo r WHERE `time` > DATE_SUB(NOW(), INTERVAL '3:0:".$intervalo."' HOUR_SECOND) GROUP BY problema ORDER BY cant DESC LIMIT 10;";
+	$sql = "SELECT problema AS reclamo, COUNT(*) AS cant FROM reclamo r WHERE `time` > DATE_SUB(NOW(), INTERVAL '3:0:".$intervalo."' HOUR_SECOND) AND r.nodo LIKE '".$nodo."' GROUP BY problema ORDER BY cant DESC LIMIT 10;";
 	if($intervalo == -1){
 		//$sql = "SELECT problema AS reclamo, COUNT(*) AS cant FROM reclamo r WHERE r.nodo LIKE '%".$nodo."%' GROUP BY problema ORDER BY cant DESC LIMIT 10;";
-		$sql = "SELECT problema AS reclamo, COUNT(*) AS cant FROM reclamo r GROUP BY problema ORDER BY cant DESC LIMIT 10;";
+		$sql = "SELECT problema AS reclamo, COUNT(*) AS cant FROM reclamo r WHERE r.nodo LIKE '".$nodo."' GROUP BY problema ORDER BY cant DESC LIMIT 10;";
 	}
 	$result1 = $conn->query($sql);
 	/*
@@ -93,10 +90,10 @@
 	
 	//Por panel
 	//$sql = "SELECT nodo AS panel, COUNT(*) AS cant FROM reclamo r WHERE r.nodo LIKE '".$nodo."' AND `time` > DATE_SUB(CURDATE(), INTERVAL ".$intervalo." SECOND) GROUP BY nodo ORDER BY cant DESC LIMIT 10;";
-	$sql = "SELECT nodo AS panel, COUNT(*) AS cant FROM reclamo r WHERE `time` > DATE_SUB(NOW(), INTERVAL '3:0:".$intervalo."' HOUR_SECOND) GROUP BY nodo ORDER BY cant DESC LIMIT 10;";
+	$sql = "SELECT nodo AS panel, COUNT(*) AS cant FROM reclamo r WHERE `time` > DATE_SUB(NOW(), INTERVAL '3:0:".$intervalo."' HOUR_SECOND) AND r.nodo LIKE '".$nodo."' GROUP BY nodo ORDER BY cant DESC LIMIT 10;";
 	if($intervalo == -1){
 		//$sql = "SELECT nodo AS panel, COUNT(*) AS cant FROM reclamo r WHERE r.nodo LIKE '".$nodo."' GROUP BY nodo ORDER BY cant DESC LIMIT 10;";
-		$sql = "SELECT nodo AS panel, COUNT(*) AS cant FROM reclamo r GROUP BY nodo ORDER BY cant DESC LIMIT 10;";
+		$sql = "SELECT nodo AS panel, COUNT(*) AS cant FROM reclamo r WHERE r.nodo LIKE '".$nodo."' GROUP BY nodo ORDER BY cant DESC LIMIT 10;";
 	}
 	$result2 = $conn->query($sql);
 	/*
@@ -110,9 +107,9 @@
 	*/
 	
 	//Por Nodo
-	$sql = "SELECT n.nombre AS nodo, COUNT(*) AS cant FROM `SS-DBTK`.reclamo r INNER JOIN `SS-DB`.panel AS p ON r.nodo = p.nombre INNER JOIN `SS-DB`.nodo AS n ON p.nodo = n.idnodo WHERE `time` > DATE_SUB(NOW(), INTERVAL '3:0:".$intervalo."' HOUR_SECOND) GROUP BY n.nombre ORDER BY cant DESC LIMIT 10;";
+	$sql = "SELECT n.nombre AS nodo, COUNT(*) AS cant FROM `SS-DBTK`.reclamo r INNER JOIN `SS-DB`.panel AS p ON r.nodo = p.nombre INNER JOIN `SS-DB`.nodo AS n ON p.nodo = n.idnodo WHERE `time` > DATE_SUB(NOW(), INTERVAL '3:0:".$intervalo."' HOUR_SECOND) AND r.nodo LIKE '".$nodo."' GROUP BY n.nombre ORDER BY cant DESC LIMIT 10;";
 	if($intervalo == -1){
-		$sql = "SELECT n.nombre AS nodo, COUNT(*) AS cant FROM `SS-DBTK`.reclamo r INNER JOIN `SS-DB`.panel AS p ON r.nodo = p.nombre INNER JOIN `SS-DB`.nodo AS n ON p.nodo = n.idnodo GROUP BY n.nombre ORDER BY cant DESC LIMIT 10;";
+		$sql = "SELECT n.nombre AS nodo, COUNT(*) AS cant FROM `SS-DBTK`.reclamo r INNER JOIN `SS-DB`.panel AS p ON r.nodo = p.nombre INNER JOIN `SS-DB`.nodo AS n ON p.nodo = n.idnodo WHERE r.nodo LIKE '".$nodo."' GROUP BY n.nombre ORDER BY cant DESC LIMIT 10;";
 	}
 	$result6 = $conn->query($sql);
 	/*
@@ -156,7 +153,7 @@
 		<br>
 		<h3>Reclamos por fecha<h2>
 		<br>
-		<form action="stats3.php" method="post" id="form1">
+		<form action="stats4.php?nodo=<?php echo $nodo;?>" method="post" id="form1">
 			<select id="intervalo" name = "intervalo" onchange="this.form.submit()">
 				<option <?php if ($intervalo == 0 ) echo 'selected' ; ?> value="0">Seleccione Un Margen</option>
 				<option <?php if ($intervalo == -1 ) echo 'selected' ; ?> value="-1">Todos</option>
@@ -237,7 +234,7 @@
 			$cantidad2= $row["cant"];
 	?>
 		<tr>
-			<th width="230" align='left'><a href='stats4.php?nodo=<?php echo $r[2];?>' target="_blank">
+			<th width="230" align='left'><a href='stats4.php?nodo=<?php echo $panel;?>' target="_blank">
 				<?php echo $panel;?>
 			</a></th>
 			<th width="40" align='left'><?php echo $cantidad2;?></th>
@@ -274,4 +271,5 @@
 <script></script>
 </body>
 </html>
+
 

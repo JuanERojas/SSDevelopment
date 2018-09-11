@@ -138,7 +138,7 @@
 		<br>
 		<br>
 	<!--<button class="button" onclick="window.location.href='stats3.php'" target="_blank">Estadisticas</button>-->
-	<button class="button" onclick="window.open('stats3.php','_blank');" target="_blank">Estadisticas</button>
+	<button class="button" onclick="window.open('stats.php','_blank');" target="_blank">Estadisticas</button>
 	
 <script>
 	function ValidarCheckBox(obj){

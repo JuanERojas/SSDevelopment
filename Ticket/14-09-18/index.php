@@ -5,12 +5,7 @@
     $database = "SS-DBTK"; 
     $username = "userticket";
     $password = "ReadWriteTk@SS";
-/*	
-	$servername = "localhost";
-    $database = "SS-DBTK"; 
-    $username = "root";
-    $password = "";
-*/	
+	
 	$conn = new mysqli($servername, $username, $password, $database);
 	if ($conn->connect_error) {
 		die("Connection failed: " . $conn->connect_error);
@@ -63,9 +58,6 @@
 	a:active {
 		text-decoration: underline;
 	}
-	tr:hover {
-		background-color:#f5f5f5;
-	}
 </style>
 </head>
 <body bgcolor="B7D590">
@@ -96,14 +88,6 @@
 					Reclamo: 
 				</th>
 				<th align="left">
-					<!--
-					<select id="reclamo" width="150">
-						<option value="Microcortes">Microcortes</option>
-						<option value="Cortes Prolongados">Cortes Prolongados</option>
-						<option value="Sin Servicio">Sin Servicio</option>
-						<option value="Baja Velocidad">Baja Velocidad</option>
-					</select>
-					 -->
 					<input type="checkbox" id="reclamo-1" value="Microcortes" onclick="ValidarCheckBox(this);">Microcortes<br>
 					<input type="checkbox" id="reclamo-2" value="Cortes Prolongados" onclick="ValidarCheckBox(this);">Cortes Prolongados<br>
 					<input type="checkbox" id="reclamo-3" value="Sin Servicio" onclick="ValidarCheckBox(this);">Sin Servicio<br>
@@ -116,13 +100,6 @@
 				</th>
 				<th>
 					<select id="tecnico" width="150">
-					<!--
-						<option value="German Vader">German</option>
-						<option value="Nicolas Vargas">Nico</option>
-						<option value="Juan Rojas">Juan</option>
-						<option value="Diego Mayan">Diego</option>
-						<option value="Marco Olmos">Marco</option>
-					-->	
 	<?php
 						if ($result2->num_rows > 0) {
 							while($row = $result2->fetch_assoc()) {
@@ -147,8 +124,7 @@
 		<br>
 		<br>
 		<br>
-	<!--<button class="button" onclick="window.location.href='stats3.php'" target="_blank">Estadisticas</button>-->
-	<button class="button" onclick="window.open('stats.php','_blank');" target="_blank">Estadisticas</button>
+	<button class="button" onclick="window.open('stats.php','_blank');" target="_blank">Estadísticas</button>
 	
 <script>
 	function ValidarCheckBox(obj){

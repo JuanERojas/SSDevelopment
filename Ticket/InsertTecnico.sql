@@ -3,4 +3,6 @@
 (NULL,'Diego Mayan',NULL),
 (NULL,'Marco Olmos',NULL),
 (NULL,'Nicolas Vargas',NULL),
-(NULL,'Juan Rojas',NULL);
+(NULL,'Juan Rojas',NULL),
+(NULL,'Mauricio Priotti',NULL),
+(NULL,'Agustin Olmos',NULL);

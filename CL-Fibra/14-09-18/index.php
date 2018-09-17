@@ -36,6 +36,9 @@
     body {
 		font-family: Arial, Helvetica, sans-serif;
 	}
+	div {
+		background:linear-gradient(top, red, gold);
+	}
 	.pointer {
 		cursor: pointer;
 	}
@@ -81,6 +84,7 @@
 </style>
 </head>
 <body bgcolor="B7D590">
+<!--body bgcolor="B7D590"-->
 <div align="center">
 	<h1>SSServicios v0.02</h1>
 	<h2>FO Cargar Clientes<h2>
@@ -147,7 +151,7 @@
 	<hr>
 	<br>
 	<button class="button" onclick="window.location.href='agregarNaps.php'">Cargar NAP</button>
-	
+</div>	
 <script>
 	function cargarNaps(obj) {
 		vaciarInput();

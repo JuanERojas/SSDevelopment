@@ -1,0 +1,3 @@
+﻿INSERT INTO `panel`(`idpanel`, `nombre`, `ip`, `marca`, `frecuencia`, `clientes`, `tiempo`, `nodo`) VALUE (NULL, "FO", "172.31.152.254", "---", 9999, 0, '2018-09-19 00:00:00', 40);
+INSERT INTO `panel`(`idpanel`, `nombre`, `ip`, `marca`, `frecuencia`, `clientes`, `tiempo`, `nodo`) VALUE (NULL, "FO", "172.31.159.254", "---", 9999, 0, '2018-09-19 00:00:00', 40);
+INSERT INTO `panel`(`idpanel`, `nombre`, `ip`, `marca`, `frecuencia`, `clientes`, `tiempo`, `nodo`) VALUE (NULL, "FO", "172.31.163.254", "---", 9999, 0, '2018-09-19 00:00:00', 40);

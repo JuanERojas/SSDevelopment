@@ -53,3 +53,6 @@ UPDATE panel SET nodo=36 WHERE nombre LIKE 'PB%';
 UPDATE panel SET nodo=37 WHERE nombre LIKE 'ESC%';
 UPDATE panel SET nodo=38 WHERE nombre LIKE 'SC%';
 UPDATE panel SET nodo=39 WHERE nombre LIKE '3L%';
+UPDATE panel SET nodo=40 WHERE ip LIKE '172.31.150%';
+UPDATE panel SET nodo=40 WHERE ip LIKE '172.31.156%';
+UPDATE panel SET nodo=40 WHERE ip LIKE '172.31.160%';

@@ -1,20 +1,27 @@
 <html>
 <?php
+	$modif=true;
 	$msj= $_POST['mensaje'];
 	if( strlen($msj) == 0 ) {
-		$msj = "";		
+		$msj = "";
+		$modif=false;
 	}
 	//$msj= $_GET['mensaje'];
 	//echo $msj;
 	
 	//write
-	$archivo = fopen("mensaje.txt", "w") or die("No se pudo abrir el archivo!");
-	fwrite($archivo, $msj);
-	fclose($archivo);
+	if($modif){
+		$archivo = fopen("mensaje.txt", "w") or die("No se pudo abrir el archivo!");
+		fwrite($archivo, $msj);
+		fclose($archivo);
+		header("Location: /prueba/ticket/index.php");
+		die();
+	}	
 	
 	$msj="";
 	//read
-	if ($archivo = fopen('mensaje.txt', 'r')) {
+	//if ($archivo = fopen('mensaje.txt', 'r')) {
+	if ($archivo = fopen('/var/www/html/prueba/ticket/mensaje.txt', 'r')) {
 		while (!feof($archivo)) {
 			$linea = fgets($archivo);
 			$msj= $msj.$linea;
@@ -29,38 +36,12 @@
 		body {
 			font-family: Arial, Helvetica, sans-serif;
 		}
-		.pointer {
-			cursor: pointer;
-		}
-		select {
-			width:170px;
-		}
 		table {
 			border-collapse: collapse;
 		}
 		html *
 		{
 			font-family: sans-serif;
-		}
-		a:link {
-			text-decoration: none;
-		}
-
-		a:visited {
-			text-decoration: none;
-		}
-
-		a:hover {
-			text-decoration: underline;
-		}
-		a:active {
-			text-decoration: underline;
-		}
-		.tes { 
-			color: inherit; 
-		}
-		tr:hover {
-			background-color:#f5f5f5;
 		}
 		hr{
 			border: 0;
@@ -79,18 +60,45 @@
 			box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
 			cursor: pointer;
 		}
+		textarea {
+			resize: none;
+			padding: 10px;
+			border-radius: 8px;
+			border: 1px solid #ddd;
+			padding: 0.5rem;
+			color: #666;
+			box-shadow: inset 0 0 0.25rem #ddd;
+			&:focus {
+				outline: none;
+				border: 1px solid darken(#ddd, 5%);
+				box-shadow: inset 0 0 0.5rem darken(#ddd, 5%);
+			}
+			&[placeholder] { 
+				font-style: italic;
+				font-size: 0.875rem;
+			}
+			outline: none;
+			font-style: italic;
+		}
 	</style>
 </head>
 <body bgcolor="B7D590">
 <div align="center">
+	<br>
+	<br>
+	<hr>
+	<br>
 	<form action="mensaje.php" method="post" id="form1">
 		<textarea name="mensaje" rows="10" cols="50" id="mensaje"><?php echo $msj;?></textarea>
 		<br>
 		<!--input type="button" class="button" id="submit" align="center">Guardar</button-->
-		<input class="button" type="submit" value="Guardar">
+		<input class="button" type="submit" value="Guardar" id="submit">
 	</form>
 </div>
+<br>
+<br>
+<hr>
 <!--div id="result"></div-->
-<!-- script src="mensaje.js"></script-->
+<script src="mensaje.js"></script>
 </body>
 </html>

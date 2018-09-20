@@ -1,0 +1,7 @@
+https://www.c-sharpcorner.com/article/create-web-browser-android-application-using-android-studio/
+
+https://medium.freecodecamp.org/how-to-turn-your-website-into-a-mobile-app-with-7-lines-of-json-631c9c9895f5
+
+https://gonative.io/new
+
+http://www.codebind.com/android-tutorials-and-examples/convert-website-android-application-using-android-studio/

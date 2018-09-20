@@ -37,4 +37,5 @@
 (NULL,"PB"),
 (NULL,"ESC"),
 (NULL,"SC"),
-(NULL,"3L");
+(NULL,"3L"),
+(NULL,"FTTH");

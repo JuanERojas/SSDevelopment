@@ -1,9 +1,10 @@
 $(document).ready(function(){
 		var mensaje;
         $("#submit").click(function() {
-			mensaje = $('#mensaje').text();
+			//mensaje = $('#mensaje').text();
 			//$('#details').html();
-			alert("Error petición ajax");
+			//alert("Mensaje Actualizado");
+			/*
 			$.ajax({
 				type: "POST",
 							url: "mensaje.php",
@@ -24,7 +25,8 @@ $(document).ready(function(){
 								}
 							}
 					});
+			*/
 		//$("#result").empty();
 		//$("#result").append("<p>Reclamo cargado</p>");
-		});		
+		});
 });

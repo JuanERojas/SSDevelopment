@@ -1,0 +1,8 @@
+apktool if appname.apk
+
+apktool d appname.apk
+
+apktool b appname
+
+java -jar signapk.jar certificate.pem key.pk8 appname.apk appname-signed.apk
+

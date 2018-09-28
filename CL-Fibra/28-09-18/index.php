@@ -124,7 +124,7 @@
 			</tr>
 			<tr>
 				<th align="right">
-					Cliente: 
+					Num Cliente: 
 				</th>
 				<th>
 					<INPUT TYPE = "Text" NAME = "codCliente" id="codCliente" width="100">

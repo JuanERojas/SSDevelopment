@@ -138,8 +138,8 @@ $(document).ready(function(){
 						}
 				  });
 				  */
-				$("#codCliente").val("-");
-				$("#nombrePanel").val("-");
+				//$("#codCliente").val("-");
+				//$("#nombrePanel").val("-");
 				$("#result").empty();
 				$("#result").append("<p>Reclamo cargado</p>");
 				//alert("Reclamo cargado");

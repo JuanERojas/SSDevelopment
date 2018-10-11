@@ -41,15 +41,18 @@ function listDevices() //ADD
 
     // Send user to authorize and the time allowed
     $data = json_encode(array(
-        'cmd'=>'list_devices'));
-		// ));
+        //'within'=>intval(8760)));
+		));
 
     // Send the command to the API
-    curl_setopt($ch, CURLOPT_URL, $unifiServer.'/api/s/default/stat/device');
+    curl_setopt($ch, CURLOPT_URL, $unifiServer.'/api/s/default/list/user');
+	
+	
     curl_setopt($ch, CURLOPT_POSTFIELDS, 'json='.$data);
 	curl_setopt($ch, CURLOPT_HTTPHEADER, array('Content-Type: application/json'));
     //curl_exec ($ch);
-	$result = json_decode(curl_exec($ch));
+	//$result = json_decode(curl_exec($ch));
+	$result = json_encode(curl_exec($ch), JSON_PRETTY_PRINT);
 
     // Logout of the UniFi Controller
     curl_setopt($ch, CURLOPT_URL, $unifiServer.'/logout');

@@ -3,7 +3,7 @@
 session_start();
 
 
-function sendAuthorization($id, $minutes)
+function sendAuthorization($id, $minutes)//, $down, $up,) //ADD
 {
     $unifiServer = "https://172.16.2.244:8443";
     $unifiUser = "portal";
@@ -44,6 +44,9 @@ function sendAuthorization($id, $minutes)
         'cmd'=>'authorize-guest',
         'mac'=>$id,
         'minutes'=>$minutes));
+		//,
+		//'down'=>$down,	//ADD
+		//'up'=>$up));	//ADD
 
     // Send the command to the API
     curl_setopt($ch, CURLOPT_URL, $unifiServer.'/api/s/default/cmd/stamgr');
@@ -66,6 +69,7 @@ if ($_SESSION['loggingin'] == "unique key") // Check to see if the form has been
 	ob_start();
         //sendAuthorization($_SESSION['id'], (12*60)); //authorizing user for 12 hours
 		sendAuthorization($_SESSION['id'], 5);
+		//sendAuthorization($_SESSION['id'], 5, );
 	ob_end_clean();
 	unset($_SESSION['loggingin']);
 }

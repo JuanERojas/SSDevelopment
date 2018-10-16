@@ -47,9 +47,9 @@ function sendAuthorization($id, $minutes)
         'cmd'=>'authorize-guest',
         'mac'=>$id,
         'minutes'=>$minutes));
-
+	echo '<br>'.$site.'<br>';
     // Send the command to the API
-    curl_setopt($ch, CURLOPT_URL, $unifiServer.'/api/s/'.$site.'/cmd/stamgr');
+    curl_setopt($ch, CURLOPT_URL, $unifiServer.'/api/s/'.$site.'/cmd/stamgr'); // Api apunta al sitio
     curl_setopt($ch, CURLOPT_POSTFIELDS, 'json='.$data);
 	curl_setopt($ch, CURLOPT_HTTPHEADER, array('Content-Type: application/json'));
     curl_exec ($ch);

@@ -1,0 +1,26 @@
+body {
+	font-size: 1.4em; 
+	font-family:sans-serif;
+}
+
+div.voucher {
+	display:inline-block;
+	margin: 2px;
+	padding: 10px;
+	text-align: center;
+	border: 1px dashed #000;
+}
+
+div.voucher p {
+	margin: 0;
+}
+
+p.valid { 
+	text-decoration:underline; 
+	color: #666666; 
+}
+p.code { 
+	font-weight:bold;
+	padding-top: 10px;
+	font-size:larger;
+}

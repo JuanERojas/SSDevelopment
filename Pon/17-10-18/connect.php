@@ -9,8 +9,8 @@ set_time_limit(0);
  * as it comes in. */
 ob_implicit_flush();
 
-$address = '192.168.1.53';
-$port = 10000;
+$address = '192.168.1.1';
+$port = 23;
 
 if (($sock = socket_create(AF_INET, SOCK_STREAM, SOL_TCP)) === false) {
     echo "socket_create() failed: reason: " . socket_strerror(socket_last_error()) . "\n";

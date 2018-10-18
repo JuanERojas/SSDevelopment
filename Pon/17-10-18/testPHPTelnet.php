@@ -5,10 +5,10 @@ $telnet = new PHPTelnet();
 
 // if the first argument to Connect is blank,
 // PHPTelnet will connect to the local host via 127.0.0.1
-$result = $telnet->Connect('192.168.1.56','cisco','password');
+$result = $telnet->Connect('192.168.1.1','root','s553355');
 
 if ($result == 0) {
-$telnet->DoCommand('reboot', $result);
+$telnet->DoCommand('help', $result);
 // NOTE: $result may contain newlines
 echo $result;
 	// say Disconnect(0); to break the connection without explicitly logging out

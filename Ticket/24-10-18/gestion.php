@@ -26,33 +26,6 @@
 	array_push($Pings,'Antena Cambium');
 	array_push($Pings,'Panel');
 	
-	
-	
-	// ---------- SSH
-	set_include_path(get_include_path() . PATH_SEPARATOR . 'phpseclib');
-	include('phpseclib/Net/SSH2.php');
-
-	
-	$ssh = new Net_SSH2($ipcliente, 222);
-	$ssh2 = new Net_SSH2($ipcliente, 222);
-	
-	if (!$ssh->login('root', 's553355')) {
-		if (!$ssh->login('installer', 's553355')) {
-			exit('Login Failed');
-		}
-	}
-	if (!$ssh2->login('root', 's553355')) {
-		if (!$ssh2->login('installer', 's553355')) {
-			exit('Login Failed');
-		}
-	}
-	$strin='';
-	function packet_handler($str)
-	{
-		echo $strin.$str.'<br>';
-	}
-//	
-//	$ssh2->exec('ping 8.8.8.8', 'packet_handler');
 ?>
 <head>
 	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
@@ -103,6 +76,11 @@
 	<br>
 	<br>
 	<br>
+	<button onclick="pings();" value="Ping">Ping</button>
+	<div id="pg"></div>
+	<div id="pg2"></div>
+	<br>
+	<br>
 	<table border="2" bgcolor="FFFFFF">
 		<tr bgcolor="CFCFCF">
 			<th width="250" align="left">Dirección</th>
@@ -118,19 +96,21 @@
 		</tbody>
 	</table>
 	<br>
-	<br>
-	<button onclick="pings();" value="Ping"/>
-	<div id="pg">
-	</div>
+	
 </div>
 <script>
 	function pings(){
-		req = new XMLHttpRequest();
-		req.open('GET', 'testPings.php?ip='+<?php echo $ipcliente;?>, false);
-		req.send(null);
-		var domElement = document.getElementById('pg');
-		
-		domElement.innerHTML = req.responseText;
+		document.getElementById("pg2").innerHTML="<img src='ajax-loader.gif' />";
+		setTimeout(function(){
+			req = new XMLHttpRequest();
+			req.open('GET', 'testPings.php?ip=<?php echo $ipcliente;?>', false);
+			req.send(null);
+			var domElement = document.getElementById('pg');
+			domElement.innerHTML = req.responseText;			
+		}, 1000);
+		setTimeout(function(){
+			document.getElementById("pg2").innerHTML=" ";
+		}, 7000);
 	}
 	
 	//PING

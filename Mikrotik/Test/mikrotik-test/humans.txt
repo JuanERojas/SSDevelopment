@@ -1,0 +1,17 @@
+/* TEAM */
+	
+	UI developer: Nicolas Daitsch
+	Site: www.tech-nico.com/blog
+	Twitter: @nicolpo
+	From: Guatrache, La Pampa, Argentina
+
+/* THANKS */
+
+	HTML5 Boilerplate initializr.com		
+
+/* SITE */
+	Last update:2013/04/04
+	Language: Español
+	Doctype:HTML5
+	IDE: Dreamweaver CS6 (HTML5, CSS3, Jquery)
+	Description: Armar tus propios scripts en PHP con el API de Mikrotik de manera facil.

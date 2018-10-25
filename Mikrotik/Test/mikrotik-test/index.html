@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title></title>
+        <meta name="description" content="test api mikrotik">
+        <meta name="viewport" content="width=device-width">
+
+        <link rel="stylesheet" href="css/normalize.min.css">
+        <link rel="stylesheet" href="css/main.css">
+
+        <script src="js/vendor/modernizr-2.6.2-respond-1.1.0.min.js"></script>
+                     
+    </head>
+    <body>
+        <!--[if lt IE 7]>
+            <p class="chromeframe">Estas usando una version <strong>desactualizada</strong> del navegador. Por favor <a href="http://browsehappy.com/">actualizalo</a> o <a href="http://www.google.com/chromeframe/?redirect=true">o habilite Google chrome Frame</a> para mejorar su experiencia.</p>
+        <![endif]-->
+
+        <div class="header-container">
+            <header class="wrapper clearfix">
+                <h1 class="title">Mkt API Hotspot Test</h1>
+                <nav>
+                    <ul>
+                        <li><a href="#" id="call_bindings">ip binding</a></li>
+                        <li><a href="#">agregar</a></li>
+                        <li><a href="#">cortar</a></li>
+                    </ul>
+                </nav>
+            </header>
+        </div>
+
+        <div class="main-container">
+            <div class="main wrapper clearfix">
+
+                <article>
+                  <section>
+                    <h3>Ip-Binding</h3>
+                    <div id="bar_buttons">
+					 <ul>
+                    	<li id="btn_add" title="Agregar">&nbsp;</li>
+                        <li id="btn_del" title="Eliminar">&nbsp;</li>
+                        <li id="btn_ena" title="Activar">&nbsp;</li>
+                        <li id="btn_dis" title="Desactivar">&nbsp;</li>
+                      </ul>
+                      <div id="ajax_botones"></div>  
+                    </div>
+                    <input type="hidden" id="idh" name="idh" value="" />
+                    
+                  	<div id="div_bindings"></div>
+                   
+                  </section>
+
+                </article>
+
+                <aside>
+                    <h3>API MIKROTIK</h3>
+                    <p>Esto es un ejemplo de lo que se puede hacer con el API de MIKROTIK. Esta hecho en HTML5 y CSS3 para que sea accesible desde cualquier navegador y cualquier dispositio movil. <br>
+                      <br>
+                    Requerimiento: manejar los IP BIndings del Hotspot: Listar, agregar y habilitar o deshabilitar un registro.</p>
+                </aside>
+
+            </div> <!-- #main -->
+        </div> <!-- #main-container -->
+
+        <div class="footer-container">
+            <footer class="wrapper">
+                <h3>Creado por: tech-nico.com | Abril 2013</h3>
+            </footer>
+        </div>
+
+
+
+
+
+        <script src="js/vendor/jquery-1.9.1.js"></script>
+		<script src="js/vendor/jquery-ui-1.10.2.custom.min.js"></script>
+        <script src="js/main.js"></script>
+        <script>
+           $.ajaxSetup ({  
+				cache: false  
+			});
+			
+			// cargo la lista de ip-bindings
+			var ajax_load = "<img src='img/indicator_white_small' alt='loading...' />";  
+			var loadUrl = "api/hotspot_ip-binding-all.php";  
+			$("#call_bindings").click(function(){  
+				$("#div_bindings").html(ajax_load).load(loadUrl);  
+			}); 
+			$("#div_bindings").html(ajax_load).load(loadUrl);
+			
+			// pinta el registro seleccionado y despinta el resto
+			$("div").on("click", ".div_row_repeat", function() {
+				$('.highlight').removeClass('highlight');
+				var id = this.id;
+				$(".tabla div.div_row_repeat").children().each(function(index , Elem) {
+					if($(Elem).parent().attr('id')==id){ 
+						$(Elem).addClass('highlight');
+						$('input[name=idh]').val(id); 
+					}
+				});
+			});
+			
+			$("#btn_add").click(function(){
+				
+			});
+			
+			$("#btn_del").click(function(){
+				id=$('input[name=idh]').val(); // id seleccionado
+				if(id!=""){ //si hay algun registro seleccionado				
+					var loadUrl = "api/hotspot_general.php?ac=delete&id="+id; // paso parametro accion e id
+					$("#ajax_botones").html(ajax_load).load(loadUrl); // ejecuto
+					setTimeout(function(){ // refresco ip-bindings dentro de 2 segundos
+					  $("#div_bindings").html(ajax_load).load("api/hotspot_ip-binding-all.php");
+					}, 2000);
+					$('input[name=idh]').val(""); //blanqueo la seleccion
+				}
+			});
+			
+			$("#btn_ena").click(function(){
+				id=$('input[name=idh]').val(); // id seleccionado
+				if(id!=""){ //si hay algun registro seleccionado
+					var loadUrl = "api/hotspot_general.php?ac=enable&id="+id; // paso parametro accion e id
+					$("#ajax_botones").html(ajax_load).load(loadUrl); // ejecuto
+					setTimeout(function(){ // refresco ip-bindings dentro de 2 segundos
+					  $("#div_bindings").html(ajax_load).load("api/hotspot_ip-binding-all.php");
+					}, 2000);
+					$('input[name=idh]').val(""); //blanqueo la seleccion
+				}
+			});
+			
+			$("#btn_dis").click(function(){
+				id=$('input[name=idh]').val(); // id seleccionado
+				if(id!=""){ //si hay algun registro seleccionado				
+					var loadUrl = "api/hotspot_general.php?ac=disable&id="+id; // paso parametro accion e id
+					$("#ajax_botones").html(ajax_load).load(loadUrl); // ejecuto
+					setTimeout(function(){ // refresco ip-bindings dentro de 2 segundos
+					  $("#div_bindings").html(ajax_load).load("api/hotspot_ip-binding-all.php");
+					}, 2000);
+					$('input[name=idh]').val(""); //blanqueo la seleccion
+				}
+			});
+			
+        </script>
+
+    </body>
+</html>

@@ -1,0 +1,7 @@
+mikrotik api
+php, python
+cargar ip fijo
+
+ubiquiti
+ubnt api
+ver señal, ruido, etc.

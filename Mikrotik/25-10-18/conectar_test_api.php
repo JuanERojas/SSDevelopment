@@ -1,9 +1,9 @@
 <?php require_once('api_mt_include2.php'); ?>
 <?php
-$ipRouteros="";  	// tu RouterOS.
-$Username="";		// Usuario
-$Pass=""; 			// Pass
-$api_puerto=; 		// Port
+$ipRouteros="10.11.11.1";  	// tu RouterOS.
+$Username="ro.api";	// Usuario
+$Pass="Roapi2018"; 			// Pass
+$api_puerto=8728; 				// Port
 
 $API = new routeros_api();
 $API->debug = false;

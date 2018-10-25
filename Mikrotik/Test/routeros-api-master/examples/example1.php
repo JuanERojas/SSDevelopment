@@ -6,7 +6,7 @@ $API = new RouterosAPI();
 
 $API->debug = true;
 
-if ($API->connect('111.111.111.111', 'LOGIN', 'PASSWORD')) {
+if ($API->connect('10.11.11.1', 'ro.api', 'Roapi2018')) {
 
    $API->write('/interface/getall');
 

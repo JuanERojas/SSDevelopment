@@ -5,3 +5,9 @@ cargar ip fijo
 ubiquiti
 ubnt api
 ver señal, ruido, etc.
+
+Cargar IP FIJO:
+	ABM IP de cliente
+	Consultar si esta activo
+	First match -> Asignar
+	3 cmd.

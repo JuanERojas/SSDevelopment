@@ -1,0 +1,29 @@
+/ip firewall nat add 
+action=src-nat 
+chain=srcnat 
+comment="NAT 1:1 ARO ALVARO ANTONIO (582)" 
+out-interface=LACP-BGP 
+src-address=172.16.130.151 
+to-addresses=138.118.213.177 
+place-before=[find comment="wbcore"]; 
+
+/ip firewall nat add 
+action=dst-nat 
+chain=dstnat 
+comment="NAT 1:1 ARO ALVARO ANTONIO (582)" 
+dst-address=138.118.213.177 
+in-interface=LACP-BGP 
+to-addresses=172.16.130.151 
+place-before=[find comment="wbcore"]; 
+
+/ip address set [find address="138.118.213.177/32"] 
+comment="ARO ALVARO ANTONIO (582)"
+
+
+$API->comm("/ppp/secret/add", array(
+          "name"     => "user",
+          "password" => "pass",
+          "remote-address" => "172.16.1.10",
+          "comment"  => "{new VPN user}",
+          "service"  => "pptp",
+));

@@ -95,6 +95,11 @@
 		<hr>
 		<br>
 		<button class="button" onclick="window.open('buscar.php','_blank');" align="center">Buscar</button>
+		<br>
+		<br>
+		<hr>
+		<br>
+		<button class="button" onclick="window.open('verIPlibres.php','_blank');" align="center">Contar IPs</button>
 	<br>
 	<script  src="insert.js"></script>
 	

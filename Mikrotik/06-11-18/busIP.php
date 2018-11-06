@@ -18,22 +18,20 @@ if( strlen($_POST['b3'].'') != 0 ) {
 //header('Content-Type: text/plain');
 require('routeros_api.class.php');
 
-if(!(strlen(strstr(strtolower($nombre), strtolower($busNom.''))) > 0)){
-						$mostrar=false;
-					}
 
+if ($archivo = fopen('cred.sss', 'r')) {
+		while (!feof($archivo)) {
+			$linea = fgets($archivo);
+			$msj= $msj.$linea;
+		}	
+	}
+fclose($archivo);
+$credenciales = explode(';', $msj);
+$ipRouteros=$credenciales[0];  		// tu RouterOS.
+$Username=$credenciales[1];			// Usuario
+$Pass=$credenciales[2]; 			// Pass
+$api_puerto=$credenciales[3]; 		// Port
 
-$ipRouteros="10.11.11.1";  	// tu RouterOS.
-$Username="ro.api";			// Usuario
-$Pass="Roapi2018"; 			// Pass
-$api_puerto=8728; 			// Port
-
-/*
-$ipRouteros="10.20.22.254";  	// tu RouterOS.
-$Username="admin";				// Usuario
-$Pass=""; 						// Pass
-$api_puerto=8729; 				// Port
-*/
 
 $API = new RouterosAPI();
 //$API->debug = true;
@@ -177,6 +175,11 @@ if ($API->connect($ipRouteros , $Username , $Pass, $api_puerto)) {
 		?>
 		</table>
 		<br>
+		<br>
+		<br>
+		<hr>
+		<br>
+		<button class="button" onclick="document.location.href='index.php';" align="center">Atras</button>
 	<br>
 </div>	
 <script></script>

@@ -36,10 +36,30 @@
 		}
 	}
 	function packet_handler($str){
-		$result = explode(",", $str);
-		foreach($result as $r) {
-			echo $r.'<br>';
+		
+		$result1 = explode(',', $str);
+		//echo $result2[0];
+		/*
+		foreach($result1 as $r) {
+			echo '<br>'.$r;
 		}
+		*/
+		//echo $result1[4].'<br><br>';
+		
+		//echo strstr($result1[4], 'apMac');
+		
+		echo strstr($str, 'apMac');
+		echo '<br><br>'.strstr($str, 'apMac', true);
+		
+		/*$first=true;
+		foreach($result2 as $r) {
+			if($first){
+				$first=false;
+			}else{
+				echo $r.'<br>';
+			}
+		}
+		*/
 	}
 ?>
 <head>

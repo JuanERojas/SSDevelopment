@@ -1,0 +1,17 @@
+Detectar Tipo de antena
+	Por panel - IP Cliente
+AP
+	Por panel - IP Cliente
+Offline: ping a 172.AA.BB.254 para detectar inconveniente en el panel.
+	Ping en php al Panel
+Version
+	
+Signal
+Distance
+Uptime
+Downlink
+Uplink
+LAN
+LAN Speed
+VLAN
+DMZ

@@ -97,8 +97,8 @@
 	}
 	
 	function cat_tmp_system($str){
-		
-		echo '<br><br>DMZ:<br>';
+		//echo '<br><br>'.$str;
+		//echo '<br><br>DMZ:<br>';
 		//iptables.sys.dmz.1.except.status -->iptables.sys.dmz.1.host
 		$cmdyIzq = strstr($str, 'iptables.sys.dmz.1.host', true);
 		$cmd= substr($cmdyIzq." ",strlen( ( strstr($cmdyIzq, 'iptables.sys.dmz.1.except.status', true) ).'' ),-1);
@@ -121,7 +121,7 @@
 			echo '<br><br>MCA-Status<br>';
 			$ssh->exec('mca-status', 'mca_status');
 			
-			echo '<br><br>cat /tmp/system.cfg<br>';ptables.sys.dmz.1.host
+			echo '<br><br>cat /tmp/system.cfg<br>';
 			$ssh->exec('cat /tmp/system.cfg', 'cat_tmp_system');
 		?>
 </div>

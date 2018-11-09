@@ -1,17 +1,44 @@
+IP Antena:
+Community: public
+
 Detectar Tipo de antena
 	Por panel - IP Cliente
+	
 AP
 	Por panel - IP Cliente
+	
 Offline: ping a 172.AA.BB.254 para detectar inconveniente en el panel.
 	Ping en php al Panel
+
 Version
+	Cm: .1.3.6.1.4.1.17713.21.1.1.1.0 (cambiumCurrentSWInfo.0;)
+	AC/nano:
 	
 Signal
+	Cm: .1.3.6.1.4.1.17713.21.1.2.3.0 (Señal)
+
 Distance
+	Cm: .1.3.6.1.4.1.17713.21.1.2.12.0 (Distancia en Km)
+
 Uptime
+	Cm: .1.3.6.1.4.1.17713.21.1.1.4.0 (Uptime)
+
 Downlink
+	Cm: .1.3.6.1.4.1.17713.21.1.2.7.0 (MCS Downlink)
+
 Uplink
+	Cm: .1.3.6.1.4.1.17713.21.1.2.6.0 (MCS Uplink)
+
 LAN
+	Cm: .1.3.6.1.4.1.17713.21.1.4.1.0 (Router conectado)
+	
 LAN Speed
+	Cm: .1.3.6.1.4.1.17713.21.1.4.12.0 (Lan Speed)
+
 VLAN
+	Cm: .1.3.6.1.4.1.17713.21.1.4.26.0 (Vlan)
+	Cm: .1.3.6.1.4.1.17713.21.1.4.28.0 (Vlan Gateway)
+	
 DMZ
+	CM: .1.3.6.1.4.1.17713.21.3.12.2.0 (IP DMZ)
+	.1.3.6.1.4.1.17713.21.3.12.2.0 (DMZ Enable)

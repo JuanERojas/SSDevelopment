@@ -1,0 +1,86 @@
+<?xml version="1.0"?>
+<SnmpSimulatorData>
+<Instances
+>
+<!-- cambiumLANStatus.0 -->
+<Instance
+name="cambiumLANStatus.0"
+oid=".1.3.6.1.4.1.17713.21.1.4.1.0"
+valueType="Integer"
+>
+<Value><![CDATA[1]]></Value>
+</Instance>
+<!-- cambiumLANSpeedStatus.0 -->
+<Instance
+name="cambiumLANSpeedStatus.0"
+oid=".1.3.6.1.4.1.17713.21.1.4.12.0"
+valueType="Integer"
+>
+<Value><![CDATA[100]]></Value>
+</Instance>
+<!-- cambiumCurrentSWInfo.0 -->
+<Instance
+name="cambiumCurrentSWInfo.0"
+oid=".1.3.6.1.4.1.17713.21.1.1.1.0"
+valueType="OctetString"
+>
+<Value><![CDATA[3.4.1]]></Value>
+</Instance>
+<!-- cambiumSTADLRSSI.0 -->
+<Instance
+name="cambiumSTADLRSSI.0"
+oid=".1.3.6.1.4.1.17713.21.1.2.3.0"
+valueType="Integer"
+>
+<Value><![CDATA[-33]]></Value>
+</Instance>
+<!-- cambiumSystemUptime.0 -->
+<Instance
+name="cambiumSystemUptime.0"
+oid=".1.3.6.1.4.1.17713.21.1.1.4.0"
+valueType="OctetString"
+>
+<Value><![CDATA[0003:21:33:08]]></Value>
+</Instance>
+<!-- cambiumSTADownlinkMCSMode.0 -->
+<Instance
+name="cambiumSTADownlinkMCSMode.0"
+oid=".1.3.6.1.4.1.17713.21.1.2.7.0"
+valueType="Integer"
+>
+<Value><![CDATA[15]]></Value>
+</Instance>
+<!-- cambiumSTAUplinkMCSMode.0 -->
+<Instance
+name="cambiumSTAUplinkMCSMode.0"
+oid=".1.3.6.1.4.1.17713.21.1.2.6.0"
+valueType="Integer"
+>
+<Value><![CDATA[11]]></Value>
+</Instance>
+<!-- mgmtIFEnable.0 -->
+<Instance
+name="mgmtIFEnable.0"
+oid=".1.3.6.1.4.1.17713.21.3.4.20.1.0"
+valueType="Integer"
+>
+<Value><![CDATA[1]]></Value>
+</Instance>
+<!-- dmzEnable.0 -->
+<Instance
+name="dmzEnable.0"
+oid=".1.3.6.1.4.1.17713.21.3.12.1.0"
+valueType="Integer"
+>
+<Value><![CDATA[1]]></Value>
+</Instance>
+<!-- cambiumSTADistanceKm.0 -->
+<Instance
+name="cambiumSTADistanceKm.0"
+oid=".1.3.6.1.4.1.17713.21.1.2.12.0"
+valueType="OctetString"
+>
+<Value><![CDATA[0.599]]></Value>
+</Instance>
+</Instances>
+</SnmpSimulatorData>

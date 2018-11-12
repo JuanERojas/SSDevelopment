@@ -98,10 +98,16 @@
 	
 	function cat_tmp_system($str){
 		//echo '<br><br>'.$str;
+		//echo '<br><br>';
 		//echo '<br><br>DMZ:<br>';
 		//iptables.sys.dmz.1.except.status -->iptables.sys.dmz.1.host
 		$cmdyIzq = strstr($str, 'iptables.sys.dmz.1.host', true);
 		$cmd= substr($cmdyIzq." ",strlen( ( strstr($cmdyIzq, 'iptables.sys.dmz.1.except.status', true) ).'' ),-1);
+		echo '<br>'.$cmd; 
+		
+		//iptables.sys.dmz.1.host -->iptables.sys.dmz.1.status
+		$cmdyIzq = strstr($str, 'iptables.sys.dmz.1.status', true);
+		$cmd= substr($cmdyIzq." ",strlen( ( strstr($cmdyIzq, 'iptables.sys.dmz.1.host', true) ).'' ),-1);
 		echo '<br>'.$cmd;
 	}	
 ?>

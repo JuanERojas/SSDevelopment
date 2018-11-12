@@ -66,8 +66,8 @@
 		echo $cmd;
 		
 		echo '<br><br>UpTime:<br>';
-		//uptime -->loadavg
-		$cmdyIzq = strstr($str, 'loadavg', true);
+		//uptime -->cpuUsage
+		$cmdyIzq = strstr($str, 'cpuUsage', true);
 		$cmd= substr($cmdyIzq." ",strlen( ( strstr($cmdyIzq, 'uptime', true) ).'' ),-1);
 		echo $cmd;
 		
@@ -98,12 +98,22 @@
 	
 	function cat_tmp_system($str){
 		//echo '<br><br>'.$str;
+		//echo '<br><br>';
 		//echo '<br><br>DMZ:<br>';
 		//iptables.sys.dmz.1.except.status -->iptables.sys.dmz.1.host
 		$cmdyIzq = strstr($str, 'iptables.sys.dmz.1.host', true);
 		$cmd= substr($cmdyIzq." ",strlen( ( strstr($cmdyIzq, 'iptables.sys.dmz.1.except.status', true) ).'' ),-1);
+		echo '<br>'.$cmd; 
+		
+		//iptables.sys.dmz.1.host -->iptables.sys.dmz.1.status
+		$cmdyIzq = strstr($str, 'iptables.sys.dmz.1.status', true);
+		$cmd= substr($cmdyIzq." ",strlen( ( strstr($cmdyIzq, 'iptables.sys.dmz.1.host', true) ).'' ),-1);
 		echo '<br>'.$cmd;
 	}	
+	
+	function impr($str){
+		echo '<br>'.$str;
+	}
 ?>
 <head>
 	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
@@ -123,6 +133,9 @@
 			
 			echo '<br><br>DMZ<br>';
 			$ssh->exec('cat /tmp/system.cfg', 'cat_tmp_system');
+			
+			echo '<br><br>TEST<br>';
+			$ssh->exec('mca-status', 'impr');
 		?>
 </div>
 <script></script>

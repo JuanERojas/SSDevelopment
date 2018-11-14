@@ -296,7 +296,7 @@ function ping2(){
 		document.getElementById("pg2").innerHTML="<img src='ajax-loader.gif' />";
 		setTimeout(function(){
 			req = new XMLHttpRequest();
-			req.open('GET', 'pingRouter.php?ip=<?php echo $ipcliente;?>', false);
+			req.open('GET', 'test08.php?ip=<?php echo $ipcliente;?>', false);
 			req.send(null);
 			var domElement = document.getElementById('pg');
 			domElement.innerHTML = req.responseText;			

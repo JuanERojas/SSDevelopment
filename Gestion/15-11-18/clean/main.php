@@ -472,7 +472,7 @@
 		<div id="speedTest"></div>		
 	<?php
 			}else{
-				//datos_cambium($ipclienteCm);
+				datos_cambium($ipclienteCm);
 		?>			
 		<br>
 		<button onclick="pingsCm();" class="button" >Pings</button>
@@ -520,8 +520,12 @@ function pings(){
 		domElement.innerHTML = '<iframe src="pingRouterU.php?ip=<?php echo $ipcliente;?>" height="200" width="500"></iframe>';
 }
 function speedTest(){
-		var domElement = document.getElementById('speedTest');
+		//var domElement = document.getElementById('speedTest');
 		//domElement.innerHTML = '<iframe src="pingRouterU.php?ip=<?php echo $ipcliente;?>" height="200" width="500"></iframe>';
+		document.getElementById("gif2").innerHTML="<img src='travolta.gif' />";
+		setTimeout(function(){
+			document.getElementById("gif2").innerHTML=" ";
+		}, 5000);
 }
 
 function pingsCm(){

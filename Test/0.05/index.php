@@ -1,7 +1,6 @@
 
 <html>
 <?php
-//https://stackoverflow.com/questions/6275535/php-error-php-network-getaddresses-getaddrinfo-failed-while-getting-informat
 	$order = $_POST['orden'].'';
 	
 	$servername = "db.sslocal";
@@ -65,92 +64,81 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
-	body {
-		font-family: Arial, Helvetica, sans-serif;
-	}
-	.pointer {
-		cursor: pointer;
-	}
-	/* The Modal (background) */
-	.modal {
-		display: none; /* Hidden by default */
-		position: fixed; */ /* Stay in place */
-		z-index: 1; /* Sit on top */
-		padding-top: 100px; /* Location of the box */
-		 left: 0; 
-		 top: 0; 
-		width: 100%; /* Full width */
-		height: 100%; /* Full height */
-		overflow: auto; /* Enable scroll if needed */
-		background-color: rgb(0,0,0); /* Fallback color */
-		background-color: rgba(0,0,0,0.7); /* Black w/ opacity */
-	}
+body {font-family: Arial, Helvetica, sans-serif;}
+.pointer {cursor: pointer;}
+/* The Modal (background) */
+.modal {
+    display: none; /* Hidden by default */
+    position: fixed; */ /* Stay in place */
+    z-index: 1; /* Sit on top */
+    padding-top: 100px; /* Location of the box */
+     left: 0; 
+     top: 0; 
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.7); /* Black w/ opacity */
+}
 
-	/* Modal Content */
-	.modal-content {
-		background-color: #fefefe;
-		margin: auto;
-		padding: 20px;
-		border: 2px solid #888;
-		width: 80%;
-	}
+/* Modal Content */
+.modal-content {
+    background-color: #fefefe;
+    margin: auto;
+    padding: 20px;
+    border: 2px solid #888;
+    width: 80%;
+}
 
-	/* The Close Button */
-	.close {
-		color: #aaaaaa;
-		float: right;
-		font-size: 28px;
-		font-weight: bold;
-	}
+/* The Close Button */
+.close {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
 
-	.close:hover,
-	.close:focus {
-		color: #000;
-		text-decoration: none;
-		cursor: pointer;
-	}
-	table {
-		border-collapse: collapse;
-	}
-	html *
-	{
-		font-family: sans-serif;
-	}
-	.button {
-		background-color: #4CAF50; /* Green */
-		border: none;
-		color: white;
-		padding: 10px 32px;
-		text-align: center;
-		text-decoration: none;
-		display: inline-block;
-		font-size: 16px;
-		box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
-		cursor: pointer;
-	}
-	a:link {
-		text-decoration: none;
-	}
+.close:hover,
+.close:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+table {
+    border-collapse: collapse;
+}
+html *
+{
+    font-family: sans-serif;
+}
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 10px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+	cursor: pointer;
+}
+a:link {
+    text-decoration: none;
+}
 
-	a:visited {
-		text-decoration: none;
-	}
+a:visited {
+    text-decoration: none;
+}
 
-	a:hover {
-		text-decoration: underline;
-	}
-	a:active {
-		text-decoration: underline;
-	}
-	tr:hover {
-		background-color:#f5f5f5;
-	}
-	.linea {
-		background-color:transparent;
-	}	
-	.linea:hover {
-		background-color:transparent;
-	}
+a:hover {
+    text-decoration: underline;
+}
+
+a:active {
+    text-decoration: underline;
+}
+tr:hover {background-color:#f5f5f5;}
 </style>
 <body bgcolor="B7D590">
 <div align="center">
@@ -160,7 +148,7 @@
 	<br>
 	<form action="index.php" method="post" id="form1">
 		<table>
-			<tr class="linea">
+			<tr>
 				<th align="right">
 					SSID: 
 				</th>
@@ -168,7 +156,7 @@
 					<INPUT TYPE = "Text" VALUE ="<?php echo $busNom; ?>" NAME = "NomBus">
 				</th>
 			</tr>
-			<tr class="linea">
+			<tr>
 				<th align="right">
 					IP: 
 				</th>
@@ -176,7 +164,7 @@
 					<INPUT TYPE = "Text" VALUE ="<?php echo $busIP; ?>" NAME = "IPBus">
 				</th>
 			</tr>
-			<tr class="linea">
+			<tr>
 				<th align="right">
 					Freq: 
 				</th>
@@ -186,14 +174,14 @@
 			</tr>
 		</table>
 		<table>
-			<tr  class="linea">
+			<tr>
 				<th>
 					SMs:
 				</th>
 			</tr>
 		</table>
 		<table>
-			<tr  class="linea">
+			<tr>
 				<th>
 					Between 
 				</th>

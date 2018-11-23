@@ -1,0 +1,100 @@
+body{
+  font-family: 'Amatic SC', cursive;
+  color:#444444;
+  font-weight:700;
+}
+.folder,.folder:after,.folder:before{
+    cursor:pointer;
+}
+.folder{  
+  margin: 50px 100px;
+  width : 300px;
+  height: 200px;
+  position: relative;
+  padding:3px;
+  display:inline-block;
+  background-color: lightgrey;
+  transform-origin: 150px 200px;
+  transform: skew(0deg) ;
+  z-index:0;
+  border-radius:  0 20px 20px 20px;
+
+}
+.folder:after{
+  content:'';
+  width: 300px;
+  height: 200px;
+  background-color: #EAEA61;
+  -webkit-box-shadow: inset -200px -200px 0px -188px rgba(56,232,12,1), 
+                      0px 1px 3px 1px rgba(0,0,0,0.6);
+  -moz-box-shadow: inset -200px -200px 0px -188px rgba(56,232,12,1), 
+                    0px 1px 3px 1px rgba(0,0,0,0.6);
+  box-shadow: inset -200px -200px 0px -188px rgba(56,232,12,1), 
+              0px 1px 3px 1px rgba(0,0,0,0.6);
+  border-radius:  0 20px 20px 20px;
+  position: absolute;
+  transform: skew(0deg) scaleX(1.1) scaleY(1.1);
+  top:6px;
+
+}
+.folder:before{
+  content: "";
+  font-size:16px;
+  box-sizing: content-box;
+  top:-25px;
+  left:-50px;
+  height: 15px;
+  padding:3px 25px 10px 15px;
+  background-color: #EAEA61;
+  position: absolute;
+  z-index:1;
+  border-radius:  5px 5px 0px 0px;
+  left:-12px;
+  transform: skew(0deg);
+}
+.folder:hover{
+    animation : anim_folder 0.3s  alternate forwards;
+}
+.folder:hover:before{
+    animation : anim_title 0.3s  alternate forwards;
+}
+.folder:hover:after{
+    animation : anim_front 0.3s  alternate forwards;
+}
+
+.folder:first-child:before{
+  content:"Music";
+}
+.folder:before{
+  content:"Pictures";
+}
+.folder:last-child:before{
+  content:"Video";
+}
+@keyframes anim_front{
+  from{transform: skew(0deg) scaleX(1.1) scaleY(1.1);  left:0px;
+    -webkit-box-shadow: inset -200px -200px 0px -188px rgba(56,232,12,1), 
+                      0px 1px 3px 1px rgba(0,0,0,0.6);
+  -moz-box-shadow: inset -200px -200px 0px -188px rgba(56,232,12,1), 
+                    0px 1px 3px 1px rgba(0,0,0,0.6);
+  box-shadow: inset -200px -200px 0px -188px rgba(56,232,12,1), 
+              0px 1px 3px 1px rgba(0,0,0,0.6);
+  
+  }
+  to{transform: skew(7deg) scaleX(1.1) scaleY(1.1);  left:-23px;
+    -webkit-box-shadow: inset -200px -200px 0px -188px rgba(56,232,12,1), 
+                      0px 1px 3px 1px rgba(0,0,0,0.3);
+  -moz-box-shadow: inset -200px -200px 0px -188px rgba(56,232,12,1), 
+                    0px 1px 3px 1px rgba(0,0,0,0.3);
+  box-shadow: inset -200px -200px 0px -188px rgba(56,232,12,1), 
+              0px 1px 3px 1px rgba(0,0,0,0.3);
+  
+  }}
+
+@keyframes anim_folder{
+  from{transform: skew(0deg) ; }
+  to{transform: skew(-3deg) translateY(-10px);}}
+
+@keyframes anim_title{
+  from{ left:-12px;transform: skew(0deg);}
+  to{  left:-51px;transform: skew(3deg);}}

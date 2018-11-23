@@ -1,0 +1,3 @@
+23-11-18
+	Unificar cortes prolongados y micropcortes.
+	Exportar tabla de estadisticas.

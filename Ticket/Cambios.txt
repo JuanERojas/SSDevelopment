@@ -1,3 +1,8 @@
 23-11-18
 	Unificar cortes prolongados y micropcortes.
 	Exportar tabla de estadisticas.
+
+25-11-18
+	Estadistica por tecnico
+	Buscador de cliente
+	Estadistica por Nodo (no panel) --> Verificar para FO

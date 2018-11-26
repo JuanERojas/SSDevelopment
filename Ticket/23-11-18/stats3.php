@@ -461,9 +461,8 @@ function descargar(){
 	fclose($fp);
 
 	header("Location: $FileName");
-	echo "Complete Record saves as CSV in file: <b style=\"color:red;\">$FileName</b>";
-
 ?>
+	alert("TEST");
 	}
 </script>
 </body>

@@ -56,12 +56,12 @@
 			$problema= $row["problema"];
 			$numcliente= $row["numcliente"];
 			$timest= $row["time"];
-			
+			/*
 			$time = strtotime($timest);
 			$timezone  = -3; //(GMT -3:00) 
 			$tiempo = gmdate("Y/m/j H:i:s", time() + 3600*($timezone));
 			$curtime = strtotime($tiempo);
-			
+			*/
 			array_push($registros,array($idreclamo, $tecnico, $nodo, $problema, $numcliente, $timest));
 		}
 	}
@@ -87,7 +87,17 @@
 	$sql = "SELECT numcliente AS cliente, COUNT(*) AS cant FROM reclamo r WHERE `time` between '".$date." 00:00:00' and '".$date2." 23:59:59' GROUP BY numcliente ORDER BY cant DESC LIMIT 15;";
 	$result4 = $conn->query($sql);
 	
+	//Sacar Caractér Bug que rompe todo (Para generar CSV)
+	$sql = "SELECT nombre FROM tecnico t WHERE nombre LIKE 'Juan%' LIMIT 1;";
+	$result7 = $conn->query($sql);
+	while($row = $result7->fetch_assoc()) {
+		$nomb= $row["nombre"];
+	}
+	$bug= substr($nomb." ",4,1);
+	
+	
 	$conn->close();
+	
 ?>
 <head>
 	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
@@ -263,7 +273,15 @@ $cont=0;
 	?>
 		
 	</table>
+	<br>
+	<br>
+	<hr>
 	
+	<br>
+	<div align="center">
+		<button class="button" onclick="descargar();" align="right">Descargar</button>
+	</div>
+	<br>
 	<!-- DIV -->
 	<br>
 	<hr>
@@ -440,7 +458,32 @@ $cont=0;
 	</table>
 	<br>
 	<br>
-<script></script>
+<script>
+function descargar(){
+<?php
+	$currDate = date('Y-m-d');
+	$FileName = 'Estadisticas-'.$currDate.'.csv';
+	$fp = fopen($FileName, 'w');
+	fputcsv($fp, array('Estadisticas;'.$date.'-'.$date2));
+	fputcsv($fp, array('Tecnico;Panel;Reclamo;Cliente;Hora'));
+	foreach($registros as $r) {
+		$tecnicoCSV = str_replace($bug, "-", $r[1]);
+		$reclamoCSV = str_replace($bug, "_", $r[3]);
+		$horaCSV = str_replace($bug, "_", $r[5]);
+		$str=$tecnicoCSV.';'.$r[2].';'.$reclamoCSV.';'.$r[4].';'.$horaCSV;
+		$aux= array($str);
+		fputcsv($fp, $aux);
+	} 
+	fclose($fp);
+
+	header("Location: $FileName");
+?>
+	
+	//setTimeout("location.href='<?php echo $FileName;?>'",100);
+	window.open('<?php echo $FileName;?>', '_blank');
+	
+}
+</script>
 </body>
 </html>
 

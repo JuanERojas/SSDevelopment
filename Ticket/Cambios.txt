@@ -1,8 +1,15 @@
 23-11-18
-	Unificar cortes prolongados y micropcortes.
-	Exportar tabla de estadisticas.
+V	Unificar cortes prolongados y micropcortes.
+V	Exportar tabla de estadisticas.
 
 25-11-18
 	Estadistica por tecnico
 	Buscador de cliente
 	Estadistica por Nodo (no panel) --> Verificar para FO
+	
+26-11-18
+	Reclamo para Wsp-Insta-Face
+	Reclamos dinamicos
+	Clientes de los ultimos 30 min
+	Control de usuarios para menu de fibra
+	9111	2018-11-26 13:51:46 --------> Bugazo

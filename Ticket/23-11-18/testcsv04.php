@@ -13,5 +13,4 @@ fputcsv($fp, array('a;b;c;d'));
 fclose($fp);
 
 header("Location: $FileName");
-echo "Complete Record saves as CSV in file: <b style=\"color:red;\">$FileName</b>";
 ?>

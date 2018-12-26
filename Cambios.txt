@@ -5,7 +5,7 @@ V	Tk -- Exportar tabla de estadisticas.
 25-11-18
 -	Tk -- Estadistica por tecnico
 -	Tk -- Buscador de cliente
-V	Tk -- Estadistica por Nodo (no panel) --> Verificar para FO
+V	Tk -- Estadistica por Nodo (no panel) 	-->	 Verificar para FO
 			--> Hay bug (Ver reg de 27-11-18)
 	
 26-11-18
@@ -13,11 +13,14 @@ V	Tk -- Reclamo para Wsp-Insta-Face
 V	Tk -- Reclamos dinamicos
 V	Tk -- Clientes de los ultimos 30 min
 	FOCl -- Control de usuarios para menu de fibra
-V	Tk -- Registro 9111	2018-11-26 13:51:46 --------> Bugazo 
+V	Tk -- Registro 9111	2018-11-26 13:51:46	--> Bugazo 
 			--> label seleccionaba otro reclamo
 	
 27-11-18
 	Tk -- Graficos para las estadisticas
-	Tk -- Stats4.php Registros duplicados
+-	Tk -- Stats4.php Registros duplicados
+			--> Se arreglo solo
 	
-	
+26-12-2018
+	Mk -- Aplicar en Sistema	--------------> Hablar Anatod
+	Tel -- Cargar contactos

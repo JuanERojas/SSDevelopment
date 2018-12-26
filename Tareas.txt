@@ -1,13 +1,8 @@
-mikrotik api
-php, python
-cargar ip fijo
+26-12-2018
+···	Tel: 
+		Sistema recibe CSV y lo transforma en otro con formato para
+	que se pueda aplicar como lista de contactos en el telefono. 
 
-ubiquiti
-ubnt api
-ver señal, ruido, etc.
-
-Cargar IP FIJO:
-	ABM IP de cliente
-	Consultar si esta activo
-	First match -> Asignar
-	3 cmd.
+···	Qeu:
+		Buscar en las Queue un regsitro
+		10.25.22.1

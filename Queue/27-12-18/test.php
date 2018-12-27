@@ -2,7 +2,7 @@
 // Get all data 
 
 $opc = 'name';
-//$bus = 'rb';
+$bus = '';
 
 //header('Content-Type: text/plain');
 require('routeros_api.class.php');

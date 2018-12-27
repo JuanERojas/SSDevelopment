@@ -2,8 +2,9 @@
 // Get all data 
 
 $opc = 'name';
-//$bus = 'rb';
-
+/*
+$bus = 'bus';
+*/
 //header('Content-Type: text/plain');
 require('routeros_api.class.php');
 
@@ -56,29 +57,30 @@ if ($API->connect($ipRouteros , $Username , $Pass, $api_puerto)) {
 		}
 		if($v == '!re'){
 			if($impr){ // Registro Completado
-				array_push($registros,$reg);		// Cargar JSON a Array
-				$reg='';
-				$reg=array();
+				array_push($registros,$json);		// Cargar JSON a Array
 				$impr=false;
-				//echo '----<br>';
-			}else{
-				$reg='';
-				$reg=array();
 			}
+			$json = '{}';
+			$json = json_decode($data,true);
 		}else{
-			array_push($reg,$v);				// Agregar al JSON
+			$json[$key] = $value;				// Agregar al JSON
 		}
 	}
 	$API->disconnect();
 	
-	foreach($registros as $reg) {
-		//echo '----<br>';
-		foreach($reg as $r){
-			//echo '·<br>';
-			echo $r.'<br>';
-		}
-		echo '<br>';
-	}
+	session_start();
+	$_SESSION['registros'] = $registros;
 }
-
 ?>
+<INPUT TYPE = "Text" NAME = "b1" id="b1" width="100">
+<button onclick="actualizar();" align="center">Buscar</button>
+<div id="data">
+	
+</div>
+<script>
+function actualizar(){
+	var bus = document.getElementById("b1").value;
+	window.open('buscar2.php?bus='+bus);
+}
+</script>	
+

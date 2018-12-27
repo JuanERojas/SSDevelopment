@@ -4,5 +4,6 @@
 	que se pueda aplicar como lista de contactos en el telefono. 
 
 ···	Qeu:
-		Buscar en las Queue un regsitro
+		Buscar en las Queue un registro
 		10.25.22.1
+		core1.sslocal

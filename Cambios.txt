@@ -24,6 +24,6 @@ V	Tk -- Registro 9111	2018-11-26 13:51:46	--> Bugazo
 26-12-2018
 	Mk -- Aplicar en Sistema	--------------> Hablar Anatod
 	Tel -- Cargar contactos
-	Qeu -- max-limit --> en b, /1000 = Kb, /1000 = Mb
-	Qeu -- Saber de que core viene
+V	Qeu -- max-limit --> en b, /1000 = Kb, /1000 = Mb
+V	Qeu -- Saber de que core viene
 	Qeu -- Progreso carga de cache

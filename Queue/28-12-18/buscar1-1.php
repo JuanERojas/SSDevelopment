@@ -1,3 +1,6 @@
+<div id="loading">
+	<p>Cargando</p>
+</div>
 <?php
 // Get all data 
 
@@ -95,6 +98,7 @@ function cargarCore($ip, $Username , $Pass, $puerto){
 	
 </div>
 <script>
+document.getElementById("loading").innerHTML='';
 function actualizar(){
 	var bus = document.getElementById("b1").value;
 	window.open('buscar2.php?bus='+bus);

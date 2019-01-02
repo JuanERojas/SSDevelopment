@@ -129,10 +129,17 @@
 		?>
 			<tr>
 				<th align="left"><?php echo $r['core']; ?></th>
-				<th align="right"><?php echo $r['name']; ?></th>
-				<th align="right"><?php echo $r['target']; ?></th>
+				<th align="left"><?php echo $r['name']; ?></th>
+				<th align="right">
+				<?php
+					$aux = explode(",", $r['target']);
+					foreach($aux as $a) {
+						echo $a.'<br>'; 
+					}
+					?>
+				</th>
 				<th align="right"><?php echo acomodar_b($r['max-limit']); ?></th>
-				<th align="right"><?php echo $r['comment']; ?></th>
+				<th align="left"><?php echo $r['comment']; ?></th>
 			</tr>
 	<?php
 		}

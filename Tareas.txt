@@ -6,4 +6,4 @@
 ···	Qeu:
 		Buscar en las Queue un registro
 		10.25.22.1
-		core1.sslocal
+		core1.sslocal, core2, core3, corechr

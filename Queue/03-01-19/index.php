@@ -5,6 +5,7 @@
 <head>
 	<title>Buscar</title>
 	<link rel="shortcut icon" href="busbar.png"/>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <style type="text/css"> 
 	#load{
 		width:100%;
@@ -70,7 +71,7 @@ document.onreadystatechange = function () {
 		<div id="load">
 			<img src='cargando.gif' />
 		</div>
-		<!--iframe src="cargarDatos.php" height="200" width="500" style="display:none"></iframe-->
+		<iframe src="cargarDatos.php" height="200" width="500" style="display:none"></iframe>
 		<div id="contents">
 			<INPUT TYPE = "Text" NAME = "b1" id="b1" width="100">
 			<br>

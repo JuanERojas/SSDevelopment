@@ -122,7 +122,7 @@
 	<br>
 	<hr>
 	<br>
-	<button class="button" onclick="window.location.href='index.php'">Cargar Clientes</button>
+	<button class="button" onclick="window.location.href='agregarClientes.php'">Cargar Clientes</button>
 	<br>
 	<br>
 	<hr>

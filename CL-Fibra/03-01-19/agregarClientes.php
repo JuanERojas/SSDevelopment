@@ -1,14 +1,7 @@
 <html>
 <?php
-		session_start();
-	if($_SESSION['key'] == "aceptado"){
-?>
-		<script>setTimeout("location.href='menu.php'",0);</script>
-<?php
-	}
-	
 	$servername = "172.16.2.173";
-	//$servername = "db.sslocal";
+	// $servername = "db.sslocal";
     $database = "SS-DBFO"; 
     $username = "wrss";
     $password = "ReadWrite@SS";
@@ -149,10 +142,22 @@
 	<br>
 	<hr>
 	<br>
-	<br>
-	<br>
-	<br>
-	<button class="button" onclick="window.location.href='ingresar.php'">Ingresar</button>
+		<button class="button" onclick="window.location.href='verClientes.php'">Ver Clientes</button>
+		<br>
+		<br>
+		<hr>
+		<br>
+		<button class="button" onclick="window.location.href='verRegistroXPon.php'">Ver Clientes x PON</button>
+		<br>
+		<br>
+		<hr>
+		<br>
+		<button class="button" onclick="window.location.href='buscar.html'">Buscar</button>
+		<br>
+		<br>
+		<hr>
+		<br>
+		<button class="button" onclick="window.location.href='agregarNaps.php'">Cargar NAP</button>	
 </div>	
 <script>
 	function cargarNaps(obj) {

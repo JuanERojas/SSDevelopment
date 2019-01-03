@@ -70,11 +70,27 @@
 		<br>
 		<hr>
 		<br>
-		<button class="button" onclick="window.location.href='index.php'">Cargar Clientes</button>
+		<button class="button" onclick="window.location.href='agregarClientes.php'">Cargar Clientes</button>
 		<br>
 		<br>
 		<hr>
 		<br>
 		<button class="button" onclick="window.location.href='agregarNaps.php'">Cargar NAP</button>	
+		<br>
+		<br>
+		<hr>
+		<br>
+		<button class="button" onclick="logout();">Salir</button>	
 	</div>
 </body>
+<script>
+	function logout() {
+<?php
+		session_unset();
+		session_destroy();
+		session_start();
+	?>
+		setTimeout("location.href='index.php'",0);
+	}
+	
+</script>

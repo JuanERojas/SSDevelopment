@@ -1,9 +1,55 @@
+14-08-2018
+···	Pan:
+		Sistema ver paneles y la cantidad de clientes, frecuencia,
+	brand e IP de cada panel.
+	27-08-18	--	Version estable 0.1
+	11-09-18	--	Version estable Final 0.7
+
+01-09-2018
+···	CFO:
+		Sistema para cargar clientes que se añadan al servicio de 
+	Fibra Optica, escribiendo su PON y NAP.
+	06-09-18	--	Version estable 0.2
+	18-09-18	--	Version estable Final 0.4
+	01-10-18	--	Version estable Final 0.3
+	03-01-19	--	Version estable Final 0.5
+	
+03-09-2018
+···	TKc:
+		Sistema para cargar los reclamos que se van recibiendo por
+	la guardia.
+	14-09-18	--	Version estable 0.1
+	28-09-18	--	Version estable Final 0.2
+	04-10-18	--	Version estable Final -Bugs 0.3
+	22-11-18	--	Version estable Final + Gestion 0.7
+	04-01-19	--	Version estable Final 1
+
+28-09-2018
+···	CTK:
+		Sistema para monitorear el estado de un ticket, si esta
+	siendo atendido, coordinado o pendiente.
+	28-09-18	--	Version prototipo 0.1
+
+25-10-2018
+···	Mik:
+		Sistema para cargar, modificar, borrar y buscar IPs 
+	Publicas Fijas. 
+	05-11-18	--	Version estable 0.5
+	20-11-18	--	Version estable Final 0.7 (Sin implementar)
+
 26-12-2018
 ···	Tel: 
 		Sistema recibe CSV y lo transforma en otro con formato para
 	que se pueda aplicar como lista de contactos en el telefono. 
 
-···	Qeu:
+···	Qeu: 
 		Buscar en las Queue un registro
 		10.25.22.1
 		core1.sslocal, core2, core3, corechr
+	02-01-19	--	Version estable 0.3
+
+04-01-2019		
+···	Map: SC
+		Ver por reclamo la zona en un mapa en la que mas hay, usando
+	ya lo de los tickets y Google Charts. Ver si usar Nodos, Panel.
+	 Si se usa Panel, hay que sabber donde apuntan

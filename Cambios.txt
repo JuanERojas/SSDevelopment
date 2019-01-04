@@ -17,7 +17,7 @@ V	Tk -- Registro 9111	2018-11-26 13:51:46	--> Bugazo
 			--> label seleccionaba otro reclamo
 	
 27-11-18
-	Tk -- Graficos para las estadisticas
+V	Tk -- Graficos para las estadisticas
 -	Tk -- Stats4.php Registros duplicados
 			--> Se arreglo solo (solo FO con problemas)
 	

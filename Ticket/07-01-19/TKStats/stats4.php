@@ -59,7 +59,7 @@
 			WHERE n.nombre LIKE '".$nodo."'  
 			ORDER BY ".$orden.";";
 	}
-	
+	$contResult=0;
 	$result = $conn->query($sql);
 	if ($result->num_rows > 0) {
 		while($row = $result->fetch_assoc()) {
@@ -69,6 +69,7 @@
 			$problema= $row["problema"];
 			$numcliente= $row["numcliente"];
 			$timest= $row["time"];
+			$contResult= $contResult+1;
 			
 			$time = strtotime($timest);
 			$timezone  = -3; //(GMT -3:00) 
@@ -78,6 +79,7 @@
 			array_push($registros,array($idreclamo, $tecnico, $panel, $problema, $numcliente, $timest));
 		}
 	}
+	//echo $contResult;
 	
 	//Por reclamo
 	$sql = "SELECT DISTINCT r.idreclamo, problema AS reclamo, COUNT(*) AS cant FROM `SS-DBTK`.reclamo r 
@@ -177,6 +179,7 @@
 				alignment: 'center',
 				position: 'top'
 			}
+			,is3D: true
         };
         var chart = new google.visualization.PieChart(document.getElementById('piechartPorTipo'));
 
@@ -242,9 +245,9 @@
 <body bgcolor="B7D590">
 	<div align="center">
 		<h1>SSSD</h1>
-		<h2>Estadisticas<h2>
+		<h2>Estadisticas</h2>
 		<br>
-		<h3>Reclamos por fecha<h2>
+		<h3>Reclamos por fecha</h3>
 		<br>
 		<form action="stats4.php?nodo=<?php echo $nodo;?>" method="post" id="form1">
 			<select id="intervalo" name = "intervalo" onchange="this.form.submit()">
@@ -262,7 +265,9 @@
 			<br>
 			<br>
 		</form>
+		<h4><?php if($contResult>0) echo 'Registros Encontrados: '.$contResult;?></h4>
 	</div>
+	<br>
 	<br>
 	<table id="result" class="egt" align="center"  border="1" bgcolor="FFFFFF">
 		<tr bgcolor="CFCFCF">
@@ -377,7 +382,7 @@ $cont=0;
 			}
 	?>
 			<th width="230" align='left'><?php echo $reclamo;?></th>
-			<th width="40" align='left'><?php echo intval($cantidad)/$divi;?></th> <!-- ARREGLAR CHANTADA -->
+			<th width="40" align='left'><?php echo $cantidad;?></th> <!-- ARREGLAR CHANTADA -->
 		</tr>
 	<?php
 	}

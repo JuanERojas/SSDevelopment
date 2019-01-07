@@ -24,12 +24,26 @@
 	22-11-18	--	Version estable Final + Gestion 0.7
 	04-01-19	--	Version estable Final 1
 
+21-09-2018
+···	Apk:
+		Hacer una Apk para android que entre a Moviesflix directo.
+	21-09-18	--	Version 1 Prototipo Funcional 0.3
+	24-09-18	--	Version 2 Prototipo Funcional 0.5
+
 28-09-2018
 ···	CTK:
 		Sistema para monitorear el estado de un ticket, si esta
 	siendo atendido, coordinado o pendiente.
 	28-09-18	--	Version prototipo 0.1
 
+10-10-2018
+···	Uni:
+		Interfaz a modo de hotspot para autorizar a los usuarios
+	a poder usar una red sin tener que ingresar una contraseña.
+	10-10-18	--	Version prototipo 0.1
+	12-10-18	--	Version Funcional 0.3
+	17-10-18	--	Version Final 0.6
+	
 25-10-2018
 ···	Mik:
 		Sistema para cargar, modificar, borrar y buscar IPs 
@@ -42,6 +56,7 @@
 		Sistema recibe CSV y lo transforma en otro con formato para
 	que se pueda aplicar como lista de contactos en el telefono. 
 
+26-12-2018
 ···	Qeu: 
 		Buscar en las Queue un registro
 		10.25.22.1

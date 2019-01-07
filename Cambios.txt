@@ -30,3 +30,6 @@ V	Qeu -- Saber de que core viene
 03-01-2019
 V	Qeu -- Progreso carga de cache
 V	Qeu -- Ver caracteres especiales
+
+07-01-2019
+V	Tk -- Stats guarde los csv en una carpeta a parte

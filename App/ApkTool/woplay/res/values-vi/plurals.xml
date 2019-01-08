@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="category_subcategory_count">
+        <item quantity="other">%d categories</item>
+    </plurals>
+    <plurals name="category_video_count">
+        <item quantity="other">%d videos</item>
+    </plurals>
+    <plurals name="current_devices_in_use">
+        <item quantity="other">&lt;b>%1$d&lt;/b> devices in use of &lt;b>%2$d&lt;/b> allowed</item>
+    </plurals>
+    <plurals name="current_grid_apps_count">
+        <item quantity="other">&lt;b>%1$d&lt;/b> of &lt;b>%2$d&lt;/b> apps</item>
+    </plurals>
+    <plurals name="current_grid_channels_count">
+        <item quantity="other">&lt;b>%1$d&lt;/b> of &lt;b>%2$d&lt;/b> channels</item>
+    </plurals>
+    <plurals name="current_grid_items_count">
+        <item quantity="other">&lt;b>%1$d&lt;/b> of &lt;b>%2$d&lt;/b> items</item>
+    </plurals>
+    <plurals name="current_grid_networks_count">
+        <item quantity="other">&lt;b>%1$d&lt;/b> of &lt;b>%2$d&lt;/b> networks</item>
+    </plurals>
+    <plurals name="current_grid_subcategory_count">
+        <item quantity="other">&lt;b>%1$d&lt;/b> of &lt;b>%2$d&lt;/b> categories</item>
+    </plurals>
+    <plurals name="current_grid_video_count">
+        <item quantity="other">&lt;b>%1$d&lt;/b> of &lt;b>%2$d&lt;/b> videos</item>
+    </plurals>
+    <plurals name="grid_apps_count">
+        <item quantity="other">&lt;b>%1$d&lt;/b> apps</item>
+    </plurals>
+    <plurals name="grid_channels_count">
+        <item quantity="other">&lt;b>%1$d&lt;/b> channels</item>
+    </plurals>
+    <plurals name="grid_items_count">
+        <item quantity="other">&lt;b>%1$d&lt;/b> items</item>
+    </plurals>
+    <plurals name="grid_networks_count">
+        <item quantity="other">&lt;b>%1$d&lt;/b> networks</item>
+    </plurals>
+    <plurals name="grid_subcategory_count">
+        <item quantity="other">&lt;b>%1$d&lt;/b> categories</item>
+    </plurals>
+    <plurals name="grid_video_count">
+        <item quantity="other">&lt;b>%1$d&lt;/b> videos</item>
+    </plurals>
+    <plurals name="tw__time_hours">
+        <item quantity="other">%dgiờ</item>
+        <item quantity="one">1giờ</item>
+    </plurals>
+    <plurals name="tw__time_mins">
+        <item quantity="other">%dphút</item>
+        <item quantity="one">1phút</item>
+    </plurals>
+    <plurals name="tw__time_secs">
+        <item quantity="other">%dgiây</item>
+        <item quantity="one">1giây</item>
+    </plurals>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="EpgText.Large" parent="@style/EpgTextBase">
+        <item name="android:textSize">26.0sp</item>
+    </style>
+    <style name="EpgText.Medium" parent="@style/EpgTextBase">
+        <item name="android:textSize">22.0sp</item>
+    </style>
+    <style name="EpgText.Small" parent="@style/EpgTextBase">
+        <item name="android:textSize">18.0sp</item>
+    </style>
+    <style name="TextLarge" parent="@android:style/TextAppearance.Large">
+        <item name="android:textColor">#ffffffff</item>
+    </style>
+    <style name="TextMedium" parent="@android:style/TextAppearance.Medium">
+        <item name="android:textColor">#ffffffff</item>
+    </style>
+    <style name="TextMicro" parent="@android:style/TextAppearance.Small" />
+    <style name="TextSmall" parent="@android:style/TextAppearance.Small">
+        <item name="android:textColor">#ffffffff</item>
+    </style>
+</resources>

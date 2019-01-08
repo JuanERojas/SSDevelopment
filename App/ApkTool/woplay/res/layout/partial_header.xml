@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:id="@id/header" android:paddingBottom="@dimen/activity_vertical_margin" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingStart="@dimen/activity_header_extra_margin" android:paddingEnd="@dimen/activity_header_extra_margin"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/imageView" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/logo" android:adjustViewBounds="true" android:maxHeight="@dimen/activity_header_height" />
+    <TextClock android:textAppearance="?android:textAppearanceMedium" android:textStyle="bold" android:textColor="#ffffffff" android:gravity="end|center" android:id="@id/current_time" android:layout_width="0.0dip" android:layout_height="@dimen/activity_header_height" android:layout_weight="1.0" android:fontFamily="sans-serif-bold" />
+</LinearLayout>

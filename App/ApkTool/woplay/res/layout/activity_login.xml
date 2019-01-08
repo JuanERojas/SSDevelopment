@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/container" android:paddingLeft="@dimen/activity_horizontal_margin" android:paddingTop="@dimen/activity_vertical_margin" android:paddingRight="@dimen/activity_horizontal_margin" android:paddingBottom="@dimen/activity_vertical_margin" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include android:id="@id/includedHeader" layout="@layout/partial_header" />
+    <FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_below="@id/includedHeader">
+        <ScrollView android:layout_gravity="center" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <LinearLayout android:orientation="horizontal" android:id="@id/login" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <View android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="@integer/login_width_weight_margins" />
+                <LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="@integer/login_width_weight_center">
+                    <TextView android:textAppearance="?android:textAppearanceLarge" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/login_title_margin_bottom" android:text="@string/login_username_password" />
+                    <EditText android:textColor="#ff333333" android:textColorHint="#33333333" android:id="@id/username" android:background="@drawable/form_item" android:paddingTop="@dimen/login_input_padding_vertical" android:paddingBottom="@dimen/login_input_padding_vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/login_username_margin_bottom" android:hint="@string/hint_username" android:inputType="text" android:paddingStart="@dimen/login_input_padding_horizontal" android:paddingEnd="@dimen/login_input_padding_horizontal" style="@style/TextLarge" />
+                    <EditText android:textColor="#ff333333" android:textColorHint="#33333333" android:id="@id/password" android:background="@drawable/form_item" android:paddingTop="@dimen/login_input_padding_vertical" android:paddingBottom="@dimen/login_input_padding_vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/login_password_margin_bottom" android:hint="@string/hint_password" android:inputType="textPassword" android:paddingStart="@dimen/login_input_padding_horizontal" android:paddingEnd="@dimen/login_input_padding_horizontal" style="@style/TextLarge" />
+                    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                        <Button android:theme="@style/AppTheme.Button" android:id="@id/action_button_login" android:focusable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/button_login" android:onClick="login" />
+                        <TextView android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0" />
+                        <Button android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/login_forgot_password" android:onClick="launchForgotPassword" style="?android:borderlessButtonStyle" />
+                    </LinearLayout>
+                    <Button android:layout_gravity="center_horizontal" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/register_new_account" android:onClick="launchRegister" style="?android:borderlessButtonStyle" />
+                    <TextView android:textAppearance="?android:textAppearanceLarge" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/login_or_title_top_margin" android:text="@string/or_login_with" />
+                    <LinearLayout android:orientation="horizontal" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/login_title_margin_bottom">
+                        <com.facebook.login.widget.LoginButton android:id="@id/real_facebook_login_button" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+                        <Button android:id="@id/facebook_login_button" android:background="@drawable/facebook" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="Facebook" android:layout_weight="1.0" />
+                        <View android:layout_width="10.0dip" android:layout_height="fill_parent" />
+                        <Button android:id="@id/twitter_login_button" android:background="@drawable/twitter" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="Twitter" android:layout_weight="1.0" />
+                    </LinearLayout>
+                    <TextView android:textAppearance="?android:textAppearanceSmall" android:textColor="#ff777777" android:layout_gravity="center_horizontal" android:id="@id/app_name_version" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/login_register_margin_top" />
+                </LinearLayout>
+                <View android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="@integer/login_width_weight_margins" />
+            </LinearLayout>
+        </ScrollView>
+    </FrameLayout>
+</RelativeLayout>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" package="tv.woplay.ver">
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.READ_SYNC_SETTINGS"/>
+    <uses-permission android:name="android.permission.WRITE_SYNC_SETTINGS"/>
+    <uses-permission android:name="android.permission.AUTHENTICATE_ACCOUNTS"/>
+    <uses-permission android:name="android.permission.WAKE_LOCK"/>
+    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE"/>
+    <uses-permission android:name="android.permission.SET_TIME_ZONE"/>
+    <permission android:name="tv.woplay.ver.permission.C2D_MESSAGE" android:protectionLevel="signature"/>
+    <uses-permission android:name="tv.woplay.ver.permission.C2D_MESSAGE"/>
+    <uses-feature android:name="android.software.leanback" android:required="false"/>
+    <uses-feature android:name="android.hardware.touchscreen" android:required="false"/>
+    <application android:allowBackup="false" android:banner="@drawable/banner" android:icon="@mipmap/ic_launcher" android:label="@string/app_name" android:name="com.tikilive.ui.application.MyApplication" android:theme="@style/AppTheme">
+        <meta-data android:name="com.facebook.sdk.ApplicationId" android:value="@string/facebook_app_id"/>
+        <activity android:clearTaskOnLaunch="true" android:label="@string/app_name" android:name="com.tikilive.ui.welcome.WelcomeActivity" android:screenOrientation="landscape">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="android.intent.category.LEANBACK_LAUNCHER"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="android.intent.category.BROWSABLE"/>
+                <data android:host="tiki6.tikilive.com" android:path="/welcome" android:scheme="tikilive"/>
+            </intent-filter>
+        </activity>
+        <activity android:label="@string/title_live_channels" android:name="com.tikilive.ui.channel.ChannelActivity" android:screenOrientation="landscape"/>
+        <activity android:label="@string/title_activity_login" android:name="com.tikilive.ui.activity.LoginActivity" android:screenOrientation="landscape"/>
+        <activity android:label="@string/title_activity_register" android:name="com.tikilive.ui.activity.RegisterActivity" android:screenOrientation="landscape"/>
+        <activity android:label="@string/title_activity_forgot_password" android:name="com.tikilive.ui.activity.ForgotPasswordActivity" android:screenOrientation="landscape"/>
+        <activity android:label="@string/title_activity_account" android:name="com.tikilive.ui.account.AccountActivity" android:screenOrientation="landscape"/>
+        <activity android:label="@string/title_replace_device_activity" android:name="com.tikilive.ui.account.ReplaceDeviceActivity" android:screenOrientation="landscape"/>
+        <activity android:label="@string/title_activity_device_notified" android:name="com.tikilive.ui.activity.DeviceNotifiedActivity" android:screenOrientation="landscape"/>
+        <activity android:label="@string/title_activity_dvr_playback" android:name="com.tikilive.ui.dvr.DvrPlaybackActivity" android:screenOrientation="landscape"/>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:label="@string/title_activity_video_library" android:name="com.tikilive.ui.video.TopLevelCategoriesActivity" android:screenOrientation="landscape"/>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:label="@string/title_activity_video_library" android:name="com.tikilive.ui.video.CategoryListingActivity" android:screenOrientation="landscape"/>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:label="@string/title_activity_video_library" android:name="com.tikilive.ui.video.NetworksActivity" android:screenOrientation="landscape"/>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:label="@string/title_activity_video_library" android:name="com.tikilive.ui.video.NetworkListingActivity" android:screenOrientation="landscape"/>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:label="@string/title_activity_video_library" android:name="com.tikilive.ui.video.PopularContentActivity" android:screenOrientation="landscape"/>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:label="@string/title_activity_video_library" android:name="com.tikilive.ui.video.LatestEpisodesActivity" android:screenOrientation="landscape"/>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:label="@string/title_activity_video_library" android:name="com.tikilive.ui.video.SearchActivity" android:screenOrientation="landscape"/>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:label="@string/title_activity_video_library" android:name="com.tikilive.ui.video.VideoDetailsActivity" android:screenOrientation="landscape"/>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:label="@string/title_activity_video_playback" android:name="com.tikilive.ui.video.VideoPlaybackActivity" android:screenOrientation="landscape"/>
+        <activity android:label="@string/app_name" android:launchMode="singleTask" android:name="com.google.android.libraries.cast.companionlibrary.cast.player.VideoCastControllerActivity" android:parentActivityName="com.tikilive.ui.video.VideoPlaybackActivity" android:screenOrientation="landscape">
+            <meta-data android:name="android.support.PARENT_ACTIVITY" android:value=".video.VideoPlaybackActivity"/>
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+            </intent-filter>
+        </activity>
+        <activity android:label="@string/title_dvr_library" android:name="com.tikilive.ui.dvr.DvrLibraryActivity" android:screenOrientation="landscape"/>
+        <activity android:label="@string/title_activity_speed_test" android:name="com.tikilive.ui.speedtest.SpeedTestActivity" android:screenOrientation="landscape"/>
+        <activity android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|screenSize" android:label="@string/app_name" android:name="com.facebook.FacebookActivity" android:theme="@android:style/Theme.Translucent.NoTitleBar"/>
+        <activity android:name="com.tikilive.ui.activity.WebViewActivity" android:screenOrientation="landscape"/>
+        <activity android:name="com.tikilive.ui.activity.ResendActivationEmailActivity" android:screenOrientation="landscape"/>
+        <activity android:name="com.tikilive.ui.upgrade.ChoosePackageActivity" android:screenOrientation="landscape"/>
+        <activity android:name="com.tikilive.ui.upgrade.PackageDetailsActivity" android:screenOrientation="landscape"/>
+        <activity android:name="com.tikilive.ui.apps.AppsActivity" android:screenOrientation="landscape"/>
+        <provider android:authorities="tv.woplay.ver.guide.contentprovider" android:exported="false" android:name="com.tikilive.ui.guide.ChannelGuideContentProvider"/>
+        <service android:enabled="true" android:exported="false" android:name="com.tikilive.ui.guide.ChannelGuideUpdaterService"/>
+        <receiver android:name="com.google.android.libraries.cast.companionlibrary.remotecontrol.VideoIntentReceiver">
+            <intent-filter>
+                <action android:name="android.media.AUDIO_BECOMING_NOISY"/>
+                <action android:name="android.intent.action.MEDIA_BUTTON"/>
+                <action android:name="com.google.android.libraries.cast.companionlibrary.action.toggleplayback"/>
+                <action android:name="com.google.android.libraries.cast.companionlibrary.action.stop"/>
+                <action android:name="com.google.android.libraries.cast.companionlibrary.action.rewind"/>
+            </intent-filter>
+        </receiver>
+        <provider android:authorities="@string/content_authority" android:exported="false" android:name="com.tikilive.ui.weather.WeatherProvider" android:syncable="true"/>
+        <service android:exported="false" android:name="com.tikilive.ui.weather.WeatherAuthenticatorService">
+            <intent-filter>
+                <action android:name="android.accounts.AccountAuthenticator"/>
+            </intent-filter>
+            <meta-data android:name="android.accounts.AccountAuthenticator" android:resource="@xml/authenticator"/>
+        </service>
+        <service android:exported="false" android:name="com.tikilive.ui.weather.WeatherSyncService">
+            <intent-filter>
+                <action android:name="android.content.SyncAdapter"/>
+            </intent-filter>
+            <meta-data android:name="android.content.SyncAdapter" android:resource="@xml/syncadapter"/>
+        </service>
+        <receiver android:exported="true" android:name="com.google.android.gms.gcm.GcmReceiver" android:permission="com.google.android.c2dm.permission.SEND">
+            <intent-filter>
+                <action android:name="com.google.android.c2dm.intent.RECEIVE"/>
+                <action android:name="com.google.android.c2dm.intent.REGISTRATION"/>
+                <category android:name="tv.woplay.ver"/>
+            </intent-filter>
+        </receiver>
+        <service android:exported="false" android:name="com.tikilive.ui.gcm.RadioGcmListenerService">
+            <intent-filter>
+                <action android:name="com.google.android.c2dm.intent.RECEIVE"/>
+            </intent-filter>
+        </service>
+        <service android:exported="false" android:name="com.tikilive.ui.gcm.RadioInstanceIDListenerService">
+            <intent-filter>
+                <action android:name="com.google.android.gms.iid.InstanceID"/>
+            </intent-filter>
+        </service>
+        <service android:exported="false" android:name="com.tikilive.ui.gcm.RegistrationIntentService"/>
+        <service android:enabled="true" android:exported="false" android:name="com.tikilive.ui.gcm.RadioSongUpdaterService"/>
+        <service android:exported="false" android:name="com.google.android.libraries.cast.companionlibrary.notification.VideoCastNotificationService">
+            <intent-filter>
+                <action android:name="com.google.android.libraries.cast.companionlibrary.action.notificationvisibility"/>
+            </intent-filter>
+        </service>
+        <service android:name="com.google.android.libraries.cast.companionlibrary.cast.reconnection.ReconnectionService"/>
+        <meta-data android:name="io.fabric.ApiKey" android:value="4447580ec4c641bbae0650e2c26974b2bb9a0b52"/>
+        <meta-data android:name="com.peer5.ApiKey" android:value="tsfxxwlyf5zg9dvj5mbm"/>
+        <activity android:exported="false" android:name="com.google.android.gms.common.api.GoogleApiActivity" android:theme="@android:style/Theme.Translucent.NoTitleBar"/>
+        <meta-data android:name="com.google.android.gms.version" android:value="@integer/google_play_services_version"/>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:name="com.twitter.sdk.android.tweetui.PlayerActivity" android:theme="@style/MediaTheme"/>
+        <activity android:name="com.twitter.sdk.android.tweetui.GalleryActivity" android:theme="@style/MediaTheme"/>
+        <provider android:authorities="tv.woplay.ver.com.peer5.provider" android:exported="false" android:initOrder="100" android:name="com.peer5_aar.Peer5Provider"/>
+        <activity android:exported="false" android:name="com.twitter.sdk.android.tweetcomposer.ComposerActivity" android:windowSoftInputMode="adjustResize|stateVisible"/>
+        <service android:enabled="true" android:exported="false" android:name="com.twitter.sdk.android.tweetcomposer.TweetUploadService"/>
+        <activity android:configChanges="orientation|screenSize" android:excludeFromRecents="true" android:exported="false" android:name="com.twitter.sdk.android.core.identity.OAuthActivity"/>
+        <activity android:configChanges="orientation|screenSize" android:excludeFromRecents="true" android:exported="false" android:icon="@drawable/tw__transparent" android:label="@string/kit_name" android:name="com.twitter.sdk.android.core.identity.ShareEmailActivity"/>
+        <meta-data android:name="com.android.vending.derived.apk.id" android:value="1"/>
+    </application>
+</manifest>

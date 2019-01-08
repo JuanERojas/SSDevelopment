@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true">
+        <layer-list>
+            <item android:drawable="@drawable/video_library_category_overlay" />
+            <item>
+                <shape android:shape="rectangle">
+                    <stroke android:width="5.0dip" android:color="#cc0061c0" />
+                </shape>
+            </item>
+        </layer-list>
+    </item>
+    <item android:state_focused="true">
+        <layer-list>
+            <item android:drawable="@drawable/video_library_category_overlay" />
+            <item>
+                <shape android:shape="rectangle">
+                    <stroke android:width="5.0dip" android:color="#ff0061c0" />
+                </shape>
+            </item>
+        </layer-list>
+    </item>
+    <item android:drawable="@drawable/video_library_category_overlay" />
+</selector>

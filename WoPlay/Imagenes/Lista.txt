@@ -1,0 +1,7 @@
+\woplay\res\drawable		logo.png
+\woplay\res\mipmap-xxxhdpi		ic_launcher.png
+\woplay\res\mipmap-xxhdpi		ic_launcher.png
+\woplay\res\mipmap-xhdpi		ic_launcher.png
+\woplay\res\mipmap-hdpi		ic_launcher.png
+\woplay\res\mipmap-mdpi		ic_launcher.png
+\woplay\res\drawable-xhdpi		banner.jpg

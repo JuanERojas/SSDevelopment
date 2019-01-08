@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.tikilive.ui.welcome.MainMenuItemFrameLayout android:focusable="true" android:focusableInTouchMode="false" android:clickable="true" android:layout_width="fill_parent" android:layout_height="fill_parent" app:mainMenuPadding="@dimen/main_menu_item_padding" app:mainMenuWidthRatio="6"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <RelativeLayout android:layout_gravity="center" android:duplicateParentState="true" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <com.tikilive.ui.layout.AspectFrameLayout android:id="@id/icon_frame" android:background="@drawable/main_menu_item_circle_bg" android:duplicateParentState="true" android:layout_width="fill_parent" android:layout_height="wrap_content" app:xRatio="1" app:yRatio="1">
+            <ImageView android:layout_gravity="center" android:id="@id/icon" android:layout_width="fill_parent" android:layout_height="fill_parent" android:adjustViewBounds="true" />
+        </com.tikilive.ui.layout.AspectFrameLayout>
+        <TextView android:textSize="@dimen/main_menu_item_text_size" android:textColor="#ffffffff" android:gravity="center_horizontal" android:id="@id/title" android:duplicateParentState="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/main_menu_title_margin_top" android:lines="1" android:layout_below="@id/icon_frame" android:fontFamily="sans-serif-light" />
+    </RelativeLayout>
+</com.tikilive.ui.welcome.MainMenuItemFrameLayout>

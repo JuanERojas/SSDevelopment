@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/container" android:background="#ff000000" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.google.android.exoplayer2.ui.PlayerView android:id="@id/simple_exoplayer_view" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <ProgressBar android:id="@id/buffering" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:layout_marginStart="10.0dip" style="?android:progressBarStyle" />
+    <android.support.v7.app.MediaRouteButton android:id="@id/media_route_button" android:background="@drawable/media_route_button_background" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:layout_alignParentTop="true" android:mediaRouteTypes="user" android:layout_marginEnd="10.0dip" android:layout_alignParentEnd="true" />
+    <LinearLayout android:orientation="horizontal" android:id="@id/annotation_song" android:background="@drawable/buy_this_music" android:focusable="true" android:focusableInTouchMode="false" android:visibility="gone" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:paddingStart="10.0dip">
+        <ImageView android:layout_gravity="center" android:duplicateParentState="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/annotation_song_icon" />
+        <TextView android:textColor="@color/buy_this_music" android:id="@id/annotation_song_title" android:padding="10.0dip" android:duplicateParentState="true" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/TextLargeBold" />
+    </LinearLayout>
+    <LinearLayout android:orientation="horizontal" android:id="@id/annotation_info" android:background="@drawable/buy_this_music" android:focusable="true" android:focusableInTouchMode="false" android:visibility="gone" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:paddingStart="10.0dip">
+        <ImageView android:layout_gravity="center" android:duplicateParentState="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/annotation_info_icon" />
+        <TextView android:textColor="@color/buy_this_music" android:id="@id/annotation_info_title" android:padding="10.0dip" android:duplicateParentState="true" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/TextLargeBold" />
+    </LinearLayout>
+    <LinearLayout android:orientation="horizontal" android:id="@id/info_mode_confirm" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <View android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="@integer/login_width_weight_margins" />
+        <RelativeLayout android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="@integer/login_width_weight_center">
+            <LinearLayout android:orientation="vertical" android:background="#60000000" android:paddingLeft="@dimen/activity_horizontal_margin" android:paddingTop="@dimen/activity_vertical_margin" android:paddingRight="@dimen/activity_horizontal_margin" android:paddingBottom="@dimen/activity_vertical_margin" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_centerInParent="true">
+                <TextView android:gravity="center_horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="20.0dip" android:text="@string/info_mode_turned_on_title" style="@style/TextLargeBold" />
+                <TextView android:gravity="center" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="20.0dip" android:text="@string/info_mode_turned_on_info" style="@style/TextMedium" />
+                <Button android:layout_gravity="center_horizontal" android:id="@id/info_mode_dismiss" android:focusable="true" android:focusableInTouchMode="false" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="OK" />
+            </LinearLayout>
+        </RelativeLayout>
+        <View android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="@integer/login_width_weight_margins" />
+    </LinearLayout>
+</RelativeLayout>

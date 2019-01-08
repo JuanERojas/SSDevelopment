@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:id="@id/heading" android:background="#0dffffff" android:paddingTop="@dimen/activity_heading_padding_top_small" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingStart="@dimen/activity_heading_padding_horizontal" android:paddingEnd="@dimen/activity_heading_padding_horizontal">
+        <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="@dimen/activity_heading_height" android:layout_marginBottom="@dimen/activity_heading_margin_bottom">
+            <TextView android:textAppearance="?android:textAppearanceMedium" android:textStyle="bold" android:textColor="#ffffffff" android:gravity="center_vertical" android:layout_width="wrap_content" android:layout_height="fill_parent" android:text="@string/packages" android:fontFamily="sans-serif-bold" />
+            <TextView android:textAppearance="?android:textAppearanceMedium" android:textColor="#ffffffff" android:gravity="center_vertical" android:id="@id/breadcrumbs" android:layout_width="0.0dip" android:layout_height="fill_parent" android:lines="1" android:layout_weight="1.0" android:fontFamily="sans-serif-light" />
+            <TextClock android:textAppearance="?android:textAppearanceMedium" android:textColor="#ffffffff" android:gravity="end|center" android:id="@id/current_time" android:layout_width="wrap_content" android:layout_height="wrap_content" android:fontFamily="sans-serif-light" />
+        </LinearLayout>
+    </LinearLayout>
+    <LinearLayout android:orientation="vertical" android:background="@drawable/drop_shadow" android:paddingTop="@dimen/activity_heading_padding_top" android:paddingBottom="@dimen/activity_heading_padding_top" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_below="@id/heading">
+        <FrameLayout android:id="@id/container" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    </LinearLayout>
+</RelativeLayout>

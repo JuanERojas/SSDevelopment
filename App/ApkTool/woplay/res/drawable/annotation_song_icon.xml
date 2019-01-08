@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/ic_library_music_white_24dp" android:state_hovered="true" />
+    <item android:state_focused="true" android:drawable="@drawable/ic_library_music_white_24dp" />
+    <item android:drawable="@drawable/ic_library_music_grey_24dp" />
+</selector>

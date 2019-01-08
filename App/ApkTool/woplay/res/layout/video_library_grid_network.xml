@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.tikilive.ui.layout.AspectFrameLayout android:id="@id/network" android:focusable="true" android:focusableInTouchMode="false" android:clickable="true" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/network_image" android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/video_library_default" android:adjustViewBounds="true" />
+    <View android:background="@drawable/video_library_video_gradient" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <RelativeLayout android:background="@drawable/video_library_video_navigation" android:duplicateParentState="true" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <LinearLayout android:orientation="vertical" android:paddingBottom="@dimen/grid_video_details_padding_vertical" android:duplicateParentState="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentBottom="true" android:paddingStart="@dimen/grid_video_details_padding_horizontal" android:paddingEnd="@dimen/grid_video_details_padding_horizontal">
+            <TextView android:textSize="@dimen/grid_video_details_text_size" android:textColor="#ffffffff" android:ellipsize="marquee" android:id="@id/network_title" android:duplicateParentState="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:maxLines="1" android:lines="1" android:singleLine="true" />
+        </LinearLayout>
+    </RelativeLayout>
+</com.tikilive.ui.layout.AspectFrameLayout>

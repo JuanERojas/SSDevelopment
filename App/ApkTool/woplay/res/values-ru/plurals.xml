@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="category_subcategory_count">
+        <item quantity="other">%d categories</item>
+        <item quantity="one">%d category</item>
+        <item quantity="few">%d categories</item>
+        <item quantity="many">%d categories</item>
+    </plurals>
+    <plurals name="category_video_count">
+        <item quantity="other">%d videos</item>
+        <item quantity="one">%d video</item>
+        <item quantity="few">%d videos</item>
+        <item quantity="many">%d videos</item>
+    </plurals>
+    <plurals name="current_devices_in_use">
+        <item quantity="other">&lt;b>%1$d&lt;/b> devices in use of &lt;b>%2$d&lt;/b> allowed</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> device in use of &lt;b>%2$d&lt;/b> allowed</item>
+        <item quantity="few">&lt;b>%1$d&lt;/b> devices in use of &lt;b>%2$d&lt;/b> allowed</item>
+        <item quantity="many">&lt;b>%1$d&lt;/b> devices in use of &lt;b>%2$d&lt;/b> allowed</item>
+    </plurals>
+    <plurals name="current_grid_apps_count">
+        <item quantity="other">&lt;b>%1$d&lt;/b> of &lt;b>%2$d&lt;/b> apps</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> of &lt;b>%2$d&lt;/b> app</item>
+        <item quantity="few">&lt;b>%1$d&lt;/b> of &lt;b>%2$d&lt;/b> apps</item>
+        <item quantity="many">&lt;b>%1$d&lt;/b> of &lt;b>%2$d&lt;/b> apps</item>
+    </plurals>
+    <plurals name="current_grid_channels_count">
+        <item quantity="other">&lt;b>%1$d&lt;/b> of &lt;b>%2$d&lt;/b> channels</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> of &lt;b>%2$d&lt;/b> channel</item>
+        <item quantity="few">&lt;b>%1$d&lt;/b> of &lt;b>%2$d&lt;/b> channels</item>
+        <item quantity="many">&lt;b>%1$d&lt;/b> of &lt;b>%2$d&lt;/b> channels</item>
+    </plurals>
+    <plurals name="current_grid_items_count">
+        <item quantity="other">&lt;b>%1$d&lt;/b> of &lt;b>%2$d&lt;/b> items</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> of &lt;b>%2$d&lt;/b> item</item>
+        <item quantity="few">&lt;b>%1$d&lt;/b> of &lt;b>%2$d&lt;/b> items</item>
+        <item quantity="many">&lt;b>%1$d&lt;/b> of &lt;b>%2$d&lt;/b> items</item>
+    </plurals>
+    <plurals name="current_grid_networks_count">
+        <item quantity="other">&lt;b>%1$d&lt;/b> of &lt;b>%2$d&lt;/b> networks</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> of &lt;b>%2$d&lt;/b> network</item>
+        <item quantity="few">&lt;b>%1$d&lt;/b> of &lt;b>%2$d&lt;/b> networks</item>
+        <item quantity="many">&lt;b>%1$d&lt;/b> of &lt;b>%2$d&lt;/b> networks</item>
+    </plurals>
+    <plurals name="current_grid_subcategory_count">
+        <item quantity="other">&lt;b>%1$d&lt;/b> of &lt;b>%2$d&lt;/b> categories</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> of &lt;b>%2$d&lt;/b> category</item>
+        <item quantity="few">&lt;b>%1$d&lt;/b> of &lt;b>%2$d&lt;/b> categories</item>
+        <item quantity="many">&lt;b>%1$d&lt;/b> of &lt;b>%2$d&lt;/b> categories</item>
+    </plurals>
+    <plurals name="current_grid_video_count">
+        <item quantity="other">&lt;b>%1$d&lt;/b> of &lt;b>%2$d&lt;/b> videos</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> of &lt;b>%2$d&lt;/b> video</item>
+        <item quantity="few">&lt;b>%1$d&lt;/b> of &lt;b>%2$d&lt;/b> videos</item>
+        <item quantity="many">&lt;b>%1$d&lt;/b> of &lt;b>%2$d&lt;/b> videos</item>
+    </plurals>
+    <plurals name="grid_apps_count">
+        <item quantity="other">&lt;b>%1$d&lt;/b> apps</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> app</item>
+        <item quantity="few">&lt;b>%1$d&lt;/b> apps</item>
+        <item quantity="many">&lt;b>%1$d&lt;/b> apps</item>
+    </plurals>
+    <plurals name="grid_channels_count">
+        <item quantity="other">&lt;b>%1$d&lt;/b> channels</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> channel</item>
+        <item quantity="few">&lt;b>%1$d&lt;/b> channels</item>
+        <item quantity="many">&lt;b>%1$d&lt;/b> channels</item>
+    </plurals>
+    <plurals name="grid_items_count">
+        <item quantity="other">&lt;b>%1$d&lt;/b> items</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> item</item>
+        <item quantity="few">&lt;b>%1$d&lt;/b> items</item>
+        <item quantity="many">&lt;b>%1$d&lt;/b> items</item>
+    </plurals>
+    <plurals name="grid_networks_count">
+        <item quantity="other">&lt;b>%1$d&lt;/b> networks</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> network</item>
+        <item quantity="few">&lt;b>%1$d&lt;/b> networks</item>
+        <item quantity="many">&lt;b>%1$d&lt;/b> networks</item>
+    </plurals>
+    <plurals name="grid_subcategory_count">
+        <item quantity="other">&lt;b>%1$d&lt;/b> categories</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> category</item>
+        <item quantity="few">&lt;b>%1$d&lt;/b> categories</item>
+        <item quantity="many">&lt;b>%1$d&lt;/b> categories</item>
+    </plurals>
+    <plurals name="grid_video_count">
+        <item quantity="other">&lt;b>%1$d&lt;/b> videos</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> video</item>
+        <item quantity="few">&lt;b>%1$d&lt;/b> videos</item>
+        <item quantity="many">&lt;b>%1$d&lt;/b> videos</item>
+    </plurals>
+    <plurals name="tw__time_hours">
+        <item quantity="other">%d ч</item>
+        <item quantity="one">1 ч</item>
+    </plurals>
+    <plurals name="tw__time_mins">
+        <item quantity="other">%d мин</item>
+        <item quantity="one">1 мин</item>
+    </plurals>
+    <plurals name="tw__time_secs">
+        <item quantity="other">%d с</item>
+        <item quantity="one">1 с</item>
+    </plurals>
+</resources>

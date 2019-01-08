@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.tikilive.ui.layout.HorizontalFixedFrameLayout android:orientation="vertical" android:focusable="true" android:focusableInTouchMode="true" android:clickable="true" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:background="@drawable/package_background" android:padding="@dimen/choose_package_padding" android:duplicateParentState="true" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginStart="@dimen/package_grid_spacing" android:layout_marginEnd="@dimen/package_grid_spacing">
+        <TextView android:textSize="@dimen/package_title_text_size" android:textColor="#ffffffff" android:gravity="center_horizontal" android:id="@id/package_title" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/package_title_margin_top" android:lines="1" android:fontFamily="sans-serif-light" />
+        <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/package_price_margin_top">
+            <TextView android:textSize="@dimen/package_price_extra_text_size" android:textStyle="bold" android:textColor="#ffffffff" android:gravity="end|center|top" android:paddingTop="@dimen/package_price_extra_padding_top" android:layout_width="0.0dip" android:layout_height="fill_parent" android:text="$" android:layout_weight="1.0" android:fontFamily="sans-serif-light" android:paddingEnd="2.0dip" />
+            <TextView android:textSize="@dimen/package_price_text_size" android:textStyle="bold" android:textColor="#ffffffff" android:id="@id/package_price" android:layout_width="wrap_content" android:layout_height="fill_parent" android:fontFamily="sans-serif-light" />
+            <TextView android:textSize="@dimen/package_price_extra_text_size" android:textStyle="bold" android:textColor="#ffffffff" android:gravity="bottom" android:paddingBottom="@dimen/package_price_extra_padding_bottom" android:layout_width="0.0dip" android:layout_height="fill_parent" android:text="/mo" android:layout_weight="1.0" android:fontFamily="sans-serif-light" android:paddingStart="2.0dip" />
+        </LinearLayout>
+        <FrameLayout android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0" android:layout_marginStart="@dimen/package_channels_grid_spacing" android:layout_marginEnd="@dimen/package_channels_grid_spacing">
+            <TextView android:textSize="@dimen/package_description_text_size" android:textColor="#ffffffff" android:ellipsize="end" android:gravity="center" android:layout_gravity="center" android:id="@id/package_description" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="@integer/package_description_max_lines" android:fontFamily="sans-serif-light" />
+        </FrameLayout>
+        <android.support.v7.widget.RecyclerView android:id="@id/package_channels" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    </LinearLayout>
+</com.tikilive.ui.layout.HorizontalFixedFrameLayout>

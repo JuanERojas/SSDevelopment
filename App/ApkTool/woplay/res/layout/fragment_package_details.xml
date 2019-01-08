@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/choose_packages" android:layout_width="fill_parent" android:layout_height="fill_parent" android:paddingStart="@dimen/activity_heading_padding_horizontal" android:paddingEnd="@dimen/activity_heading_padding_horizontal"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="@dimen/choose_package_title_text_size" android:textColor="#ffffffff" android:gravity="center_horizontal" android:id="@id/title" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/choose_package_title_margin_bottom" android:fontFamily="sans-serif-light" />
+    <LinearLayout android:orientation="vertical" android:background="@drawable/package_background_normal" android:padding="@dimen/package_channel_details_padding" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0" android:layout_marginStart="5.0dip" android:layout_marginEnd="5.0dip">
+        <TextView android:textSize="@dimen/package_description_text_size" android:textColor="#ffffffff" android:id="@id/description" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/package_channel_details_padding" android:maxLines="2" android:fontFamily="sans-serif-light" />
+        <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <LinearLayout android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="fill_parent">
+                <TextView android:textSize="@dimen/package_description_text_size" android:textColor="#ffffffff" android:gravity="end" android:id="@id/live_channels_title" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0" />
+                <TextView android:textSize="@dimen/package_description_text_size" android:textColor="#ffffffff" android:gravity="end" android:id="@id/catchup_channels_title" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0" />
+                <TextView android:textSize="@dimen/package_description_text_size" android:textColor="#ffffffff" android:gravity="end" android:id="@id/radio_channels_title" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0" />
+            </LinearLayout>
+            <TextView android:background="#ff0a1219" android:layout_width="1.0dip" android:layout_height="fill_parent" android:layout_marginStart="@dimen/package_channel_details_padding" android:layout_marginEnd="@dimen/package_channel_details_padding" />
+            <TextView android:textSize="36.0sp" android:textColor="#ffffffff" android:gravity="center" android:id="@id/arrow_left" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="fill_parent" android:text="‹" android:fontFamily="sans-serif-light" android:layout_marginEnd="5.0dip" />
+            <android.support.v7.widget.RecyclerView android:id="@id/recyclerview" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0" />
+            <TextView android:textSize="36.0sp" android:textColor="#ffffffff" android:gravity="center" android:id="@id/arrow_right" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="fill_parent" android:text="›" android:fontFamily="sans-serif-light" android:layout_marginStart="5.0dip" />
+        </LinearLayout>
+    </LinearLayout>
+    <FrameLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="10.0dip">
+        <Button android:theme="@style/AppTheme.Button" android:layout_gravity="center" android:id="@id/back_to_offers" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/back_to_packages" />
+    </FrameLayout>
+</LinearLayout>

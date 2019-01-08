@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="vertical" android:background="@drawable/drop_shadow" android:paddingTop="@dimen/account_section_padding_top" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingStart="@dimen/recyclerview_grid_padding_horizontal" android:paddingEnd="@dimen/recyclerview_grid_padding_horizontal">
+        <FrameLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="@dimen/recyclerview_grid_header_height" android:layout_marginBottom="@dimen/recyclerview_grid_header_margin_bottom">
+            <TextView android:textAppearance="?android:textAppearance" android:textSize="@dimen/account_text_size" android:textColor="#80ffffff" android:layout_gravity="center_vertical" android:id="@id/subscription_title" android:layout_width="wrap_content" android:layout_height="fill_parent" android:text="@string/subscription" android:fontFamily="sans-serif-light" android:layout_marginStart="@dimen/video_library_grid_spacing" />
+        </FrameLayout>
+        <android.support.v7.widget.RecyclerView android:id="@id/recyclerview_subscriptions" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginStart="@dimen/video_library_grid_spacing" android:layout_marginEnd="@dimen/video_library_grid_spacing" />
+    </LinearLayout>
+</RelativeLayout>

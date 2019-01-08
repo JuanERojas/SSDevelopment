@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/channels_library" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:id="@id/heading" android:background="#0dffffff" android:paddingTop="@dimen/activity_heading_padding_top_small" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingStart="@dimen/activity_heading_padding_horizontal" android:paddingEnd="@dimen/activity_heading_padding_horizontal">
+        <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="@dimen/activity_heading_height" android:layout_marginBottom="@dimen/activity_heading_margin_bottom">
+            <TextView android:textAppearance="?android:textAppearanceMedium" android:textStyle="bold" android:textColor="#ffffffff" android:gravity="center_vertical" android:layout_width="wrap_content" android:layout_height="fill_parent" android:text="@string/channel_activity_title" android:fontFamily="sans-serif-bold" />
+            <TextView android:textAppearance="?android:textAppearanceMedium" android:textColor="#ffffffff" android:gravity="center_vertical" android:id="@id/breadcrumbs" android:layout_width="0.0dip" android:layout_height="fill_parent" android:lines="1" android:layout_weight="1.0" android:fontFamily="sans-serif-light" />
+            <TextClock android:textAppearance="?android:textAppearanceMedium" android:textStyle="bold" android:textColor="#ffffffff" android:gravity="end|center" android:id="@id/current_time" android:layout_width="wrap_content" android:layout_height="wrap_content" android:fontFamily="sans-serif-bold" />
+        </LinearLayout>
+        <LinearLayout android:orientation="horizontal" android:background="@drawable/tabs_background" android:layout_width="fill_parent" android:layout_height="@dimen/activity_tabs_height">
+            <TextView android:textSize="@dimen/activity_tabs_text_size" android:textStyle="bold" android:textColor="@color/tabs" android:gravity="center_vertical" android:id="@id/tab_ott_channels" android:background="@drawable/tab_background" android:focusable="true" android:focusableInTouchMode="false" android:clickable="true" android:layout_width="wrap_content" android:layout_height="fill_parent" android:text="@string/ott_channels" android:lines="1" android:layout_marginEnd="@dimen/activity_tabs_margin_end" />
+            <TextView android:textSize="@dimen/activity_tabs_text_size" android:textStyle="bold" android:textColor="@color/tabs" android:gravity="center_vertical" android:id="@id/tab_social_broadcasts" android:background="@drawable/tab_background" android:focusable="true" android:focusableInTouchMode="false" android:clickable="true" android:layout_width="wrap_content" android:layout_height="fill_parent" android:text="@string/social_broadcasts" android:lines="1" android:layout_marginEnd="@dimen/activity_tabs_margin_end" />
+            <Space android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0" />
+        </LinearLayout>
+    </LinearLayout>
+    <RelativeLayout android:orientation="vertical" android:background="@drawable/drop_shadow" android:paddingTop="@dimen/activity_heading_padding_top" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_below="@id/heading">
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingStart="@dimen/recyclerview_grid_padding_horizontal" android:paddingEnd="@dimen/recyclerview_grid_padding_horizontal">
+            <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="@dimen/recyclerview_grid_header_height" android:layout_marginBottom="@dimen/recyclerview_grid_header_margin_bottom">
+                <TextView android:textAppearance="?android:textAppearanceMedium" android:textSize="@dimen/video_library_header_text_size" android:textColor="#80ffffff" android:layout_gravity="center_vertical" android:id="@id/all_channels_title" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0" android:fontFamily="sans-serif-light" android:layout_marginStart="@dimen/video_library_grid_spacing" />
+                <TextView android:textAppearance="?android:textAppearanceMedium" android:textSize="@dimen/video_library_header_text_size" android:textColor="#80ffffff" android:layout_gravity="center_vertical" android:id="@id/all_channels_counter" android:layout_width="wrap_content" android:layout_height="fill_parent" android:fontFamily="sans-serif-light" android:layout_marginEnd="@dimen/video_library_grid_spacing" />
+            </LinearLayout>
+            <android.support.v7.widget.RecyclerView android:id="@id/recyclerview_all_channels_library" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+        </LinearLayout>
+        <TextView android:id="@id/no_channels_info" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerInParent="true" style="@style/TextAppearance.AppCompat.Subhead" />
+    </RelativeLayout>
+</RelativeLayout>

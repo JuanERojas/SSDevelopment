@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerInParent="true">
+        <TextView android:id="@id/speedtest_result_icon" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+        <LinearLayout android:orientation="vertical" android:background="#ff1c3041" android:paddingBottom="@dimen/speedtest_result_container_padding_vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:paddingStart="@dimen/speedtest_result_container_padding_horizontal" android:paddingEnd="@dimen/speedtest_result_container_padding_horizontal">
+            <TextView android:textSize="@dimen/speedtest_result_large_text_size" android:textStyle="bold" android:textColor="#ffffffff" android:gravity="center" android:layout_gravity="center_horizontal" android:id="@id/speedtest_result" android:paddingTop="@dimen/speedtest_result_padding_top" android:paddingBottom="@dimen/speedtest_result_padding_bottom" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/speedtest_result_average" android:textAllCaps="true" />
+            <TextView android:textSize="@dimen/speedtest_result_standard_text_size" android:textColor="#ffffffff" android:gravity="center" android:id="@id/speedtest_result_action" android:paddingBottom="@dimen/speedtest_result_action_padding_bottom" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+            <TextView android:textSize="@dimen/speedtest_result_standard_text_size" android:textColor="#ffffffff" android:gravity="center" android:id="@id/speedtest_result_isp" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+        </LinearLayout>
+        <TextView android:textSize="@dimen/speedtest_result_grade_text_size" android:textStyle="bold" android:gravity="center" android:id="@id/speedtest_result_grade" android:paddingTop="@dimen/speedtest_result_grade_padding_vertical" android:paddingBottom="@dimen/speedtest_result_grade_padding_bottom" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+        <LinearLayout android:layout_gravity="center_horizontal" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <LinearLayout android:layout_gravity="center_horizontal" android:orientation="vertical" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0">
+                <TextView android:textSize="@dimen/speedtest_result_report_label_text_size" android:textColor="#ffffffff" android:gravity="center" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/speedtest_latency" />
+                <TextView android:textSize="@dimen/speedtest_result_report_text_size" android:textStyle="bold" android:textColor="#ffffffff" android:gravity="center" android:id="@id/speedtest_result_latency" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+            </LinearLayout>
+            <TextView android:background="#16ffffff" android:layout_width="3.0dip" android:layout_height="fill_parent" />
+            <LinearLayout android:layout_gravity="center_horizontal" android:orientation="vertical" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0">
+                <TextView android:textSize="@dimen/speedtest_result_report_label_text_size" android:textColor="#ffffffff" android:gravity="center" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/speedtest_result_download" />
+                <TextView android:textSize="@dimen/speedtest_result_report_text_size" android:textStyle="bold" android:textColor="#ffffffff" android:gravity="center" android:id="@id/speedtest_result_download" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout android:layout_gravity="center_horizontal" android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/speedtest_result_buttons_margin_top">
+            <Button android:textSize="@dimen/vod_details_button_text_size" android:layout_gravity="center_horizontal" android:id="@id/test_again" android:background="@drawable/button" android:layout_width="wrap_content" android:layout_height="@dimen/vod_details_button_height" android:text="@string/speedtest_test_again_button" android:paddingStart="@dimen/vod_details_button_padding_horizontal" android:paddingEnd="@dimen/vod_details_button_padding_horizontal" android:layout_marginEnd="5.0dip" />
+            <Button android:textSize="@dimen/vod_details_button_text_size" android:layout_gravity="center_horizontal" android:id="@id/send_results" android:background="@drawable/button" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="@dimen/vod_details_button_height" android:text="@string/speedtest_send_test_results_button" android:paddingStart="@dimen/vod_details_button_padding_horizontal" android:paddingEnd="@dimen/vod_details_button_padding_horizontal" android:layout_marginStart="5.0dip" />
+        </LinearLayout>
+    </LinearLayout>
+</RelativeLayout>

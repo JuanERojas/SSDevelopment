@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:background="@drawable/apps_bg" android:padding="@dimen/account_list_item_padding" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/account_list_item_margin_bottom"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/device_type" android:layout_width="@dimen/account_thumb_diameter" android:layout_height="@dimen/account_thumb_diameter" />
+    <TableLayout android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="3.0" android:layout_marginStart="10.0dip">
+        <TableRow>
+            <TextView android:textAppearance="?android:textAppearance" android:textSize="@dimen/account_text_size" android:textStyle="bold" android:textColor="#ffffffff" android:ellipsize="marquee" android:gravity="bottom" android:id="@id/device_name" android:layout_width="0.0dip" android:text="device name" android:maxLines="1" android:singleLine="true" android:layout_weight="3.0" android:marqueeRepeatLimit="marquee_forever" android:fontFamily="sans-serif-bold" />
+            <TextView android:textAppearance="?android:textAppearanceSmall" android:textSize="@dimen/account_text_size_small" android:textStyle="bold" android:textColor="#ff43a047" android:gravity="bottom" android:id="@id/device_used_status" android:layout_width="0.0dip" android:text="In Use" android:maxLines="1" android:singleLine="true" android:layout_weight="2.0" android:fontFamily="sans-serif-bold" android:layout_marginStart="10.0dip" />
+        </TableRow>
+        <TableRow>
+            <TextView android:textAppearance="?android:textAppearanceSmall" android:textSize="@dimen/account_text_size_small" android:textColor="#ff999999" android:ellipsize="marquee" android:gravity="center_vertical" android:id="@id/device_id" android:layout_width="0.0dip" android:maxLines="1" android:singleLine="true" android:layout_weight="3.0" android:marqueeRepeatLimit="marquee_forever" android:fontFamily="sans-serif-light" />
+            <TextView android:textAppearance="?android:textAppearanceSmall" android:textSize="@dimen/account_text_size_small" android:textColor="#ff999999" android:gravity="center_vertical" android:id="@id/device_last_updated" android:layout_width="0.0dip" android:maxLines="1" android:singleLine="true" android:layout_weight="2.0" android:fontFamily="sans-serif-light" android:layout_marginStart="10.0dip" />
+        </TableRow>
+        <TableRow>
+            <TextView android:textAppearance="?android:textAppearanceSmall" android:textSize="@dimen/account_text_size_small" android:textStyle="bold" android:textColor="#ff43a047" android:gravity="center_vertical" android:id="@id/device_primary_label" android:layout_width="wrap_content" android:layout_span="2" android:text="@string/device_primary_label" android:maxLines="1" android:singleLine="true" android:layout_weight="1.0" android:fontFamily="sans-serif-bold" />
+        </TableRow>
+    </TableLayout>
+    <Button android:theme="@style/AppTheme.Button" android:id="@id/device_action" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/device_action_remove" android:layout_marginStart="10.0dip" />
+</LinearLayout>

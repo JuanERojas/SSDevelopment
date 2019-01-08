@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="vertical" android:background="@drawable/drop_shadow" android:paddingTop="@dimen/account_section_padding_top" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingStart="@dimen/activity_heading_padding_horizontal" android:paddingEnd="@dimen/activity_heading_padding_horizontal">
+        <LinearLayout android:orientation="horizontal" android:id="@id/device_limit_reached_container" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/device_limit_reached_margin_bottom">
+            <Space android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0" />
+            <LinearLayout android:orientation="vertical" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="6.0">
+                <TextView android:textAppearance="?android:textAppearanceLarge" android:textSize="@dimen/account_text_size_large" android:textColor="#ffffffff" android:gravity="center" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/device_limit_reached_title" android:fontFamily="sans-serif-light" />
+                <TextView android:textAppearance="?android:textAppearanceMedium" android:textSize="@dimen/account_text_size_medium" android:textColor="#ffffffff" android:gravity="center" android:id="@id/device_limit_reached_message" android:layout_width="fill_parent" android:layout_height="wrap_content" android:fontFamily="sans-serif-light" />
+            </LinearLayout>
+            <Space android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0" />
+        </LinearLayout>
+        <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="@dimen/recyclerview_grid_header_height" android:layout_marginBottom="@dimen/recyclerview_grid_header_margin_bottom">
+            <TextView android:textAppearance="?android:textAppearance" android:textSize="@dimen/account_text_size" android:textColor="#80ffffff" android:layout_gravity="center_vertical" android:id="@id/device_linked_label" android:layout_width="0.0dip" android:layout_height="fill_parent" android:text="@string/activated_devices" android:layout_weight="1.0" android:fontFamily="sans-serif-light" />
+            <TextView android:textAppearance="?android:textAppearance" android:textSize="@dimen/account_text_size" android:textColor="#80ffffff" android:gravity="end" android:layout_gravity="center_vertical" android:id="@id/current_devices_linked" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0" android:fontFamily="sans-serif-light" />
+        </LinearLayout>
+        <android.support.v7.widget.RecyclerView android:id="@id/recyclerview_devices" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    </LinearLayout>
+</RelativeLayout>

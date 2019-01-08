@@ -1,0 +1,35 @@
+
+<html>
+<head>
+<?php
+//	echo "AAAAAAA";
+
+	$servername = "localhost";
+    $database = "SS-DB"; 
+    $username = "root";
+    $password = "";
+	
+	$conn = mysqli_connect($servername, $username, $password, $database);
+	if (!$conn) {
+      die("Connection failed: " . mysqli_connect_error());
+	}
+	$sql = "SELECT fecha FROM fecha WHERE idfecha = 1";
+	$resultado = mysqli_query($conn, $sql);
+	
+	if (!$resultado) {
+		$mensaje  = 'Consulta no válida: ' . mysql_error() . "\n";
+		$mensaje .= 'Consulta completa: ' . $consulta;
+		die($mensaje);
+	}
+	
+	$fila = mysql_fetch_assoc($resultado);
+	
+?>
+</head>
+<body>
+
+
+	<h1>PANELES</h1>
+	<h2>Fecha: <?= $fila ?>:<h2>
+</body>
+</html>

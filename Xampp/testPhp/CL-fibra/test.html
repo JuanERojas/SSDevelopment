@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+ <html lang="es">
+ <head>
+   <meta charset="UTF-8">
+   <title>Campo input sin borde</title>
+   <style>
+   input {
+     width: 250px;
+     padding: 5px;
+   }
+   .redondeado {
+     border-radius: 5px;
+   }
+   .confondo {
+     background-color: #def;
+   }
+   .sinborde {
+     border: 0;
+   }
+   .sinbordefondo {
+     background-color: #eee;
+     border: 0;
+   }
+   .outlinenone {
+     outline: none;
+     background-color: #dfe;
+     border: 0;
+   }
+   .redondeadonorelieve {
+     border-radius: 5px;
+     border: 1px solid #39c;
+   }
+   </style>
+ </head>
+ <body>
+   <p>
+     <input type="text" value="input sin estilos">
+   </p>
+   <p>
+     <input type="text" class="redondeado" value="input con borde redondeado">
+   </p>
+   <p>
+     <input type="text" class="confondo" value="input con color de fondo">
+   </p>
+   <p>
+     <input type="text" class="sinborde" value="input sin borde">
+   </p>
+   <p>
+     <input type="text" class="sinbordefondo" value="input sin borde y con fondo">
+   </p>
+   <p>
+     <input type="text" class="outlinenone" value="input sin borde y con fondo pero sin outline">
+   </p>
+
+  <p>
+     <input type="text" class="redondeadonorelieve" value="input con borde redondeado sin relieve">
+   </p>
+ </body>
+ </html>

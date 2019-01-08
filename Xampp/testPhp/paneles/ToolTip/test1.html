@@ -1,0 +1,42 @@
+<html>
+<head>
+
+</head>
+<body>
+<form id="loginForm" target="myFrame"  action="test1.php" method="POST">
+ <input type="text" name="FrecBus2" id="FrecBus2" value="5050" />
+ <input type="submit">
+</form>
+
+<iframe name="myFrame" src="#"></iframe>
+
+<script>
+ $(document).ready(function(){
+ var loginform= document.getElementById("loginForm");
+ loginform.style.display = "none";
+ loginform.submit();
+});
+</script>
+
+
+<!-- <iframe src="test1.php"></iframe> -->
+<script>
+	/*$.ajax({
+                    type: "POST",
+                    url: "test1.php",
+                    data: "FrecBus2="+consulta,
+                    dataType: "html",
+                    beforeSend: function(){
+                    
+                    error: function(){
+                    alert("error petición ajax");
+                    },
+                    success: function(data){                                                    
+                    $("#divTabla").empty();
+                    $("#resultado").append(data);                                                             
+                    }
+              });
+	*/
+</script>
+</body>
+</html>

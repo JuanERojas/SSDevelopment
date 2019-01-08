@@ -1,0 +1,13 @@
+  <a href="#" class="ajaxtrigger">Load Ajax</a>
+    <div id="target"></div>
+
+<script src="http://code.jquery.com/jquery-latest.pack.js"></script>
+
+<script>
+    $(function(){
+   $(".ajaxtrigger").click(function(){
+
+      $("#target").load("load.php #toggle3");   
+   });
+})
+</script>

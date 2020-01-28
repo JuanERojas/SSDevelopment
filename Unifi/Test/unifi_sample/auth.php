@@ -19,7 +19,7 @@
 		sendAuthorization($mac,$minutes,$url);
 		header('Location: http://www.google.fr'); // here is the URL you want to redirect
 	} else {
-	echo "Wrong credentials!"
+	echo "Wrong credentials!";
 	} 
 	sleep(10);
 	header('Location: '.$url.''); // if wrong credentials redirect to login page

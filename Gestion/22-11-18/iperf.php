@@ -77,7 +77,7 @@
 				//echo '<br>-<br>'.$return;
 	?>
 	<!--/tr-->
-<?php/*		}else{
+<?php /*		}else{
 				echo 'Timeout en Panel'; */?>
 	<!--/tr-->
 <?php //		} ?>

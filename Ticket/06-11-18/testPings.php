@@ -121,7 +121,7 @@
 			echo '<br><br>MCA-Status<br>';
 			$ssh->exec('mca-status', 'mca_status');
 			
-			echo '<br><br>cat /tmp/system.cfg<br>';ptables.sys.dmz.1.host
+			echo '<br><br>cat /tmp/system.cfg<br>'; //ptables.sys.dmz.1.host
 			$ssh->exec('cat /tmp/system.cfg', 'cat_tmp_system');
 		?>
 </div>

@@ -29,7 +29,7 @@ if ($API->connect($ipRouteros , $Username , $Pass, $api_puerto)) {
 	
 	
 	$API->disconnect();
-	}	
+	
 }
 
 ?>

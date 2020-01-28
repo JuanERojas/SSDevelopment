@@ -391,7 +391,7 @@ $cont=0;
 <?php
 			}
 	?>
-			<th width="230" align='left'><?php if($nodo==)echo $nodo;?></th>
+			<th width="230" align='left'><?php if($nodo=='')echo $nodo;?></th>
 			<th width="40" align='left'><?php echo $cantidad6;?></th>
 		</tr>
 <?php

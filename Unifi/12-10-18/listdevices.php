@@ -45,7 +45,7 @@ function listDevices() //ADD
 		'type'=> 'all',
 		'conn'=> 'all',
         'within'=>intval(8760)));
-		));
+		
 
     // Send the command to the API
     curl_setopt($ch, CURLOPT_URL, $unifiServer.'/api/s/default/stat/alluser');

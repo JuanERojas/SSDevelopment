@@ -103,7 +103,7 @@ abstract class Parsonline_IntelligentObjectAbstract
     public static function setDefaultStringRepresentationFormat($format)
     {
         $formatterMethod = 'toStringIn' . strtoupper($format) . 'Format';
-        if ( !method_exists(get_class($this), $formatterMethod) ) {
+        if ( !method_exists(get_class(false /*$this*/  ), $formatterMethod) ) {
             /**
              * @uses    Parsonline_Exception_ValueException
              */

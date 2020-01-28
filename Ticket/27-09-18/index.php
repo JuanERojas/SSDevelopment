@@ -95,7 +95,7 @@
 					Cliente: 
 				</th>
 				<th>
-					<!--INPUT TYPE = "Text" NAME = "codCliente" id="codCliente" width="100" value=<?php// echo $numcliente; ?>"  style="display:none"-->
+					<!--INPUT TYPE = "Text" NAME = "codCliente" id="codCliente" width="100" value=<?php // echo $numcliente; ?>"  style="display:none"-->
 					<INPUT TYPE = "Text" NAME = "codCliente" id="codCliente" width="100">
 				</th>
 			</tr>

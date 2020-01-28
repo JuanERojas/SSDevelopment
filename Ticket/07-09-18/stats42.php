@@ -1,6 +1,6 @@
 <html>
 <?php
-	echo _$GET['nodo'];
+	echo $_GET['nodo'];
 ?>
 <head>
 	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>

@@ -1,7 +1,6 @@
 <?php
 
 
-<?php
 /*
 $username="root";		$password="";		$database="exam_codes";
 $con = mysql_connect("localhost",$username,$password) or die( "Unable to Connect database");

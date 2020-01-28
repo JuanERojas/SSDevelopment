@@ -140,7 +140,7 @@
 					?>
 				</th>
 				<th align="right"><?php echo acomodar_b($r['max-limit']); ?></th>
-				<!--th align="left"><?php// echo utf8_encode($r['comment']); ?></th-->
+				<!--th align="left"><?php // echo utf8_encode($r['comment']); ?></th-->
 			</tr>
 	<?php
 		}

@@ -23,13 +23,13 @@ $ip = "172.13.12.2";
 $marca = "Nano";
 $frecuencia = 5560;
 $clientes = 14;
-
+/*
 $my_Insert_Statement->bindParam(:nombre, $nombre);
 $my_Insert_Statement->bindParam(:ip, $ip);
 $my_Insert_Statement->bindParam(:marca, $marca);
 $my_Insert_Statement->bindParam(:frecuencia, $frecuencia);
 $my_Insert_Statement->bindParam(:clientes, $clientes);
-
+*/
 if ($my_Insert_Statement->execute()) {
   echo "New record created successfully";
 } else {

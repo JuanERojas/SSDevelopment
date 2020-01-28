@@ -47,8 +47,8 @@
 		$my_Insert_Statement = $my_Db_Connection->prepare("INSERT INTO cliente (idcliente, codcliente, codnap, time) VALUES (NULL, :codCliente, :codNap, :tiempo)");
 	}else{
 		$my_Insert_Statement = $my_Db_Connection->prepare("INSERT INTO pon (idpon, codigo) VALUE (NULL, :codPon);");
-*/	}
-	
+	}
+*/	
 	$my_Insert_Statement = $my_Db_Connection->prepare("INSERT INTO pon (idpon, codigo) VALUE (NULL, :codPon);");
 	$my_Insert_Statement->bindParam(':codPon', $codPon);
 	

@@ -32,12 +32,12 @@ if ($API->connect($ipRouteros , $Username , $Pass, $api_puerto)) {
                  array(
                 ".proplist"=> ".id",
                 "?address" => $addressfind, //IP LIBRE
-                ))
+				 ));
 	//var_dump($iplib);
 	//echo '<br>'.$iplib[0]['.id'].'<br>';
 	
 	// find ip wbcore
-	$core=$API->comm("/ip/firewall/nat/print", 
+	$core = $API->comm("/ip/firewall/nat/print", 
                  array(
                 ".proplist"=> ".id",
                 "?comment" => $corefind, // CORE

@@ -1,0 +1,27 @@
+ADMINISTRACIÓN		1	Resuelto
+ADMINISTRACIÓN			Cliente no responde
+ADMINISTRACIÓN			Derivado a otro sector
+ADMINISTRACIÓN			Suspendido
+BAJA VELOCIDAD		2	Resuelto
+BAJA VELOCIDAD			Cliente no responde
+BAJA VELOCIDAD			Ticket
+CONSULTAS			3	IP PUBLICA FIJA
+CORTES				4	Resuelto
+CORTES					Cliente no responde
+CORTES					Ticket
+INCONVENIENTE INTERNO 5	Resuelto
+INCONVENIENTE INTERNO	Asesorado
+NIVEL 2				6	Resuelto
+NIVEL 2					Derivado a otro sector
+PROBLEMA GENERAL	7	Sin Internet
+PROBLEMA GENERAL		Baja Velocidad
+REDES SOCIALES		8	Resuelto
+REDES SOCIALES			Cliente no responde
+REDES SOCIALES			Problema general
+ROUTER				9	Resuelto
+ROUTER					Cliente no responde
+ROUTER					Derivado al Local Comercial
+ROUTER					Ticket
+SIN INTERNET		10	Resuelto
+SIN INTERNET			Cliente no responde
+SIN INTERNET			Ticket

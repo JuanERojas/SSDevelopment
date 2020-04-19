@@ -33,3 +33,6 @@ V	Qeu -- Ver caracteres especiales
 
 07-01-2019
 V	Tk -- Stats guarde los csv en una carpeta a parte
+
+19-04-2020
+	Tk -- Tomar IP-Mascara para FO y encontrar su nombre de panel al guardar el reclamo

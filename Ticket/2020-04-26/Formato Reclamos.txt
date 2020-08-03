@@ -1,0 +1,17 @@
+//------------------------------------------Leer Archivos para Reclamos
+/*	
+	En el archivo 'reclamos.sss' siga este formato
+
+	 _______________________________
+	|Formato MSJ:					|
+	|-------------------------------|
+	|TR=Tipo de reclamo	(p/UDP)		|
+	|Nmb=Nombre con el que sale		|
+	|Nt=No al mismo tiempo			|
+	|								|
+	|TR*Nmb;Nt;Nt						| ---->SinServicio*Sin Servicio;2;3
+	|TR*Nmb;Nt							| ---->BajaVelocidad*Baja Velocidad;1
+	|TR*Nmb;Nt							| ---->WSP*Wsp-Insta-Face;3
+	|								|
+	|_______________________________|
+*/	

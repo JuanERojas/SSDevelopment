@@ -1,0 +1,59 @@
+Estadisticas;2019-09-20-2019-09-20
+Tecnico;Panel;Reclamo;Cliente;Hora
+ Eduardo  Portillo;SSiP3bb;Sin  Servicio;6682;2019-09-20  10:17:49 
+ Eduardo  Portillo;LP1C;Sin  Servicio;8974;2019-09-20  10:25:17 
+ Eduardo  Portillo;SSiP3bb;Sin  Servicio;7519;2019-09-20  10:28:07 
+ Eduardo  Portillo;OLT1.UBNT.PS;Sin  Servicio;5007;2019-09-20  10:31:30 
+ Eduardo  Portillo;TSB4Cbb;Baja  Velocidad;3072;2019-09-20  10:38:36 
+ Eduardo  Portillo;OLT1.UBNT.HQ;Sin  Servicio;7192;2019-09-20  10:49:44 
+ Eduardo  Portillo;OLT1.UBNT.PS;Baja  Velocidad;16104;2019-09-20  10:56:27 
+ Eduardo  Portillo;P2P;Corte  Administrativo;3246;2019-09-20  11:08:35 
+ Eduardo  Portillo;OLT2.HUAWEI.PS;Corte  Administrativo;2319;2019-09-20  11:14:29 
+ Eduardo  Portillo;MluR1tris;Corte  Administrativo;722;2019-09-20  11:20:51 
+ Eduardo  Portillo;LP1C;Corte  Administrativo;13123;2019-09-20  11:22:50 
+ Eduardo  Portillo;HW3C;Corte  Administrativo;8790;2019-09-20  11:26:36 
+ Eduardo  Portillo;PS3Cbis;Corte  Administrativo;13976;2019-09-20  11:30:09 
+ Eduardo  Portillo;OLT1.UBNT.TF;Corte  Administrativo;11688;2019-09-20  11:31:18 
+ Eduardo  Portillo;TSB2T;Corte  Administrativo;12277;2019-09-20  11:31:58 
+ Eduardo  Portillo;PS1C;Corte  Administrativo;13905;2019-09-20  11:32:46 
+ Eduardo  Portillo;SSiP3bb;Corte  Administrativo;12272;2019-09-20  11:45:10 
+ Eduardo  Portillo;HE1C;Sin  Servicio;15016;2019-09-20  11:46:50 
+ Eduardo  Portillo;RU4;Corte  Administrativo;3089;2019-09-20  11:48:06 
+ Eduardo  Portillo;HI1C;Corte  Administrativo;13752;2019-09-20  11:49:06 
+ Eduardo  Portillo;SF3C;Corte  Administrativo;12510;2019-09-20  11:51:12 
+ Eduardo  Portillo;OLT1.UBNT.PS;Corte  Administrativo;15108;2019-09-20  11:51:56 
+ Eduardo  Portillo;OLT1.UBNT.PS;Corte  Administrativo;1128;2019-09-20  11:53:21 
+ Eduardo  Portillo;OLT1.UBNT.TF;Corte  Administrativo;13161;2019-09-20  11:55:02 
+ Eduardo  Portillo;OLT1.UBNT.PI;Sin  Servicio;12503;2019-09-20  11:56:37 
+ Eduardo  Portillo;TSB4Cbb;Corte  Administrativo;13890;2019-09-20  11:58:12 
+ Eduardo  Portillo;OLT1.UBNT.PS;Corte  Administrativo;847;2019-09-20  12:02:17 
+ Eduardo  Portillo;PI3;Corte  Administrativo;1257;2019-09-20  12:06:10 
+ Eduardo  Portillo;SF1.45AC;Corte  Administrativo;14548;2019-09-20  12:17:00 
+ Eduardo  Portillo;TSB4Cbb;Baja  Velocidad;5018;2019-09-20  12:18:17 
+ Eduardo  Portillo;TSB4Cbb;Corte  Administrativo;5018;2019-09-20  12:21:47 
+ Eduardo  Portillo;TSB4Cbb;Wsp-Inst-Face;5018;2019-09-20  12:22:34 
+ Eduardo  Portillo;PP3C;Corte  Administrativo;12366;2019-09-20  12:23:32 
+ Eduardo  Portillo;SP1AC;Cortes;17205;2019-09-20  12:28:58 
+ Eduardo  Portillo;OLT1.HUAWEI.SF;Corte  Administrativo;13170;2019-09-20  12:32:52 
+ Eduardo  Portillo;OLT1.UBNT.PS;Corte  Administrativo;14153;2019-09-20  12:44:20 
+ Eduardo  Portillo;OLT1.UBNT.PS;Corte  Administrativo;14153;2019-09-20  12:45:01 
+ Eduardo  Portillo;YL1;Corte  Administrativo;13720;2019-09-20  12:46:49 
+ Eduardo  Portillo;PS3C;Corte  Administrativo;12410;2019-09-20  12:50:24 
+ Eduardo  Portillo;centro;Sin  Servicio;5691;2019-09-20  12:53:40 
+ Eduardo  Portillo;TT2Cbb;Corte  Administrativo;14423;2019-09-20  12:54:32 
+ Eduardo  Portillo;HW1C;Wsp-Inst-Face;12840;2019-09-20  12:59:46 
+ Eduardo  Portillo;SSiP3bb;Sin  Servicio;2137;2019-09-20  13:02:29 
+ Eduardo  Portillo;OLT1.UBNT.HQ;Sin  Servicio;14840;2019-09-20  13:07:33 
+ Eduardo  Portillo;OLT1.UBNT.HQ;Corte  Administrativo;14840;2019-09-20  13:08:20 
+ Eduardo  Portillo;OLT1.UBNT.HQ;Corte  Administrativo;13575;2019-09-20  13:11:21 
+ Eduardo  Portillo;OLT1.UBNT.HQ;Corte  Administrativo;12845;2019-09-20  13:12:36 
+ Eduardo  Portillo;TSB3T;Corte  Administrativo;13674;2019-09-20  13:13:06 
+ Eduardo  Portillo;TT2Cbis;Corte  Administrativo;14326;2019-09-20  13:14:13 
+ Eduardo  Portillo;SSiP2bis;Corte  Administrativo;1861;2019-09-20  13:18:50 
+ Eduardo  Portillo;HW3AC;Wsp-Inst-Face;8961;2019-09-20  13:19:25 
+ Eduardo  Portillo;OLT1.UBNT.PS;Corte  Administrativo;14244;2019-09-20  13:23:30 
+ Eduardo  Portillo;SG2quad;Corte  Administrativo;1997;2019-09-20  13:24:12 
+ Eduardo  Portillo;TSB1;Corte  Administrativo;3828;2019-09-20  13:28:57 
+ Eduardo  Portillo;AA1C;Corte  Administrativo;13643;2019-09-20  13:35:04 
+ Eduardo  Portillo;OLT4.HUAWEI.HQ;Corte  Administrativo;12651;2019-09-20  13:42:40 
+ Eduardo  Portillo;OLT1.UBNT.HQ;Corte  Administrativo;3129;2019-09-20  13:53:57 

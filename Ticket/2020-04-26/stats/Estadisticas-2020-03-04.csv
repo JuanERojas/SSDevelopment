@@ -1,0 +1,58 @@
+Estadisticas;2020-03-03-2020-03-04
+Tecnico;Panel;Reclamo;Cliente;Hora
+ Nicolas  Vargas;SSiP3bis;Sin  Servicio;9698;2020-03-03  09:40:02 
+ Nicolas  Vargas;PB1;Sin  Servicio;13121;2020-03-03  09:51:11 
+ Nicolas  Vargas;SSiP3bis;Sin  Servicio;3033;2020-03-03  09:56:55 
+ Martín  Tolaba;RU2ACbis;Sin  Servicio;8009;2020-03-03  10:15:50 
+ Nicolas  Vargas;OLT1.UBNT.HQ;Cortes;14384;2020-03-03  10:38:27 
+ Nicolas  Vargas;OLT1.UBNT.PI;Sin  Servicio;16593;2020-03-03  10:49:04 
+ Nicolas  Vargas;OLT3.HUAWEI.PI;Sin  Servicio;10107;2020-03-03  11:11:58 
+ Nicolas  Vargas;OLT3.HUAWEI.PI;Sin  Servicio;22605;2020-03-03  11:26:05 
+ Nicolas  Vargas;OLT1.HUAWEI.AC;Sin  Servicio;15475;2020-03-03  11:46:28 
+ Nicolas  Vargas;LP2C;Baja  Velocidad;10212;2020-03-03  12:06:16 
+ Nicolas  Vargas;GR2CBis;Baja  Velocidad;8568;2020-03-03  12:07:27 
+ Martín  Tolaba;ERROR;Baja  Velocidad;20937;2020-03-03  12:56:59 
+ Martín  Tolaba;OLT1.UBNT.PI;Sin  Servicio;15550;2020-03-03  14:49:45 
+ Martín  Tolaba;OLT1.UBNT.PS;Sin  Servicio;15376;2020-03-03  15:14:04 
+ Martín  Tolaba;OLT4.HUAWEI.HQ;Sin  Servicio;16204;2020-03-03  15:36:48 
+ Eduardo  Portillo;PI2bis;Sin  Servicio;9631;2020-03-03  15:43:19 
+ Martín  Tolaba;ERROR;Sin  Servicio;7270;2020-03-03  16:10:52 
+ Eduardo  Portillo;ERROR;Sin  Servicio;14998;2020-03-03  16:12:00 
+ Eduardo  Portillo;OLT2.HUAWEI.PS;Baja  Velocidad;8676;2020-03-03  16:25:40 
+ Eduardo  Portillo;ERROR;Sin  Servicio;19979;2020-03-03  17:15:40 
+ Martín  Tolaba;RAM2AC;Baja  Velocidad;2194;2020-03-03  17:20:59 
+ Martín  Tolaba;OLT2.HUAWEI.PS;Cortes;4192;2020-03-03  17:25:18 
+ Eduardo  Portillo;HE1C;Sin  Servicio;13737;2020-03-03  17:45:06 
+ Eduardo  Portillo;HQ4;Sin  Servicio;6154;2020-03-03  18:20:59 
+ Nicolas  Vargas;PI2;Sin  Servicio;14630;2020-03-03  18:29:08 
+ Nicolas  Vargas;TSB3T;Sin  Servicio;15711;2020-03-03  18:31:32 
+ Nicolas  Vargas;PI2;Sin  Servicio;14630;2020-03-03  18:32:02 
+ Eduardo  Portillo;ERROR;Wsp-Inst-Face;12005;2020-03-03  18:52:35 
+ Nicolas  Vargas;TSB4T;Sin  Servicio;3217;2020-03-03  18:59:15 
+ Nicolas  Vargas;RAM3AC;Sin  Servicio;19297;2020-03-03  19:06:36 
+ Nicolas  Vargas;OLT1.UBNT.HQ;Baja  Velocidad;21604;2020-03-03  19:22:54 
+ Nicolas  Vargas;BC2AC;Baja  Velocidad;8047;2020-03-03  19:37:43 
+ Nicolas  Vargas;HW3C;Baja  Velocidad;15876;2020-03-03  19:38:04 
+ Nicolas  Vargas;PI4C;Baja  Velocidad;11381;2020-03-03  19:43:54 
+ Nicolas  Vargas;A51-1AC;Baja  Velocidad;2924;2020-03-03  19:44:56 
+ Nicolas  Vargas;OLT4.HUAWEI.HQ;Sin  Servicio;5938;2020-03-03  19:46:59 
+ Nicolas  Vargas;RB3CBis;Sin  Servicio;15381;2020-03-03  19:49:37 
+ Nicolas  Vargas;HE4Cbis;Baja  Velocidad;2798;2020-03-03  20:08:57 
+ Nicolas  Vargas;PI4Cbb;Sin  Servicio;22662;2020-03-03  20:11:22 
+ Nicolas  Vargas;AA2C;Baja  Velocidad;13643;2020-03-03  20:13:00 
+ Nicolas  Vargas;OLT1.HUAWEI.SF;Sin  Servicio;11189;2020-03-03  20:34:33 
+ Nicolas  Vargas;TSB3Cbb;Sin  Servicio;15991;2020-03-03  20:39:37 
+ Nicolas  Vargas;PB1;Sin  Servicio;13121;2020-03-03  20:57:40 
+ Nicolas  Vargas;MluR1tris;Cortes;1558;2020-03-03  21:06:26 
+ Nicolas  Vargas;OLT1.UBNT.PS;Sin  Servicio;7830;2020-03-03  21:13:46 
+ Eduardo  Portillo;OLT4.HUAWEI.HQ;Baja  Velocidad;11974;2020-03-03  21:22:48 
+ Nicolas  Vargas;PP2C;Sin  Servicio;3574;2020-03-03  21:23:23 
+ Nicolas  Vargas;TSB1Cbis;Baja  Velocidad;10834;2020-03-03  21:55:23 
+ Nicolas  Vargas;OLT1.UBNT.PI;Sin  Servicio;8222;2020-03-03  21:56:27 
+ Nicolas  Vargas;TSB1Cbis;Sin  Servicio;10834;2020-03-03  22:24:01 
+ Nicolas  Vargas;OLT2.HUAWEI.PS;Sin  Servicio;9783;2020-03-03  22:40:00 
+ Eduardo  Portillo;OLT3.HUAWEI.PI;Sin  Servicio;17487;2020-03-03  22:40:44 
+ Nicolas  Vargas;LP3C;Baja  Velocidad;16433;2020-03-03  22:41:46 
+ Eduardo  Portillo;PS1bis;Sin  Servicio;13431;2020-03-03  22:47:53 
+ Eduardo  Portillo;PI4;Sin  Servicio;11694;2020-03-03  22:50:53 
+ Nicolas  Vargas;BC2AC;Baja  Velocidad;6918;2020-03-03  23:06:19 

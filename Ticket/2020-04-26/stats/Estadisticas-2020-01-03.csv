@@ -1,0 +1,35 @@
+Estadisticas;2020-01-03-2020-01-03
+Tecnico;Panel;Reclamo;Cliente;Hora
+ Eduardo  Portillo;OLT1.UBNT.PI;Sin  Servicio;18315;2020-01-03  09:48:09 
+ Eduardo  Portillo;TSB3Cbis;Sin  Servicio;9990;2020-01-03  10:06:40 
+ Eduardo  Portillo;TSB3T;Sin  Servicio;12362;2020-01-03  10:17:38 
+ Eduardo  Portillo;TSB3Cbis;Sin  Servicio;10538;2020-01-03  10:22:02 
+ Eduardo  Portillo;TSB3Cbis;Sin  Servicio;11428;2020-01-03  10:22:43 
+ Eduardo  Portillo;TSB3Cbis;Sin  Servicio;5577;2020-01-03  10:29:17 
+ Eduardo  Portillo;TSB3T;Sin  Servicio;16949;2020-01-03  10:29:58 
+ Eduardo  Portillo;AA1C;Sin  Servicio;18940;2020-01-03  10:46:04 
+ Eduardo  Portillo;PI3bis;Sin  Servicio;1459;2020-01-03  10:49:12 
+ Eduardo  Portillo;OLT1.HUAWEI.SF;Corte  Administrativo;19797;2020-01-03  11:40:57 
+ Mauricio  Priotti;PB1;Sin  Servicio;3436;2020-01-03  12:27:09 
+ Eduardo  Portillo;OLT2.HUAWEI.PS;Sin  Servicio;7187;2020-01-03  12:46:11 
+ Eduardo  Portillo;OLT2.HUAWEI.PS;Sin  Servicio;10713;2020-01-03  12:50:33 
+ Eduardo  Portillo;ESC4;Corte  Administrativo;10772;2020-01-03  13:00:01 
+ Mauricio  Priotti;TSB1Cbis;Baja  Velocidad;13117;2020-01-03  13:02:00 
+ Marycarmen  Diaz;BF1;Sin  Servicio;4406;2020-01-03  13:03:14 
+ Eduardo  Portillo;RU2AC;Sin  Servicio;7471;2020-01-03  13:05:52 
+ Eduardo  Portillo;TSB3Cbis;Sin  Servicio;6760;2020-01-03  14:15:14 
+ Eduardo  Portillo;ERROR;Cortes;20668;2020-01-03  14:19:51 
+ Eduardo  Portillo;B1bis;Cortes;5655;2020-01-03  15:30:06 
+ Eduardo  Portillo;RB1m;Sin  Servicio;4291;2020-01-03  15:32:05 
+ Nicolas  Vargas;OLT1.HUAWEI.AC;Baja  Velocidad;2748;2020-01-03  15:37:53 
+ Nicolas  Vargas;A51-1AC;Baja  Velocidad;13065;2020-01-03  15:41:58 
+ Nicolas  Vargas;AA2;Sin  Servicio;17802;2020-01-03  15:43:50 
+ Nicolas  Vargas;AA2;Sin  Servicio;17802;2020-01-03  15:44:07 
+ Nicolas  Vargas;ERROR;Baja  Velocidad;20668;2020-01-03  15:44:49 
+ Nicolas  Vargas;OLT1.UBNT.PS;Sin  Servicio;8317;2020-01-03  15:46:47 
+ Eduardo  Portillo;B2AC;Sin  Servicio;6224;2020-01-03  15:47:25 
+ Nicolas  Vargas;OLT4.HUAWEI.HQ;Baja  Velocidad;8046;2020-01-03  15:53:04 
+ Nicolas  Vargas;TG6;Sin  Servicio;19206;2020-01-03  16:12:57 
+ Nicolas  Vargas;TSB2Cbis;Sin  Servicio;8065;2020-01-03  16:30:03 
+ Nicolas  Vargas;HE1Cbb;Sin  Servicio;4750;2020-01-03  16:39:41 
+ Nicolas  Vargas;OLT1.UBNT.PS;Cortes;19722;2020-01-03  16:57:56 

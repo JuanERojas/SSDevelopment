@@ -1,0 +1,67 @@
+Estadisticas;2019-11-04-2019-11-04
+Tecnico;Panel;Reclamo;Cliente;Hora
+ Eduardo  Portillo;HQ2AC;Sin  Servicio;7652;2019-11-04  09:55:30 
+ Eduardo  Portillo;OLT2.UBNT.HQ;Sin  Servicio;16482;2019-11-04  10:48:47 
+ Eduardo  Portillo;RB1C;Sin  Servicio;6659;2019-11-04  10:49:01 
+ Eduardo  Portillo;MluR1tris;Baja  Velocidad;17760;2019-11-04  10:49:13 
+ Eduardo  Portillo;RAM4C;Baja  Velocidad;177;2019-11-04  10:49:27 
+ Eduardo  Portillo;OLT1.UBNT.PS;Sin  Servicio;17942;2019-11-04  10:51:12 
+ Eduardo  Portillo;ERROR;Sin  Servicio;19196;2019-11-04  11:10:18 
+ Eduardo  Portillo;TSB1C;Sin  Servicio;354;2019-11-04  11:27:50 
+ Eduardo  Portillo;PI3Cbis;Sin  Servicio;2183;2019-11-04  11:28:24 
+ Eduardo  Portillo;OLT1.UBNT.PS;Baja  Velocidad;5579;2019-11-04  11:31:35 
+ Eduardo  Portillo;OLT1.HUAWEI.AC;Sin  Servicio;16795;2019-11-04  11:32:05 
+ Eduardo  Portillo;OLT1.HUAWEI.AC;Sin  Servicio;9186;2019-11-04  11:32:51 
+ Eduardo  Portillo;TSB2C;Sin  Servicio;14575;2019-11-04  11:33:24 
+ Eduardo  Portillo;TSB2Cbis;Sin  Servicio;4773;2019-11-04  11:33:48 
+ Eduardo  Portillo;PI3Cbis;Cortes;6630;2019-11-04  11:34:21 
+ Eduardo  Portillo;SF5.9AC;Sin  Servicio;13284;2019-11-04  11:35:21 
+ Eduardo  Portillo;OLT1.HUAWEI.AC;Sin  Servicio;19532;2019-11-04  11:36:32 
+ Eduardo  Portillo;OLT1.HUAWEI.AC;Sin  Servicio;4970;2019-11-04  11:38:49 
+ Eduardo  Portillo;OLT1.HUAWEI.AC;Sin  Servicio;358;2019-11-04  11:42:11 
+ Eduardo  Portillo;OLT1.HUAWEI.AC;Sin  Servicio;5276;2019-11-04  11:42:51 
+ Eduardo  Portillo;TSB4Cbb;Sin  Servicio;13890;2019-11-04  11:43:21 
+ Eduardo  Portillo;TSB4bis;Sin  Servicio;8226;2019-11-04  11:44:20 
+ Eduardo  Portillo;OLT1.HUAWEI.AC;Sin  Servicio;18220;2019-11-04  11:47:46 
+ Eduardo  Portillo;OLT1.HUAWEI.AC;Sin  Servicio;18322;2019-11-04  11:48:34 
+ Eduardo  Portillo;OLT1.HUAWEI.AC;Sin  Servicio;13795;2019-11-04  11:49:31 
+ Eduardo  Portillo;TSB1Cbis;Sin  Servicio;10176;2019-11-04  11:50:03 
+ Eduardo  Portillo;OLT1.HUAWEI.AC;Sin  Servicio;5348;2019-11-04  11:50:24 
+ Eduardo  Portillo;OLT1.HUAWEI.AC;Sin  Servicio;5596;2019-11-04  11:52:49 
+ Eduardo  Portillo;TSB1C;Sin  Servicio;4937;2019-11-04  11:53:29 
+ Eduardo  Portillo;TSB1Cbis;Sin  Servicio;14545;2019-11-04  11:58:44 
+ Eduardo  Portillo;OLT1.HUAWEI.AC;Sin  Servicio;6936;2019-11-04  12:02:06 
+ Eduardo  Portillo;OLT1.HUAWEI.AC;Sin  Servicio;5591;2019-11-04  12:03:13 
+ Eduardo  Portillo;OLT1.HUAWEI.AC;Sin  Servicio;17774;2019-11-04  12:06:01 
+ Eduardo  Portillo;TSB3C;Sin  Servicio;14796;2019-11-04  12:11:39 
+ Eduardo  Portillo;OLT1.HUAWEI.AC;Sin  Servicio;4582;2019-11-04  12:14:49 
+ Eduardo  Portillo;OLT3.HUAWEI.PI;Sin  Servicio;19764;2019-11-04  12:26:06 
+ Eduardo  Portillo;HV1.9;Sin  Servicio;1043;2019-11-04  12:31:55 
+ Eduardo  Portillo;TSB4Cbb;Cortes;5018;2019-11-04  12:58:06 
+ Eduardo  Portillo;SF1.45AC;Cortes;14548;2019-11-04  13:09:22 
+ Eduardo  Portillo;OLT1.HUAWEI.AC;Sin  Servicio;8410;2019-11-04  13:24:28 
+ Eduardo  Portillo;RU2ACbis;Sin  Servicio;854;2019-11-04  13:31:32 
+ Eduardo  Portillo;OLT4.HUAWEI.HQ;Sin  Servicio;17354;2019-11-04  13:35:52 
+ Eduardo  Portillo;FMF4;Sin  Servicio;5977;2019-11-04  13:47:57 
+ Eduardo  Portillo;OLT1.HUAWEI.AC;Cortes;8538;2019-11-04  14:03:03 
+ Eduardo  Portillo;TSB2T;Sin  Servicio;9760;2019-11-04  14:17:28 
+ Eduardo  Portillo;OLT1.HUAWEI.AC;Cortes;15891;2019-11-04  14:25:38 
+ Eduardo  Portillo;OLT4.HUAWEI.HQ;Sin  Servicio;15606;2019-11-04  14:29:28 
+ Eduardo  Portillo;TSB2T;Sin  Servicio;14004;2019-11-04  14:33:00 
+ Eduardo  Portillo;TSB1T;Sin  Servicio;12211;2019-11-04  14:50:55 
+ Eduardo  Portillo;OLT4.HUAWEI.HQ;Sin  Servicio;18778;2019-11-04  14:53:02 
+ Nicolas  Vargas;OLT1.UBNT.PI;Sin  Servicio;2392;2019-11-04  15:12:08 
+ Nicolas  Vargas;TSB4bis;Sin  Servicio;14893;2019-11-04  15:25:02 
+ Nicolas  Vargas;OLT2.HUAWEI.PS;Baja  Velocidad;1677;2019-11-04  15:26:05 
+ Nicolas  Vargas;TSB2T;Sin  Servicio;14004;2019-11-04  15:27:06 
+ Nicolas  Vargas;OLT4.HUAWEI.HQ;Sin  Servicio;18466;2019-11-04  15:43:26 
+ Nicolas  Vargas;SF1.45AC;Sin  Servicio;14548;2019-11-04  16:09:51 
+ Eduardo  Portillo;PS3C;Sin  Servicio;13190;2019-11-04  16:22:49 
+ Nicolas  Vargas;OLT1.UBNT.PI;Corte  Administrativo;8222;2019-11-04  16:45:45 
+ Nicolas  Vargas;RAM3AC;Baja  Velocidad;3488;2019-11-04  16:46:22 
+ Nicolas  Vargas;PI2;Sin  Servicio;2396;2019-11-04  16:48:49 
+ Nicolas  Vargas;PB3T;Baja  Velocidad;12955;2019-11-04  16:55:23 
+ Eduardo  Portillo;HQ2C;Sin  Servicio;9379;2019-11-04  17:32:04 
+ Nicolas  Vargas;HV4;Cortes;9468;2019-11-04  17:44:34 
+ Nicolas  Vargas;RAM4C;Sin  Servicio;18809;2019-11-04  18:01:12 
+ Nicolas  Vargas;OLT3.HUAWEI.PI;Sin  Servicio;18979;2019-11-04  18:18:54 

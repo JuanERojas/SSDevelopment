@@ -1,0 +1,39 @@
+Estadisticas;2019-08-06-2019-08-06
+Tecnico;Panel;Reclamo;Cliente;Hora
+ Nicolas  Vargas;HV3C;Sin  Servicio;7645;2019-08-06  09:45:01 
+ Nicolas  Vargas;SF2ACbb;Sin  Servicio;3249;2019-08-06  09:45:56 
+ Nicolas  Vargas;ERROR;Baja  Velocidad;17906;2019-08-06  09:48:17 
+ Nicolas  Vargas;HE2Cquad;Sin  Servicio;15016;2019-08-06  09:48:55 
+ Nicolas  Vargas;SG1AC-TEST;Sin  Servicio;15489;2019-08-06  10:27:36 
+ Nicolas  Vargas;HI1;Sin  Servicio;15956;2019-08-06  10:51:59 
+ Nicolas  Vargas;ERROR;Baja  Velocidad;11082;2019-08-06  10:54:53 
+ Nicolas  Vargas;ERROR;Sin  Servicio;11082;2019-08-06  11:38:52 
+ Nicolas  Vargas;HE1C;Baja  Velocidad;14286;2019-08-06  12:28:25 
+ Nicolas  Vargas;SSiP3bb;Sin  Servicio;12780;2019-08-06  12:30:11 
+ Nicolas  Vargas;ERROR;Sin  Servicio;13164;2019-08-06  12:48:10 
+ Nicolas  Vargas;TSB2Cbis;Sin  Servicio;13206;2019-08-06  13:08:57 
+ Nicolas  Vargas;OLT4.HUAWEI.HQ;Baja  Velocidad;8824;2019-08-06  13:13:39 
+ Nicolas  Vargas;PS4Cbis;Sin  Servicio;8768;2019-08-06  13:41:14 
+ Nicolas  Vargas;HV1.9;Sin  Servicio;6670;2019-08-06  14:11:08 
+ Nicolas  Vargas;RB2C;Sin  Servicio;10286;2019-08-06  14:46:16 
+ Nicolas  Vargas;TSB3T;Sin  Servicio;4026;2019-08-06  14:59:10 
+ Nicolas  Vargas;SC2;Baja  Velocidad;13724;2019-08-06  14:59:51 
+ Nicolas  Vargas;TG1;Sin  Servicio;3734;2019-08-06  15:03:51 
+ Marycarmen  Diaz;ESC3;Corte  Administrativo;10887;2019-08-06  15:16:00 
+ Eduardo  Portillo;OLT2.HUAWEI.PS;Sin  Servicio;17527;2019-08-06  15:16:09 
+ Eduardo  Portillo;ESC3;Corte  Administrativo;11147;2019-08-06  15:37:41 
+ Nicolas  Vargas;A51-3;Sin  Servicio;7637;2019-08-06  15:44:16 
+ Nicolas  Vargas;OLT1.HUAWEI.SF;Sin  Servicio;11700;2019-08-06  16:02:28 
+ Eduardo  Portillo;PI3C;Baja  Velocidad;12125;2019-08-06  16:04:49 
+ Eduardo  Portillo;TSB3Cbb;Baja  Velocidad;10471;2019-08-06  16:06:10 
+ Nicolas  Vargas;OLT1.HUAWEI.SF;Baja  Velocidad;15049;2019-08-06  16:42:09 
+ Nicolas  Vargas;PS1;Sin  Servicio;12156;2019-08-06  16:55:10 
+ Eduardo  Portillo;OLT3.HUAWEI.PI;Sin  Servicio;16678;2019-08-06  17:16:32 
+ Eduardo  Portillo;OLT1.UBNT.PI;Sin  Servicio;10801;2019-08-06  17:45:44 
+ Anna  Villegas;OLT2.UBNT.PI;Microcortes;13970;2019-08-06  17:59:55 
+ Eduardo  Portillo;TSB4Cbb;Cortes;16975;2019-08-06  18:02:07 
+ Eduardo  Portillo;SF5.3AC;Sin  Servicio;9613;2019-08-06  18:02:19 
+ Eduardo  Portillo;RB3C;Baja  Velocidad;16465;2019-08-06  18:21:53 
+ Eduardo  Portillo;PB3bb;Cortes;11524;2019-08-06  18:23:41 
+ Eduardo  Portillo;SC2;Baja  Velocidad;13724;2019-08-06  18:27:11 
+ Eduardo  Portillo;OLT1.UBNT.TF;Baja  Velocidad;7876;2019-08-06  18:28:41 

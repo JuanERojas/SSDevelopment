@@ -1,0 +1,1753 @@
+Estadisticas;2019-01-01-2019-01-31
+Tecnico;Panel;Reclamo;Cliente;Hora
+ Juan  Rojas;BF4AC;Sin  Servicio;6202;2019-01-01  11:22:58 
+ Juan  Rojas;TF3Cbb;Sin  Servicio;5889;2019-01-01  11:52:34 
+ Juan  Rojas;FOHQ152;Sin  Servicio;8247;2019-01-01  11:55:03 
+ Juan  Rojas;SF1bb;Sin  Servicio;1999;2019-01-01  12:20:15 
+ Juan  Rojas;PB3;Sin  Servicio;10427;2019-01-01  12:35:48 
+ Juan  Rojas;SSiP2bis;Sin  Servicio;1861;2019-01-01  18:05:35 
+ Juan  Rojas;FOHQ160;Sin  Servicio;12843;2019-01-01  18:06:41 
+ Juan  Rojas;LP1Cbis;Sin  Servicio;3917;2019-01-01  18:07:49 
+ Juan  Rojas;ERROR;Sin  Servicio;5940;2019-01-01  18:11:17 
+ Juan  Rojas;SF2ACbb;Sin  Servicio;3010;2019-01-01  18:13:03 
+ Juan  Rojas;TF2Cbis;Sin  Servicio;11937;2019-01-01  18:23:33 
+ Juan  Rojas;BF2;Sin  Servicio;4393;2019-01-01  19:33:47 
+ Juan  Rojas;ESC2;Sin  Servicio;13464;2019-01-01  19:40:26 
+ Juan  Rojas;RU2AC;Cortes;6454;2019-01-01  19:53:35 
+ Juan  Rojas;TT1Cbb;Sin  Servicio;6026;2019-01-01  21:48:45 
+ Juan  Rojas;SF4bis;Baja  Velocidad;6954;2019-01-01  21:48:54 
+ Juan  Rojas;SG2quad;Baja  Velocidad;6709;2019-01-01  22:42:40 
+ Juan  Rojas;FOPS156;Sin  Servicio;10939;2019-01-02  09:36:43 
+ Juan  Rojas;TSB1;Sin  Servicio;1291;2019-01-02  09:38:59 
+ Juan  Rojas;SC2;Sin  Servicio;10788;2019-01-02  09:42:17 
+ Juan  Rojas;LP4AC;Sin  Servicio;10831;2019-01-02  09:43:12 
+ Juan  Rojas;SF1.90AC;Sin  Servicio;8240;2019-01-02  09:48:02 
+ Juan  Rojas;B3RF;Sin  Servicio;968;2019-01-02  10:22:16 
+ Juan  Rojas;ESC1;Sin  Servicio;12396;2019-01-02  10:45:50 
+ Juan  Rojas;PS2;Baja  Velocidad;4858;2019-01-02  10:50:10 
+ Juan  Rojas;HI4C;Baja  Velocidad;10682;2019-01-02  11:29:45 
+ Juan  Rojas;FOPS156;Sin  Servicio;8122;2019-01-02  11:54:02 
+ Juan  Rojas;FOPS156;Sin  Servicio;8759;2019-01-02  11:58:04 
+ Juan  Rojas;SF2AC;Baja  Velocidad;11883;2019-01-02  12:01:15 
+ Juan  Rojas;FOPS156;Sin  Servicio;11325;2019-01-02  12:08:12 
+ Juan  Rojas;FOPS156;Sin  Servicio;8971;2019-01-02  12:09:11 
+ Juan  Rojas;YL2AC;Cortes;14542;2019-01-02  12:33:02 
+ Juan  Rojas;TF1C;Sin  Servicio;14233;2019-01-02  12:43:36 
+ Juan  Rojas;HQ3AC;Sin  Servicio;4988;2019-01-02  12:50:03 
+ Juan  Rojas;RU2bb;Sin  Servicio;2211;2019-01-02  13:02:05 
+ Juan  Rojas;TF4C;Sin  Servicio;8809;2019-01-02  13:31:40 
+ Juan  Rojas;BC3;Sin  Servicio;7271;2019-01-02  13:39:01 
+ Juan  Rojas;YL1;Cortes;5414;2019-01-02  13:40:36 
+ Anna  Villegas;SSiP3;Sin  Servicio;3618;2019-01-02  13:49:32 
+ Juan  Rojas;PB3bb;Baja  Velocidad;12439;2019-01-02  13:57:22 
+ Juan  Rojas;PB3bb;Cortes;12439;2019-01-02  14:02:01 
+ Juan  Rojas;TF2C;Sin  Servicio;1879;2019-01-02  14:04:29 
+ Juan  Rojas;TF2C;Sin  Servicio;1879;2019-01-02  14:13:16 
+ Juan  Rojas;RB3C;Sin  Servicio;12055;2019-01-02  14:35:10 
+ Juan  Rojas;TF1CTris;Sin  Servicio;9830;2019-01-02  14:46:54 
+ Juan  Rojas;TSB1Cbis;Baja  Velocidad;7743;2019-01-02  14:51:26 
+ Nicolas  Vargas;FOPS156;Cortes;10655;2019-01-02  15:12:43 
+ Nicolas  Vargas;FOPI168;Cortes;4777;2019-01-02  15:15:48 
+ Nicolas  Vargas;FOPS156;Cortes;9852;2019-01-02  15:20:22 
+ Nicolas  Vargas;FOPI168;Cortes;8764;2019-01-02  15:30:17 
+ Nicolas  Vargas;HW2C;Cortes;6498;2019-01-02  15:39:50 
+ Nicolas  Vargas;FOPI168;Cortes;5973;2019-01-02  15:53:37 
+ Nicolas  Vargas;FOHQ160;Sin  Servicio;12843;2019-01-02  16:18:09 
+ Nicolas  Vargas;FOPI168;Cortes;10237;2019-01-02  16:45:16 
+ Anna  Villegas;TF1C;Cortes;9474;2019-01-02  17:03:44 
+ Anna  Villegas;TF1C;Baja  Velocidad;9474;2019-01-02  17:03:44 
+ Nicolas  Vargas;FOPS156;Cortes;8141;2019-01-02  17:24:44 
+ Nicolas  Vargas;FOPS156;Cortes;14401;2019-01-02  17:25:38 
+ Anna  Villegas;FOPI168;Sin  Servicio;12470;2019-01-02  17:40:55 
+ Nicolas  Vargas;TT2Cbb;Sin  Servicio;12651;2019-01-02  17:45:38 
+ Nicolas  Vargas;HE3Cbis;Sin  Servicio;9376;2019-01-02  17:59:10 
+ Nicolas  Vargas;TT1Cbis;Sin  Servicio;9038;2019-01-02  18:03:44 
+ Nicolas  Vargas;FOPS156;Sin  Servicio;10739;2019-01-02  18:11:39 
+ Nicolas  Vargas;FOPS156;Sin  Servicio;8141;2019-01-02  18:13:05 
+ Nicolas  Vargas;ERROR;Baja  Velocidad;5940;2019-01-02  18:56:20 
+ Nicolas  Vargas;FOPS156;Sin  Servicio;8271;2019-01-02  19:03:07 
+ Nicolas  Vargas;TF2Cbis;Baja  Velocidad;3014;2019-01-02  19:06:30 
+ Nicolas  Vargas;P2P;Sin  Servicio;2142;2019-01-02  19:08:10 
+ Nicolas  Vargas;P2P;Baja  Velocidad;2142;2019-01-02  19:08:14 
+ Nicolas  Vargas;FOPS156;Baja  Velocidad;1452;2019-01-02  19:08:29 
+ Anna  Villegas;HW3AC;Sin  Servicio;8637;2019-01-02  19:18:49 
+ Nicolas  Vargas;LP2AC;Sin  Servicio;14317;2019-01-02  19:21:54 
+ Nicolas  Vargas;FOPI168;Sin  Servicio;5058;2019-01-02  19:41:50 
+ Nicolas  Vargas;FOPS156;Sin  Servicio;8773;2019-01-02  19:48:46 
+ Nicolas  Vargas;B3RF;Sin  Servicio;968;2019-01-02  19:52:15 
+ Nicolas  Vargas;FOPS156;Sin  Servicio;3177;2019-01-02  20:39:14 
+ Nicolas  Vargas;FOPS156;Sin  Servicio;7971;2019-01-02  20:39:19 
+ Nicolas  Vargas;FOPS156;Sin  Servicio;5723;2019-01-02  20:40:44 
+ Nicolas  Vargas;FOPS156;Sin  Servicio;11382;2019-01-02  20:41:25 
+ Nicolas  Vargas;FOPS156;Sin  Servicio;1232;2019-01-02  20:42:12 
+ Nicolas  Vargas;FOPS156;Sin  Servicio;12318;2019-01-02  20:42:56 
+ Nicolas  Vargas;FOPS156;Sin  Servicio;5526;2019-01-02  20:44:43 
+ Nicolas  Vargas;FOPS156;Cortes;7158;2019-01-02  20:45:10 
+ Nicolas  Vargas;FOPS156;Sin  Servicio;12226;2019-01-02  20:45:53 
+ Nicolas  Vargas;FOPS156;Sin  Servicio;11436;2019-01-02  20:48:49 
+ Nicolas  Vargas;FOPS156;Sin  Servicio;12166;2019-01-02  20:50:21 
+ Nicolas  Vargas;FOPS156;Sin  Servicio;11436;2019-01-02  20:51:04 
+ Nicolas  Vargas;FOPS156;Sin  Servicio;2664;2019-01-02  20:51:55 
+ Nicolas  Vargas;FOPS156;Sin  Servicio;14163;2019-01-02  20:52:09 
+ Nicolas  Vargas;FOPS156;Sin  Servicio;1494;2019-01-02  20:55:46 
+ Nicolas  Vargas;FOPS156;Sin  Servicio;14013;2019-01-02  20:56:01 
+ Nicolas  Vargas;FOPS156;Sin  Servicio;8317;2019-01-02  20:57:12 
+ Nicolas  Vargas;FOPS156;Sin  Servicio;12503;2019-01-02  20:59:29 
+ Nicolas  Vargas;FOPS156;Sin  Servicio;6655;2019-01-02  20:59:50 
+ Nicolas  Vargas;FOPS156;Sin  Servicio;8882;2019-01-02  21:00:56 
+ Nicolas  Vargas;FOPS156;Sin  Servicio;10520;2019-01-02  21:03:50 
+ Nicolas  Vargas;FOPS156;Sin  Servicio;5412;2019-01-02  21:04:02 
+ Nicolas  Vargas;FOPS156;Sin  Servicio;13925;2019-01-02  21:05:26 
+ Nicolas  Vargas;FOPS156;Sin  Servicio;8258;2019-01-02  21:06:37 
+ Nicolas  Vargas;FOPS156;Sin  Servicio;11322;2019-01-02  21:06:52 
+ Nicolas  Vargas;FOPS156;Sin  Servicio;10842;2019-01-02  21:07:02 
+ Nicolas  Vargas;FOPS156;Sin  Servicio;6683;2019-01-02  21:07:21 
+ Nicolas  Vargas;TSB4Cbb;Sin  Servicio;9905;2019-01-02  21:08:06 
+ Nicolas  Vargas;FOPS156;Sin  Servicio;3777;2019-01-02  21:10:02 
+ Nicolas  Vargas;FOPS156;Sin  Servicio;11215;2019-01-02  21:11:39 
+ Nicolas  Vargas;FOPS156;Sin  Servicio;550;2019-01-02  21:12:18 
+ Nicolas  Vargas;TSB2Cbis;Cortes;4780;2019-01-02  21:13:01 
+ Nicolas  Vargas;TSB4Cbb;Sin  Servicio;11702;2019-01-02  21:13:42 
+ Nicolas  Vargas;SF2ACbb;Baja  Velocidad;5700;2019-01-02  21:15:12 
+ Nicolas  Vargas;TSB4Cbb;Sin  Servicio;12898;2019-01-02  21:18:06 
+ Nicolas  Vargas;TSB4Cbb;Sin  Servicio;1430;2019-01-02  21:18:39 
+ Nicolas  Vargas;TSB4Cbb;Sin  Servicio;10450;2019-01-02  21:19:32 
+ Nicolas  Vargas;TSB4Cbb;Sin  Servicio;1027;2019-01-02  21:20:27 
+ Nicolas  Vargas;A51-1bis;Sin  Servicio;8293;2019-01-02  21:26:45 
+ Nicolas  Vargas;TSB4Cbb;Sin  Servicio;10336;2019-01-02  21:28:19 
+ Nicolas  Vargas;TSB4Cbb;Sin  Servicio;7764;2019-01-02  21:28:34 
+ Nicolas  Vargas;TSB4Cbb;Sin  Servicio;1062;2019-01-02  21:30:55 
+ Nicolas  Vargas;FOPS156;Sin  Servicio;1062;2019-01-02  21:31:20 
+ Nicolas  Vargas;FOPS156;Sin  Servicio;5959;2019-01-02  21:32:19 
+ Nicolas  Vargas;FOPS156;Sin  Servicio;9357;2019-01-02  21:33:07 
+ Nicolas  Vargas;FOPS156;Sin  Servicio;13981;2019-01-02  21:33:20 
+ Nicolas  Vargas;FOPS156;Sin  Servicio;9905;2019-01-02  21:36:34 
+ Nicolas  Vargas;FOPS156;Sin  Servicio;8753;2019-01-02  21:50:23 
+ Nicolas  Vargas;FOPS156;Sin  Servicio;8124;2019-01-02  21:50:32 
+ Nicolas  Vargas;FOPS156;Sin  Servicio;8862;2019-01-02  21:51:01 
+ Nicolas  Vargas;FOPS156;Sin  Servicio;14244;2019-01-02  21:53:50 
+ Nicolas  Vargas;FOPS156;Sin  Servicio;13900;2019-01-02  21:54:08 
+ Nicolas  Vargas;FOPS156;Sin  Servicio;8717;2019-01-02  21:54:45 
+ Nicolas  Vargas;TSB3T;Baja  Velocidad;4582;2019-01-02  21:56:33 
+ Nicolas  Vargas;FOHQ160;Sin  Servicio;12843;2019-01-02  21:58:51 
+ Nicolas  Vargas;FOPS156;Sin  Servicio;8119;2019-01-02  22:06:33 
+ Nicolas  Vargas;FOPS156;Sin  Servicio;8258;2019-01-02  22:13:38 
+ Nicolas  Vargas;YL1;Baja  Velocidad;1247;2019-01-02  22:14:39 
+ Nicolas  Vargas;GR2CBis;Baja  Velocidad;11736;2019-01-02  22:42:55 
+ Nicolas  Vargas;FOPS156;Sin  Servicio;10613;2019-01-02  22:49:48 
+ Nicolas  Vargas;FOPS156;Sin  Servicio;4076;2019-01-02  22:50:05 
+ Nicolas  Vargas;B3RF;Sin  Servicio;968;2019-01-03  09:52:19 
+ Nicolas  Vargas;PP3C;Cortes;9657;2019-01-03  10:04:39 
+ Nicolas  Vargas;HI3C;Baja  Velocidad;9042;2019-01-03  10:10:08 
+ Nicolas  Vargas;TSB2T;Cortes;14000;2019-01-03  10:25:06 
+ Nicolas  Vargas;FOPI168;Sin  Servicio;14037;2019-01-03  11:03:40 
+ Nicolas  Vargas;LP3C;Baja  Velocidad;13379;2019-01-03  11:07:20 
+ Nicolas  Vargas;TF3bis;Sin  Servicio;11323;2019-01-03  11:41:51 
+ Nicolas  Vargas;RAM1AC;Sin  Servicio;8407;2019-01-03  11:42:39 
+ Nicolas  Vargas;TT1bis;Sin  Servicio;14026;2019-01-03  11:51:11 
+ Agustin  Olmos;FOPI168;Microcortes;8810;2019-01-03  12:03:59 
+ Agustin  Olmos;PS4bis;Sin  Servicio;12207;2019-01-03  12:04:44 
+ Agustin  Olmos;TF3bis;Sin  Servicio;11323;2019-01-03  12:10:30 
+ Agustin  Olmos;YL1;Baja  Velocidad;7786;2019-01-03  12:50:19 
+ Agustin  Olmos;TF2Cbis;Baja  Velocidad;10802;2019-01-03  12:52:49 
+ Nicolas  Vargas;RAM1AC;Cortes;4502;2019-01-03  13:02:57 
+ Nicolas  Vargas;GR3C;Sin  Servicio;3441;2019-01-03  13:04:13 
+ Nicolas  Vargas;RU3ACbis;Cortes;6153;2019-01-03  13:06:45 
+ Nicolas  Vargas;PB2;Sin  Servicio;10617;2019-01-03  13:33:04 
+ Nicolas  Vargas;SC2;Sin  Servicio;10631;2019-01-03  13:34:52 
+ Nicolas  Vargas;SC2;Baja  Velocidad;12903;2019-01-03  13:37:51 
+ Nicolas  Vargas;SC2;Baja  Velocidad;10569;2019-01-03  13:40:15 
+ Nicolas  Vargas;PB2;Sin  Servicio;7237;2019-01-03  13:45:01 
+ Nicolas  Vargas;PB1bis;Sin  Servicio;12621;2019-01-03  13:49:31 
+ Nicolas  Vargas;PB3;Sin  Servicio;10298;2019-01-03  13:50:47 
+ Anna  Villegas;TSB4Cbb;Baja  Velocidad;14091;2019-01-03  13:51:55 
+ Anna  Villegas;PB3bb;Sin  Servicio;9683;2019-01-03  13:53:57 
+ Anna  Villegas;PB2T;Sin  Servicio;9633;2019-01-03  13:54:37 
+ Anna  Villegas;PS4C;Sin  Servicio;14347;2019-01-03  13:54:56 
+ Nicolas  Vargas;PB3T;Sin  Servicio;10170;2019-01-03  13:57:02 
+ Nicolas  Vargas;PB3;Sin  Servicio;12640;2019-01-03  13:57:08 
+ Nicolas  Vargas;ESC3;Sin  Servicio;11261;2019-01-03  13:57:40 
+ Nicolas  Vargas;PB2T;Sin  Servicio;12925;2019-01-03  13:58:21 
+ Nicolas  Vargas;PB3;Baja  Velocidad;9684;2019-01-03  14:05:36 
+ Nicolas  Vargas;SG2;Sin  Servicio;5188;2019-01-03  14:14:21 
+ Nicolas  Vargas;PB1;Sin  Servicio;11339;2019-01-03  14:22:17 
+ Nicolas  Vargas;PB3bb;Sin  Servicio;12439;2019-01-03  14:22:23 
+ Nicolas  Vargas;ESC2;Baja  Velocidad;11145;2019-01-03  14:27:37 
+ Nicolas  Vargas;PB3;Baja  Velocidad;9538;2019-01-03  14:28:16 
+ Nicolas  Vargas;PB3;Microcortes;9538;2019-01-03  14:28:16 
+ Nicolas  Vargas;PB1T;Baja  Velocidad;10424;2019-01-03  14:48:42 
+ Nicolas  Vargas;PB3;Baja  Velocidad;6744;2019-01-03  14:49:05 
+ Nicolas  Vargas;PB1T;Sin  Servicio;9138;2019-01-03  14:51:02 
+ Nicolas  Vargas;PB3bis;Sin  Servicio;12430;2019-01-03  14:51:59 
+ Nicolas  Vargas;PB3bis;Sin  Servicio;10017;2019-01-03  15:02:56 
+ Anna  Villegas;RB3C;Cortes;10463;2019-01-03  15:03:54 
+ Anna  Villegas;PB2bb;Cortes;11901;2019-01-03  15:05:13 
+ Anna  Villegas;PB2bb;Sin  Servicio;7254;2019-01-03  15:08:39 
+ Anna  Villegas;PB2T;Sin  Servicio;10123;2019-01-03  15:08:52 
+ Nicolas  Vargas;PB1;Sin  Servicio;13225;2019-01-03  15:09:12 
+ Nicolas  Vargas;PB3bis;Sin  Servicio;10017;2019-01-03  15:09:31 
+ Nicolas  Vargas;PB2;Sin  Servicio;6757;2019-01-03  15:09:41 
+ Nicolas  Vargas;SC2;Sin  Servicio;11589;2019-01-03  15:14:06 
+ Nicolas  Vargas;PB3T;Sin  Servicio;9898;2019-01-03  15:16:17 
+ Nicolas  Vargas;PB3bb;Sin  Servicio;9638;2019-01-03  15:16:32 
+ Nicolas  Vargas;PB3;Sin  Servicio;9432;2019-01-03  15:20:05 
+ Nicolas  Vargas;ESC3;Baja  Velocidad;10935;2019-01-03  15:20:25 
+ Nicolas  Vargas;ESC2;Sin  Servicio;10781;2019-01-03  15:20:36 
+ Nicolas  Vargas;SC2;Sin  Servicio;12506;2019-01-03  15:21:18 
+ Nicolas  Vargas;FOPI168;Sin  Servicio;14486;2019-01-03  15:22:37 
+ Nicolas  Vargas;SSiP4;Sin  Servicio;1464;2019-01-03  15:47:41 
+ Nicolas  Vargas;HE4;Baja  Velocidad;481;2019-01-03  16:00:27 
+ Nicolas  Vargas;SF1bb;Sin  Servicio;13616;2019-01-03  16:23:16 
+ Nicolas  Vargas;FOPS156;Sin  Servicio;11322;2019-01-03  16:23:48 
+ Nicolas  Vargas;FOPI168;Sin  Servicio;9511;2019-01-03  16:26:59 
+ Nicolas  Vargas;TT2;Sin  Servicio;12;2019-01-03  16:37:34 
+ Nicolas  Vargas;HE2;Sin  Servicio;8312;2019-01-03  16:48:33 
+ Nicolas  Vargas;PI2Cbb;Sin  Servicio;9939;2019-01-03  16:52:13 
+ Nicolas  Vargas;HE2;Sin  Servicio;8312;2019-01-03  16:52:51 
+ Juan  Rojas;GR2C;Baja  Velocidad;13187;2019-01-03  17:44:18 
+ Juan  Rojas;LP3;Sin  Servicio;5507;2019-01-03  17:49:20 
+ Juan  Rojas;RB1C;Sin  Servicio;13164;2019-01-03  17:50:51 
+ Juan  Rojas;TF3bis;Sin  Servicio;4404;2019-01-03  17:57:45 
+ Juan  Rojas;PI3C;Sin  Servicio;2431;2019-01-03  18:08:34 
+ Juan  Rojas;pi2c;Sin  Servicio;8181;2019-01-03  18:15:17 
+ Juan  Rojas;MluR2;Sin  Servicio;5060;2019-01-03  18:16:49 
+ Juan  Rojas;FOHQ152;Cortes;11039;2019-01-03  18:17:32 
+ Juan  Rojas;TSB4Cbis;Sin  Servicio;10221;2019-01-03  18:18:29 
+ Juan  Rojas;PS4C;Sin  Servicio;9008;2019-01-03  18:19:30 
+ Juan  Rojas;TSB1T;Cortes;6072;2019-01-03  18:21:51 
+ Juan  Rojas;TSB3Cbis;Wsp-Inst-Face;13802;2019-01-03  18:26:48 
+ Juan  Rojas;SG2;Sin  Servicio;5188;2019-01-03  18:32:46 
+ Juan  Rojas;HW1C;Sin  Servicio;11686;2019-01-03  18:36:30 
+ Juan  Rojas;FOPS156;Sin  Servicio;8981;2019-01-03  18:39:13 
+ Juan  Rojas;RB3CBis;Sin  Servicio;14285;2019-01-03  18:40:25 
+ Juan  Rojas;HW2C;Sin  Servicio;11854;2019-01-03  18:41:47 
+ Juan  Rojas;ESC2;Sin  Servicio;11100;2019-01-03  18:42:56 
+ Juan  Rojas;HE2Cbis;Baja  Velocidad;9783;2019-01-03  18:46:35 
+ Juan  Rojas;TT2Cbis;Baja  Velocidad;12603;2019-01-03  18:56:46 
+ Juan  Rojas;TSB2;Sin  Servicio;8220;2019-01-03  19:07:27 
+ Juan  Rojas;PI3Ctris;Baja  Velocidad;8453;2019-01-03  19:36:49 
+ Juan  Rojas;PB1T;Sin  Servicio;10424;2019-01-03  19:47:41 
+ Juan  Rojas;PB3bb;Sin  Servicio;9638;2019-01-03  19:49:31 
+ Juan  Rojas;PB2;Sin  Servicio;7237;2019-01-03  19:50:01 
+ Juan  Rojas;FOPI168;Sin  Servicio;8628;2019-01-03  19:55:44 
+ Juan  Rojas;FOPS156;Baja  Velocidad;4007;2019-01-03  19:56:50 
+ Juan  Rojas;FOPI168;Cortes;11224;2019-01-03  20:22:52 
+ Juan  Rojas;FOPS156;Sin  Servicio;3777;2019-01-03  20:23:16 
+ Juan  Rojas;ESC3;Sin  Servicio;11219;2019-01-03  20:38:57 
+ Juan  Rojas;LP2C;Baja  Velocidad;13160;2019-01-03  20:45:55 
+ Juan  Rojas;TT2Cbb;Sin  Servicio;8779;2019-01-03  21:00:21 
+ Juan  Rojas;TT2bis;Sin  Servicio;1124;2019-01-03  21:00:38 
+ Juan  Rojas;FOPS156;Baja  Velocidad;4007;2019-01-03  21:00:52 
+ Juan  Rojas;FOPI168;Sin  Servicio;11792;2019-01-03  21:22:40 
+ Juan  Rojas;PS1;Sin  Servicio;1047;2019-01-03  21:22:50 
+ Juan  Rojas;PI1;Sin  Servicio;4690;2019-01-03  21:23:01 
+ Juan  Rojas;FOHQ152;Sin  Servicio;6151;2019-01-03  21:23:11 
+ Juan  Rojas;TSB2T;Sin  Servicio;11772;2019-01-03  21:23:21 
+ Juan  Rojas;TT3C;Sin  Servicio;13682;2019-01-03  21:23:31 
+ Juan  Rojas;LP1;Sin  Servicio;1468;2019-01-03  21:24:43 
+ Juan  Rojas;RB2C;Sin  Servicio;7626;2019-01-03  21:25:04 
+ Juan  Rojas;BF3bis;Cortes;6428;2019-01-03  21:49:30 
+ Juan  Rojas;TF2C;Cortes;958;2019-01-03  22:05:19 
+ Juan  Rojas;PI3Ctris;Baja  Velocidad;8262;2019-01-03  22:07:26 
+ Juan  Rojas;RB2C;Baja  Velocidad;7626;2019-01-03  22:08:49 
+ Juan  Rojas;PS1;Cortes;1047;2019-01-03  22:33:15 
+ Juan  Rojas;SSi3;Sin  Servicio;745;2019-01-03  22:42:45 
+ Juan  Rojas;SSiP3bis;Sin  Servicio;7455;2019-01-03  22:58:34 
+ Juan  Rojas;FOHQ152;Sin  Servicio;7611;2019-01-04  09:36:25 
+ Nicolas  Vargas;FOHQ152;Sin  Servicio;7611;2019-01-04  09:36:31 
+ Nicolas  Vargas;BF3.5RF;Sin  Servicio;6669;2019-01-04  09:37:44 
+ Nicolas  Vargas;BF2;Sin  Servicio;6804;2019-01-04  09:38:21 
+ Nicolas  Vargas;BF3RF;Sin  Servicio;1839;2019-01-04  09:43:38 
+ Nicolas  Vargas;BF1;Sin  Servicio;7942;2019-01-04  09:44:09 
+ Nicolas  Vargas;BF3.5RF;Sin  Servicio;1411;2019-01-04  09:44:34 
+ Nicolas  Vargas;BF4.5RF;Sin  Servicio;4276;2019-01-04  09:45:32 
+ Nicolas  Vargas;BF4RF;Sin  Servicio;297;2019-01-04  09:46:58 
+ Nicolas  Vargas;BF1;Sin  Servicio;2682;2019-01-04  09:48:38 
+ Nicolas  Vargas;BF3RF;Sin  Servicio;4878;2019-01-04  09:54:28 
+ Nicolas  Vargas;BF4RF;Sin  Servicio;4050;2019-01-04  10:00:01 
+ Nicolas  Vargas;BF2AC;Sin  Servicio;12125;2019-01-04  10:05:48 
+ Nicolas  Vargas;FOPS156;Sin  Servicio;489;2019-01-04  10:14:10 
+ Nicolas  Vargas;FOPS156;Sin  Servicio;583;2019-01-04  10:16:43 
+ Nicolas  Vargas;BF4bis;Sin  Servicio;4526;2019-01-04  10:18:06 
+ Nicolas  Vargas;BF4AC;Sin  Servicio;4173;2019-01-04  10:22:49 
+ Nicolas  Vargas;BF3bis;Sin  Servicio;3596;2019-01-04  10:25:52 
+ Nicolas  Vargas;SF4;Sin  Servicio;3965;2019-01-04  10:27:16 
+ Nicolas  Vargas;BF3bis;Sin  Servicio;8564;2019-01-04  10:28:41 
+ Nicolas  Vargas;BF4.5RF;Sin  Servicio;4977;2019-01-04  10:29:26 
+ Agustin  Olmos;RU2AC;Microcortes;14430;2019-01-04  10:30:28 
+ Nicolas  Vargas;BF4.5RF;Sin  Servicio;12268;2019-01-04  10:32:56 
+ Nicolas  Vargas;BF4bis;Sin  Servicio;4544;2019-01-04  10:39:28 
+ Nicolas  Vargas;BF3AC;Sin  Servicio;12968;2019-01-04  10:42:24 
+ Nicolas  Vargas;TT2;Cortes;12;2019-01-04  10:54:38 
+ Nicolas  Vargas;BF2;Sin  Servicio;4957;2019-01-04  11:02:02 
+ Nicolas  Vargas;PB3bis;Sin  Servicio;11088;2019-01-04  11:02:19 
+ Nicolas  Vargas;BF1AC;Sin  Servicio;12784;2019-01-04  11:03:50 
+ Nicolas  Vargas;BF3AC;Sin  Servicio;3940;2019-01-04  11:14:26 
+ Nicolas  Vargas;BF1;Sin  Servicio;5112;2019-01-04  11:15:14 
+ Nicolas  Vargas;BF4bis;Sin  Servicio;2718;2019-01-04  11:18:34 
+ Nicolas  Vargas;TSB1Cbis;Sin  Servicio;13923;2019-01-04  11:19:57 
+ Nicolas  Vargas;TF3;Baja  Velocidad;11818;2019-01-04  11:22:54 
+ Nicolas  Vargas;TT1Cbb;Sin  Servicio;14055;2019-01-04  11:24:08 
+ Nicolas  Vargas;BF3.5RF;Sin  Servicio;687;2019-01-04  11:24:56 
+ Agustin  Olmos;TSB1;Baja  Velocidad;9732;2019-01-04  11:27:00 
+ Nicolas  Vargas;RAM3C;Cortes;4809;2019-01-04  11:27:16 
+ Nicolas  Vargas;BF4RF;Sin  Servicio;4869;2019-01-04  11:34:33 
+ Nicolas  Vargas;BF3bis;Sin  Servicio;6428;2019-01-04  11:37:48 
+ Nicolas  Vargas;BF3bis;Sin  Servicio;7163;2019-01-04  11:43:09 
+ Nicolas  Vargas;BF3bis;Sin  Servicio;1453;2019-01-04  11:44:38 
+ Nicolas  Vargas;BF2;Sin  Servicio;4393;2019-01-04  11:51:03 
+ Nicolas  Vargas;TT3;Baja  Velocidad;12084;2019-01-04  11:52:33 
+ Nicolas  Vargas;RB3CBis;Sin  Servicio;13930;2019-01-04  11:54:21 
+ Nicolas  Vargas;BF4AC;Sin  Servicio;14665;2019-01-04  11:56:01 
+ Nicolas  Vargas;BF2;Sin  Servicio;176;2019-01-04  12:00:37 
+ Nicolas  Vargas;BF3;Sin  Servicio;4022;2019-01-04  12:01:04 
+ Nicolas  Vargas;BF3bis;Sin  Servicio;8762;2019-01-04  12:05:04 
+ Nicolas  Vargas;SG2;Sin  Servicio;3814;2019-01-04  12:05:29 
+ Nicolas  Vargas;BF3bis;Sin  Servicio;5752;2019-01-04  12:06:01 
+ Nicolas  Vargas;BF3;Sin  Servicio;3507;2019-01-04  12:08:13 
+ Nicolas  Vargas;BF4AC;Sin  Servicio;2184;2019-01-04  12:11:53 
+ Nicolas  Vargas;BF3AC;Sin  Servicio;14381;2019-01-04  12:19:24 
+ Nicolas  Vargas;BF4RF;Sin  Servicio;83;2019-01-04  12:19:42 
+ Nicolas  Vargas;BF3bis;Sin  Servicio;1453;2019-01-04  12:24:54 
+ Nicolas  Vargas;BF4AC;Sin  Servicio;2168;2019-01-04  12:34:27 
+ Nicolas  Vargas;BF4bis;Sin  Servicio;14379;2019-01-04  12:44:32 
+ Nicolas  Vargas;BF3bis;Sin  Servicio;1453;2019-01-04  12:44:44 
+ Nicolas  Vargas;BF3bis;Sin  Servicio;1729;2019-01-04  12:52:18 
+ Nicolas  Vargas;BF2AC;Sin  Servicio;12125;2019-01-04  13:04:12 
+ Nicolas  Vargas;BF4RF;Sin  Servicio;11302;2019-01-04  13:09:53 
+ Nicolas  Vargas;TSB2Cbis;Baja  Velocidad;14258;2019-01-04  13:12:31 
+ Nicolas  Vargas;BF3.5RF;Sin  Servicio;6591;2019-01-04  13:24:02 
+ Nicolas  Vargas;BF3;Sin  Servicio;3369;2019-01-04  13:25:29 
+ Nicolas  Vargas;BF4bis;Sin  Servicio;4163;2019-01-04  13:33:28 
+ Nicolas  Vargas;BF3.5RF;Sin  Servicio;1459;2019-01-04  13:36:36 
+ Nicolas  Vargas;BF2;Sin  Servicio;3562;2019-01-04  13:36:44 
+ Nicolas  Vargas;BF4.5RF;Sin  Servicio;5616;2019-01-04  13:38:56 
+ Nicolas  Vargas;BF3RF;Sin  Servicio;4922;2019-01-04  13:42:45 
+ Nicolas  Vargas;BF1;Sin  Servicio;4826;2019-01-04  13:43:55 
+ Nicolas  Vargas;BF4RF;Sin  Servicio;13198;2019-01-04  13:44:45 
+ Nicolas  Vargas;BF4RF;Sin  Servicio;3737;2019-01-04  13:45:19 
+ Nicolas  Vargas;BF2;Sin  Servicio;3939;2019-01-04  13:46:47 
+ Nicolas  Vargas;BF4bis;Sin  Servicio;3732;2019-01-04  13:51:33 
+ Nicolas  Vargas;BF4bis;Sin  Servicio;10581;2019-01-04  13:54:13 
+ Nicolas  Vargas;BF4AC;Sin  Servicio;2639;2019-01-04  13:56:43 
+ Nicolas  Vargas;BF4AC;Sin  Servicio;2050;2019-01-04  13:58:08 
+ Nicolas  Vargas;BF3RF;Sin  Servicio;2914;2019-01-04  14:06:50 
+ Nicolas  Vargas;BF2;Sin  Servicio;6419;2019-01-04  14:11:43 
+ Nicolas  Vargas;BF4;Sin  Servicio;301;2019-01-04  14:15:17 
+ Nicolas  Vargas;BF4bis;Sin  Servicio;5664;2019-01-04  14:15:30 
+ Nicolas  Vargas;PI3Ctris;Sin  Servicio;5387;2019-01-04  14:28:27 
+ Nicolas  Vargas;BF4bis;Sin  Servicio;4888;2019-01-04  14:28:46 
+ Nicolas  Vargas;BF4AC;Sin  Servicio;12129;2019-01-04  14:29:20 
+ Nicolas  Vargas;RAM3AC;Sin  Servicio;10192;2019-01-04  14:46:39 
+ Nicolas  Vargas;BF3;Sin  Servicio;5430;2019-01-04  14:47:00 
+ Nicolas  Vargas;BF3RF;Sin  Servicio;4709;2019-01-04  14:57:33 
+ Nicolas  Vargas;BF1;Sin  Servicio;4758;2019-01-04  14:58:25 
+ Nicolas  Vargas;BF3RF;Sin  Servicio;6234;2019-01-04  15:02:07 
+ Nicolas  Vargas;BF2;Sin  Servicio;5421;2019-01-04  15:12:11 
+ Nicolas  Vargas;BF4;Sin  Servicio;3273;2019-01-04  15:15:44 
+ Nicolas  Vargas;ESC4;Sin  Servicio;11831;2019-01-04  15:16:07 
+ Nicolas  Vargas;BF3;Sin  Servicio;2755;2019-01-04  15:23:48 
+ Nicolas  Vargas;BF3;Sin  Servicio;3432;2019-01-04  15:31:17 
+ Nicolas  Vargas;BF3bis;Sin  Servicio;5775;2019-01-04  15:38:41 
+ Nicolas  Vargas;BF2AC;Baja  Velocidad;11742;2019-01-04  15:47:29 
+ Nicolas  Vargas;BF3RF;Sin  Servicio;7074;2019-01-04  15:51:22 
+ Nicolas  Vargas;BF4AC;Sin  Servicio;2070;2019-01-04  15:59:03 
+ Nicolas  Vargas;BF3bis;Sin  Servicio;8762;2019-01-04  16:07:02 
+ Nicolas  Vargas;BF3bis;Sin  Servicio;11280;2019-01-04  16:08:44 
+ Nicolas  Vargas;LP4Cbis;Sin  Servicio;7850;2019-01-04  16:11:00 
+ Nicolas  Vargas;LP2bis;Sin  Servicio;4411;2019-01-04  16:14:15 
+ Nicolas  Vargas;BF3RF;Sin  Servicio;4020;2019-01-04  16:14:33 
+ Nicolas  Vargas;FOPI168;Sin  Servicio;13328;2019-01-04  16:19:48 
+ Nicolas  Vargas;A51-1AC;Sin  Servicio;4157;2019-01-04  16:48:39 
+ Nicolas  Vargas;RAM3AC;Baja  Velocidad;13620;2019-01-04  16:56:49 
+ Nicolas  Vargas;B2AC;Baja  Velocidad;1342;2019-01-04  17:03:33 
+ Nicolas  Vargas;TT2C;Sin  Servicio;10435;2019-01-04  17:04:59 
+ Juan  Rojas;BF4RF;Sin  Servicio;5916;2019-01-04  17:33:21 
+ Juan  Rojas;BF3bis;Sin  Servicio;3934;2019-01-04  17:36:30 
+ Juan  Rojas;LP2C;Sin  Servicio;8529;2019-01-04  17:45:52 
+ Juan  Rojas;HI2Cbis;Sin  Servicio;11211;2019-01-04  17:53:22 
+ Juan  Rojas;TT2Cbb;Sin  Servicio;10326;2019-01-04  18:01:39 
+ Juan  Rojas;BF4.5RF;Sin  Servicio;5268;2019-01-04  18:48:16 
+ Juan  Rojas;FOPS156;Sin  Servicio;9672;2019-01-04  18:50:55 
+ Juan  Rojas;SF1.45AC;Baja  Velocidad;1642;2019-01-04  18:53:55 
+ Juan  Rojas;FOPS156;Cortes;9672;2019-01-04  18:54:51 
+ Juan  Rojas;SG2;Sin  Servicio;3814;2019-01-04  19:09:21 
+ Juan  Rojas;SC2;Sin  Servicio;10762;2019-01-04  19:37:11 
+ Juan  Rojas;PI1C;Sin  Servicio;14417;2019-01-04  20:24:42 
+ Juan  Rojas;MluR1etc;Baja  Velocidad;3366;2019-01-04  20:26:28 
+ Juan  Rojas;SSiP3bb;Sin  Servicio;7519;2019-01-04  20:28:02 
+ Juan  Rojas;LP2C;Baja  Velocidad;5098;2019-01-04  20:40:38 
+ Juan  Rojas;PI2Cbb;Sin  Servicio;13893;2019-01-04  20:45:25 
+ Juan  Rojas;SSiVG3;Sin  Servicio;5410;2019-01-04  20:46:37 
+ Juan  Rojas;BF3;Sin  Servicio;5197;2019-01-04  21:12:50 
+ Juan  Rojas;SSi;Sin  Servicio;6976;2019-01-04  21:20:46 
+ Juan  Rojas;RAM1AC;Sin  Servicio;4369;2019-01-04  21:20:53 
+ Juan  Rojas;RU2ACbis;Baja  Velocidad;5791;2019-01-04  21:56:47 
+ Juan  Rojas;RU2bb;Sin  Servicio;7320;2019-01-04  22:09:15 
+ Juan  Rojas;LP1AC;Sin  Servicio;11383;2019-01-04  22:12:14 
+ Juan  Rojas;TT2bis;Sin  Servicio;12035;2019-01-04  22:12:28 
+ Juan  Rojas;SF2;Sin  Servicio;4775;2019-01-04  22:17:26 
+ Juan  Rojas;YL1;Baja  Velocidad;11574;2019-01-04  22:23:09 
+ Juan  Rojas;TT1bis;Baja  Velocidad;14052;2019-01-04  22:40:38 
+ Juan  Rojas;RU2ACbis;Baja  Velocidad;5791;2019-01-04  22:41:42 
+ Juan  Rojas;FOPS156;Baja  Velocidad;8981;2019-01-04  23:11:00 
+ Juan  Rojas;SG2quad;Cortes;6709;2019-01-04  23:11:15 
+ Juan  Rojas;SG2quad;Baja  Velocidad;6709;2019-01-04  23:11:15 
+ Juan  Rojas;RB2CBis;Sin  Servicio;14513;2019-01-05  10:11:17 
+ Juan  Rojas;HQ3AC;Sin  Servicio;3189;2019-01-05  10:11:49 
+ Juan  Rojas;SG1ACbis;Sin  Servicio;2665;2019-01-05  10:13:47 
+ Juan  Rojas;FMF4;Baja  Velocidad;4933;2019-01-05  10:18:11 
+ Juan  Rojas;BF4AC;Sin  Servicio;4173;2019-01-05  10:28:05 
+ Juan  Rojas;BF3AC;Sin  Servicio;12968;2019-01-05  10:36:17 
+ Juan  Rojas;FOPI168;Cortes;3367;2019-01-05  10:40:25 
+ Juan  Rojas;SF1.45AC;Baja  Velocidad;6908;2019-01-05  10:55:00 
+ Juan  Rojas;SSiP3bis;Cortes;4319;2019-01-05  11:02:24 
+ Juan  Rojas;SP2AC;Baja  Velocidad;10375;2019-01-05  11:12:04 
+ Juan  Rojas;FOPI168;Cortes;9511;2019-01-05  11:42:13 
+ Juan  Rojas;HE4C;Baja  Velocidad;12614;2019-01-05  12:17:47 
+ Juan  Rojas;BF4AC;Sin  Servicio;2184;2019-01-05  12:40:00 
+ Juan  Rojas;TSB1Cbis;Sin  Servicio;10176;2019-01-05  12:44:36 
+ Juan  Rojas;TT2Cbb;Sin  Servicio;10326;2019-01-05  12:55:42 
+ Juan  Rojas;SSiP2bis;Sin  Servicio;6796;2019-01-05  13:24:25 
+ Juan  Rojas;TF3Cbis;Sin  Servicio;6796;2019-01-05  13:24:37 
+ Juan  Rojas;P2P;Baja  Velocidad;12329;2019-01-05  13:50:26 
+ Juan  Rojas;ESC1;Sin  Servicio;12158;2019-01-05  13:57:59 
+ Juan  Rojas;RB3CBis;Baja  Velocidad;12564;2019-01-05  14:02:51 
+ Juan  Rojas;PS1C;Cortes;12269;2019-01-05  14:18:14 
+ Juan  Rojas;BF4;Sin  Servicio;3988;2019-01-05  15:45:58 
+ Juan  Rojas;PB2T;Sin  Servicio;9961;2019-01-05  16:14:09 
+ Juan  Rojas;MluR1bb;Sin  Servicio;7248;2019-01-05  16:14:54 
+ Juan  Rojas;PS3;Sin  Servicio;14540;2019-01-05  16:38:42 
+ Juan  Rojas;SF1.5;Sin  Servicio;5123;2019-01-05  16:52:10 
+ Juan  Rojas;SSiMLu3;Cortes;981;2019-01-05  17:47:58 
+ Juan  Rojas;ERROR;Sin  Servicio;13513;2019-01-05  17:50:45 
+ Juan  Rojas;SF0.5AC;Sin  Servicio;13017;2019-01-05  18:00:16 
+ Juan  Rojas;SG2quad;Sin  Servicio;14152;2019-01-05  18:01:20 
+ Juan  Rojas;PI1C;Baja  Velocidad;9484;2019-01-05  18:03:48 
+ Juan  Rojas;FOPI168;Sin  Servicio;14436;2019-01-05  18:07:39 
+ Juan  Rojas;PB3;Sin  Servicio;13221;2019-01-05  18:22:03 
+ Juan  Rojas;TSB4Cbis;Sin  Servicio;10227;2019-01-05  19:14:36 
+ Juan  Rojas;MluR1;Sin  Servicio;294;2019-01-05  19:16:41 
+ Juan  Rojas;PI3C;Sin  Servicio;13797;2019-01-05  19:51:43 
+ Juan  Rojas;ERROR;Sin  Servicio;13513;2019-01-05  19:58:41 
+ Juan  Rojas;RAM3C;Sin  Servicio;4809;2019-01-05  20:05:24 
+ Juan  Rojas;TSB4Cbis;Sin  Servicio;7457;2019-01-05  20:16:52 
+ Juan  Rojas;PS1C;Sin  Servicio;1128;2019-01-05  20:17:24 
+ Juan  Rojas;PI3bis;Baja  Velocidad;8394;2019-01-05  20:28:39 
+ Juan  Rojas;HI3C;Baja  Velocidad;7994;2019-01-05  20:29:08 
+ Juan  Rojas;FOPS156;Cortes;7971;2019-01-05  21:04:44 
+ Juan  Rojas;ERROR;Sin  Servicio;9595;2019-01-05  21:24:42 
+ Juan  Rojas;TSB4T;Cortes;3252;2019-01-05  21:37:31 
+ Juan  Rojas;FOHQ152;Sin  Servicio;4246;2019-01-05  21:58:47 
+ Juan  Rojas;TSB1Cbis;Baja  Velocidad;402;2019-01-05  22:15:48 
+ Juan  Rojas;FOHQ152;Sin  Servicio;6775;2019-01-05  22:19:21 
+ Juan  Rojas;SF1etc;Sin  Servicio;6052;2019-01-05  22:28:54 
+ Juan  Rojas;TF4C;Sin  Servicio;4127;2019-01-05  22:34:28 
+ Juan  Rojas;PB2;Sin  Servicio;9677;2019-01-05  22:40:03 
+ Juan  Rojas;PI4;Sin  Servicio;3747;2019-01-05  22:56:00 
+ Nicolas  Vargas;PI3;Sin  Servicio;8774;2019-01-06  11:04:01 
+ Nicolas  Vargas;PI3;Sin  Servicio;11403;2019-01-06  11:04:55 
+ Nicolas  Vargas;PI3;Sin  Servicio;7625;2019-01-06  11:06:39 
+ Nicolas  Vargas;RU2AC;Cortes;6454;2019-01-06  11:07:22 
+ Nicolas  Vargas;PI3;Sin  Servicio;10241;2019-01-06  11:07:47 
+ Nicolas  Vargas;FOPS156;Sin  Servicio;2664;2019-01-06  11:50:14 
+ Nicolas  Vargas;AC2;Cortes;2130;2019-01-06  12:50:37 
+ Nicolas  Vargas;SP4AC;Sin  Servicio;2161;2019-01-06  14:10:54 
+ Nicolas  Vargas;SSiVG3;Cortes;5156;2019-01-06  14:11:38 
+ Nicolas  Vargas;LP1C;Sin  Servicio;6237;2019-01-06  15:24:37 
+ Nicolas  Vargas;RAM1C;Sin  Servicio;13978;2019-01-06  16:30:06 
+ Nicolas  Vargas;PS1C;Sin  Servicio;10037;2019-01-06  16:40:16 
+ Nicolas  Vargas;FOHQ152;Baja  Velocidad;14355;2019-01-06  19:30:50 
+ Nicolas  Vargas;TSB1C;Baja  Velocidad;9537;2019-01-06  20:35:29 
+ Nicolas  Vargas;PB1;Baja  Velocidad;9951;2019-01-06  20:59:18 
+ Nicolas  Vargas;LP2;Cortes;4262;2019-01-06  21:41:08 
+ Nicolas  Vargas;TG2;Sin  Servicio;4089;2019-01-06  22:32:08 
+ Nicolas  Vargas;TT1bis;Sin  Servicio;1637;2019-01-06  22:44:25 
+ Nicolas  Vargas;SG2quad;Baja  Velocidad;6709;2019-01-06  22:48:38 
+ Nicolas  Vargas;A51-1AC;Sin  Servicio;12644;2019-01-06  22:54:19 
+ Nicolas  Vargas;RU2bis;Baja  Velocidad;3810;2019-01-07  09:50:16 
+ Nicolas  Vargas;GR3;Sin  Servicio;827;2019-01-07  10:10:36 
+ Nicolas  Vargas;TSB2Cbis;Sin  Servicio;13830;2019-01-07  10:17:37 
+ Nicolas  Vargas;TT5C;Sin  Servicio;10689;2019-01-07  10:18:02 
+ Nicolas  Vargas;TSB3T;Sin  Servicio;14414;2019-01-07  10:38:58 
+ Nicolas  Vargas;PS1;Sin  Servicio;11541;2019-01-07  10:48:48 
+ Nicolas  Vargas;PI3Cbis;Sin  Servicio;10330;2019-01-07  11:21:18 
+ Nicolas  Vargas;BF3;Cortes;6594;2019-01-07  11:52:34 
+ Nicolas  Vargas;PI3Cbis;Sin  Servicio;10330;2019-01-07  11:56:55 
+ Nicolas  Vargas;RU2AC;Sin  Servicio;2948;2019-01-07  12:18:34 
+ Nicolas  Vargas;FOPS156;Sin  Servicio;9852;2019-01-07  12:21:39 
+ Nicolas  Vargas;RB3C;Sin  Servicio;11623;2019-01-07  12:35:41 
+ Nicolas  Vargas;HI3C;Sin  Servicio;9042;2019-01-07  12:58:27 
+ Nicolas  Vargas;TT5C;Sin  Servicio;5089;2019-01-07  13:06:08 
+ Nicolas  Vargas;ESC4;Sin  Servicio;11004;2019-01-07  13:24:55 
+ Nicolas  Vargas;FOPS156;Sin  Servicio;7565;2019-01-07  13:56:52 
+ Nicolas  Vargas;ERROR;Sin  Servicio;5670;2019-01-07  13:56:57 
+ Nicolas  Vargas;TSB2Cbis;Sin  Servicio;12435;2019-01-07  14:00:29 
+ Nicolas  Vargas;AC4;Sin  Servicio;127;2019-01-07  14:10:16 
+ Nicolas  Vargas;PB2bis;Sin  Servicio;10148;2019-01-07  14:17:19 
+ Nicolas  Vargas;TT5C;Sin  Servicio;7274;2019-01-07  14:20:14 
+ Nicolas  Vargas;RAM1AC;Sin  Servicio;6353;2019-01-07  14:40:49 
+ Nicolas  Vargas;PB3;Sin  Servicio;11687;2019-01-07  14:52:26 
+ Nicolas  Vargas;HE4;Baja  Velocidad;10081;2019-01-07  14:52:34 
+ Nicolas  Vargas;SSiDC1;Sin  Servicio;1337;2019-01-07  15:17:36 
+ Nicolas  Vargas;SG3bis;Baja  Velocidad;5587;2019-01-07  15:26:29 
+ Nicolas  Vargas;HV4;Baja  Velocidad;12623;2019-01-07  16:19:18 
+ Nicolas  Vargas;PI4Cbb;Sin  Servicio;13418;2019-01-07  16:19:24 
+ Nicolas  Vargas;HQ2AC;Sin  Servicio;6695;2019-01-07  16:36:50 
+ Nicolas  Vargas;TF2C;Sin  Servicio;14137;2019-01-07  17:15:11 
+ Juan  Rojas;ESC4;Sin  Servicio;12395;2019-01-07  17:32:10 
+ Juan  Rojas;HQ2AC;Sin  Servicio;6695;2019-01-07  17:38:52 
+ Juan  Rojas;RAM3C;Sin  Servicio;4809;2019-01-07  17:46:31 
+ Juan  Rojas;PI4Cbis;Sin  Servicio;11381;2019-01-07  17:50:50 
+ Juan  Rojas;TF3;Baja  Velocidad;13272;2019-01-07  17:57:36 
+ Juan  Rojas;MluR1;Cortes;294;2019-01-07  18:20:48 
+ Juan  Rojas;FOPS156;Cortes;13925;2019-01-07  19:02:13 
+ Juan  Rojas;SG1ACbis;Baja  Velocidad;8437;2019-01-07  19:15:09 
+ Juan  Rojas;FOPS156;Sin  Servicio;2664;2019-01-07  19:22:13 
+ Juan  Rojas;GR2;Sin  Servicio;9519;2019-01-07  20:05:25 
+ Juan  Rojas;HQ2AC;Sin  Servicio;8606;2019-01-07  20:26:46 
+ Juan  Rojas;GR2;Sin  Servicio;4561;2019-01-07  20:31:41 
+ Juan  Rojas;HE4C;Sin  Servicio;12502;2019-01-07  20:35:18 
+ Juan  Rojas;FMF3AC;Baja  Velocidad;5014;2019-01-07  20:49:42 
+ Juan  Rojas;PI2bis;Sin  Servicio;8639;2019-01-07  20:53:05 
+ Juan  Rojas;A51-1bis;Cortes;7751;2019-01-07  20:54:53 
+ Juan  Rojas;BF3bis;Baja  Velocidad;6428;2019-01-07  21:04:49 
+ Juan  Rojas;RB2C;Baja  Velocidad;7626;2019-01-07  21:06:24 
+ Juan  Rojas;SF1.45AC;Baja  Velocidad;7270;2019-01-07  21:09:01 
+ Juan  Rojas;FOPI172;Sin  Servicio;8116;2019-01-07  21:09:45 
+ Juan  Rojas;PB2bis;Cortes;10051;2019-01-07  21:15:23 
+ Juan  Rojas;SF1AC;Cortes;6627;2019-01-07  21:16:01 
+ Juan  Rojas;TSB1T;Sin  Servicio;10049;2019-01-07  21:30:57 
+ Juan  Rojas;PB3bb;Sin  Servicio;9638;2019-01-07  21:36:57 
+ Juan  Rojas;RAM1AC;Sin  Servicio;6603;2019-01-07  21:37:47 
+ Juan  Rojas;FOPS156;Cortes;11414;2019-01-07  21:44:54 
+ Juan  Rojas;FOHQ152;Cortes;7192;2019-01-07  21:52:11 
+ Juan  Rojas;TSB4;Sin  Servicio;7583;2019-01-07  22:10:51 
+ Juan  Rojas;FOHQ160;Sin  Servicio;6814;2019-01-07  22:26:17 
+ Juan  Rojas;MluR1tris;Sin  Servicio;9426;2019-01-07  22:43:03 
+ Juan  Rojas;PI3;Baja  Velocidad;8774;2019-01-07  22:45:37 
+ Juan  Rojas;PI3Cbis;Baja  Velocidad;12620;2019-01-07  23:01:23 
+ Juan  Rojas;SSi4;Sin  Servicio;4300;2019-01-08  09:27:09 
+ Juan  Rojas;RAM3AC;Sin  Servicio;9706;2019-01-08  09:28:14 
+ Juan  Rojas;FOPS156;Sin  Servicio;1628;2019-01-08  09:30:10 
+ Juan  Rojas;TSB1;Sin  Servicio;1220;2019-01-08  09:34:37 
+ Juan  Rojas;FOPS156;Sin  Servicio;5723;2019-01-08  09:36:37 
+ Agustin  Olmos;AC4bis;Sin  Servicio;3051;2019-01-08  09:38:12 
+ Juan  Rojas;HV1.6;Baja  Velocidad;6468;2019-01-08  09:41:49 
+ Juan  Rojas;TT3;Cortes;7754;2019-01-08  09:55:50 
+ Juan  Rojas;TF2C;Cortes;958;2019-01-08  09:56:34 
+ Juan  Rojas;PB3bb;Cortes;12439;2019-01-08  10:07:16 
+ Juan  Rojas;TF1C;Sin  Servicio;14233;2019-01-08  10:17:58 
+ Juan  Rojas;FOPS156;Sin  Servicio;10579;2019-01-08  10:42:20 
+ Juan  Rojas;PB3bb;Baja  Velocidad;10015;2019-01-08  12:01:50 
+ Juan  Rojas;AC2bis;Baja  Velocidad;4542;2019-01-08  12:02:04 
+ Juan  Rojas;TF3Cbis;Sin  Servicio;10288;2019-01-08  12:15:21 
+ Juan  Rojas;TSB4;Baja  Velocidad;3882;2019-01-08  12:17:11 
+ Juan  Rojas;RU2bb;Sin  Servicio;8325;2019-01-08  12:19:31 
+ Juan  Rojas;PS4bis;Baja  Velocidad;4266;2019-01-08  12:24:24 
+ Juan  Rojas;FOPI168;Sin  Servicio;4090;2019-01-08  12:32:47 
+ Juan  Rojas;HI3C;Sin  Servicio;9042;2019-01-08  12:40:28 
+ Juan  Rojas;BC3;Sin  Servicio;4700;2019-01-08  13:18:42 
+ Juan  Rojas;FOPS156;Sin  Servicio;7565;2019-01-08  13:23:03 
+ Juan  Rojas;TT1C;Sin  Servicio;7063;2019-01-08  13:36:13 
+ Juan  Rojas;HI4C;Baja  Velocidad;14131;2019-01-08  13:44:40 
+ Juan  Rojas;MluR1tris;Baja  Velocidad;433;2019-01-08  13:47:10 
+ Juan  Rojas;FOPS156;Wsp-Inst-Face;10248;2019-01-08  13:53:42 
+ Juan  Rojas;TSB1C;Sin  Servicio;9537;2019-01-08  14:19:30 
+ Juan  Rojas;PB2T;Sin  Servicio;9633;2019-01-08  14:22:19 
+ Juan  Rojas;TSB1C;Baja  Velocidad;10970;2019-01-08  14:26:36 
+ Juan  Rojas;PB3;Baja  Velocidad;10082;2019-01-08  14:30:10 
+ Juan  Rojas;RAM1C;Cortes;13978;2019-01-08  14:48:56 
+ Juan  Rojas;PB3bb;Sin  Servicio;9683;2019-01-08  14:49:48 
+ Juan  Rojas;PI3Cbis;Sin  Servicio;8653;2019-01-08  14:57:51 
+ Nicolas  Vargas;FOHQ160;Wsp-Inst-Face;1491;2019-01-08  15:13:36 
+ Agustin  Olmos;HE2Cbb;Microcortes;12677;2019-01-08  15:24:32 
+ Agustin  Olmos;HE2Cbb;Baja  Velocidad;12677;2019-01-08  15:24:32 
+ Nicolas  Vargas;PI1;Baja  Velocidad;9708;2019-01-08  15:28:03 
+ Nicolas  Vargas;TSB1C;Microcortes;10970;2019-01-08  15:38:02 
+ Nicolas  Vargas;TSB1C;Baja  Velocidad;10970;2019-01-08  15:38:02 
+ Nicolas  Vargas;TT2Cbb;Sin  Servicio;14424;2019-01-08  15:44:15 
+ Nicolas  Vargas;PS1bis;Baja  Velocidad;2490;2019-01-08  15:45:18 
+ Nicolas  Vargas;TSB2;Sin  Servicio;11324;2019-01-08  15:49:46 
+ Nicolas  Vargas;TSB4Cbb;Sin  Servicio;12686;2019-01-08  15:57:57 
+ Nicolas  Vargas;PI1C;Sin  Servicio;1718;2019-01-08  16:09:28 
+ Nicolas  Vargas;PI3Ctris;Baja  Velocidad;12399;2019-01-08  16:33:06 
+ Nicolas  Vargas;RAM1AC;Sin  Servicio;2245;2019-01-08  16:34:56 
+ Agustin  Olmos;FOPS156;Cortes;6508;2019-01-08  16:50:29 
+ Agustin  Olmos;FOPS156;Baja  Velocidad;6508;2019-01-08  16:50:29 
+ Nicolas  Vargas;FOPI168;Sin  Servicio;7445;2019-01-08  17:05:14 
+ Nicolas  Vargas;FOPI168;Sin  Servicio;7657;2019-01-08  17:08:46 
+ Nicolas  Vargas;TF2;Sin  Servicio;2624;2019-01-08  17:11:13 
+ Nicolas  Vargas;TSB2T;Sin  Servicio;14000;2019-01-08  17:17:49 
+ Nicolas  Vargas;PI3C;Sin  Servicio;2431;2019-01-08  17:30:12 
+ Nicolas  Vargas;PI3C;Wsp-Inst-Face;2431;2019-01-08  17:31:18 
+ Nicolas  Vargas;FOPS156;Wsp-Inst-Face;1870;2019-01-08  17:45:28 
+ Nicolas  Vargas;PI4;Sin  Servicio;8025;2019-01-08  17:45:54 
+ Agustin  Olmos;GR3C;Microcortes;6571;2019-01-08  17:57:48 
+ Agustin  Olmos;GR3C;Baja  Velocidad;6571;2019-01-08  17:57:48 
+ Nicolas  Vargas;FOPS156;Wsp-Inst-Face;3416;2019-01-08  18:09:35 
+ Nicolas  Vargas;RAM1C;Sin  Servicio;13978;2019-01-08  18:28:36 
+ Nicolas  Vargas;BF3AC;Sin  Servicio;12949;2019-01-08  18:29:15 
+ Nicolas  Vargas;TSB4Cbb;Sin  Servicio;7786;2019-01-08  18:38:55 
+ Nicolas  Vargas;RAM2;Cortes;2462;2019-01-08  18:50:46 
+ Nicolas  Vargas;RB2CBis;Sin  Servicio;13346;2019-01-08  18:53:27 
+ Nicolas  Vargas;FOPS156;Sin  Servicio;6685;2019-01-08  19:33:22 
+ Nicolas  Vargas;SC2;Baja  Velocidad;10749;2019-01-08  19:48:50 
+ Nicolas  Vargas;BF4.5RF;Sin  Servicio;5268;2019-01-08  19:58:32 
+ Nicolas  Vargas;PI3Cbb;Wsp-Inst-Face;3720;2019-01-08  20:00:37 
+ Nicolas  Vargas;SSiP3bis;Sin  Servicio;3033;2019-01-08  20:30:54 
+ Nicolas  Vargas;HW1AC;Wsp-Inst-Face;8334;2019-01-08  20:35:12 
+ Nicolas  Vargas;BF4bis;Wsp-Inst-Face;4835;2019-01-08  20:46:34 
+ Nicolas  Vargas;TSB4;Sin  Servicio;7583;2019-01-08  20:49:09 
+ Nicolas  Vargas;A51-1AC;Sin  Servicio;7263;2019-01-08  20:53:15 
+ Nicolas  Vargas;TSB3T;Baja  Velocidad;3540;2019-01-08  20:54:48 
+ Nicolas  Vargas;RAM3AC;Sin  Servicio;902;2019-01-08  20:58:33 
+ Nicolas  Vargas;SG2;Sin  Servicio;2080;2019-01-08  21:04:55 
+ Nicolas  Vargas;FOHQ152;Baja  Velocidad;14355;2019-01-08  21:20:25 
+ Nicolas  Vargas;MluR1bis;Wsp-Inst-Face;929;2019-01-08  21:38:17 
+ Nicolas  Vargas;FOPS156;Sin  Servicio;10579;2019-01-08  21:40:19 
+ Nicolas  Vargas;FMF4;Sin  Servicio;10913;2019-01-08  22:02:11 
+ Nicolas  Vargas;PB1;Sin  Servicio;10261;2019-01-08  22:05:03 
+ Nicolas  Vargas;PP2;Sin  Servicio;112;2019-01-08  22:50:30 
+ Nicolas  Vargas;TSB1T;Sin  Servicio;13237;2019-01-09  09:38:40 
+ Nicolas  Vargas;PB2bis;Sin  Servicio;13259;2019-01-09  09:48:57 
+ Nicolas  Vargas;RB1C;Wsp-Inst-Face;13164;2019-01-09  09:57:39 
+ Nicolas  Vargas;PB2bis;Sin  Servicio;14352;2019-01-09  09:58:55 
+ Nicolas  Vargas;TSB3Cbb;Sin  Servicio;13829;2019-01-09  09:59:25 
+ Nicolas  Vargas;TSB1Cbis;Sin  Servicio;13496;2019-01-09  10:03:29 
+ Nicolas  Vargas;RAM1AC;Wsp-Inst-Face;6083;2019-01-09  10:20:54 
+ Nicolas  Vargas;TT1bis;Wsp-Inst-Face;9999;2019-01-09  10:22:16 
+ Nicolas  Vargas;RAM1AC;Sin  Servicio;6603;2019-01-09  10:33:15 
+ Nicolas  Vargas;PB3bb;Sin  Servicio;9683;2019-01-09  10:37:37 
+ Agustin  Olmos;MluR2tris;Microcortes;5371;2019-01-09  10:54:49 
+ Agustin  Olmos;MluR2tris;Baja  Velocidad;5371;2019-01-09  10:54:49 
+ Nicolas  Vargas;GR3C;Sin  Servicio;12334;2019-01-09  11:11:40 
+ Nicolas  Vargas;TT2C;Sin  Servicio;8492;2019-01-09  11:24:31 
+ Nicolas  Vargas;PI3;Sin  Servicio;11439;2019-01-09  12:09:33 
+ Nicolas  Vargas;PI2Cbb;Sin  Servicio;9939;2019-01-09  12:15:20 
+ Nicolas  Vargas;BF4.5RF;Sin  Servicio;3850;2019-01-09  12:42:13 
+ Nicolas  Vargas;FOPS156;Cortes;7971;2019-01-09  12:42:22 
+ Nicolas  Vargas;PI3Cbis;Sin  Servicio;7658;2019-01-09  13:06:30 
+ Nicolas  Vargas;BF4bis;Sin  Servicio;4079;2019-01-09  13:38:32 
+ Nicolas  Vargas;SG2tris;Cortes;3661;2019-01-09  14:14:27 
+ Nicolas  Vargas;SP3AC;Sin  Servicio;5845;2019-01-09  15:26:30 
+ Nicolas  Vargas;SP3AC;Sin  Servicio;5845;2019-01-09  16:11:57 
+ Nicolas  Vargas;TT3;Sin  Servicio;7769;2019-01-09  16:22:41 
+ Nicolas  Vargas;TT3;Sin  Servicio;7769;2019-01-09  16:22:49 
+ Nicolas  Vargas;LP3AC;Baja  Velocidad;9571;2019-01-09  16:23:59 
+ Nicolas  Vargas;GR2C;Sin  Servicio;7930;2019-01-09  17:13:28 
+ Nicolas  Vargas;HE2Cbis;Sin  Servicio;8690;2019-01-09  17:14:49 
+ Juan  Rojas;HI4C;Cortes;13772;2019-01-09  17:35:25 
+ Juan  Rojas;FOHQ160;Cortes;10117;2019-01-09  17:39:04 
+ Juan  Rojas;PB1;Sin  Servicio;9515;2019-01-09  18:17:37 
+ Juan  Rojas;SG2AC;Baja  Velocidad;6924;2019-01-09  18:26:56 
+ Juan  Rojas;PB2;Sin  Servicio;7237;2019-01-09  18:27:22 
+ Juan  Rojas;TT5C;Sin  Servicio;5089;2019-01-09  18:43:50 
+ Anna  Villegas;AC1;Baja  Velocidad;6407;2019-01-09  18:59:34 
+ Juan  Rojas;BF3bis;Sin  Servicio;12822;2019-01-09  19:23:12 
+ Juan  Rojas;FOHQ152;Cortes;7408;2019-01-09  19:45:01 
+ Juan  Rojas;SG2bis;Sin  Servicio;5595;2019-01-09  19:45:34 
+ Juan  Rojas;SG3bis;Sin  Servicio;9607;2019-01-09  19:58:16 
+ Juan  Rojas;centro;Sin  Servicio;399;2019-01-09  20:01:47 
+ Juan  Rojas;FOPI168;Sin  Servicio;10131;2019-01-09  20:23:58 
+ Juan  Rojas;ERROR;Baja  Velocidad;7647;2019-01-09  20:32:48 
+ Juan  Rojas;PS4C;Baja  Velocidad;11378;2019-01-09  20:35:24 
+ Juan  Rojas;BF3AC;Baja  Velocidad;9840;2019-01-09  20:55:53 
+ Juan  Rojas;FOHQ152;Baja  Velocidad;7875;2019-01-09  20:56:05 
+ Juan  Rojas;PB1;Baja  Velocidad;9951;2019-01-09  21:04:57 
+ Juan  Rojas;ESC2;Sin  Servicio;12483;2019-01-09  21:06:07 
+ Juan  Rojas;TSB3T;Baja  Velocidad;9960;2019-01-09  21:46:38 
+ Juan  Rojas;FOPS156;Cortes;4368;2019-01-09  21:52:22 
+ Juan  Rojas;PB2bb;Sin  Servicio;11692;2019-01-09  21:54:32 
+ Juan  Rojas;ESC2;Sin  Servicio;12483;2019-01-09  21:55:22 
+ Juan  Rojas;TSB3T;Baja  Velocidad;9960;2019-01-09  21:56:33 
+ Juan  Rojas;SG2quad;Cortes;6709;2019-01-09  22:08:32 
+ Juan  Rojas;SF1AC;Sin  Servicio;7096;2019-01-09  22:16:43 
+ Juan  Rojas;ERROR;Baja  Velocidad;2151;2019-01-09  22:27:04 
+ Juan  Rojas;TSB2Cbis;Sin  Servicio;14572;2019-01-09  22:29:10 
+ Juan  Rojas;FOPS156;Sin  Servicio;8091;2019-01-09  22:44:24 
+ Juan  Rojas;FOPS156;Cortes;4237;2019-01-09  22:44:36 
+ Juan  Rojas;TT3C;Cortes;12429;2019-01-09  22:48:49 
+ Juan  Rojas;SP3AC;Baja  Velocidad;7137;2019-01-09  22:49:41 
+ Juan  Rojas;PI3;Sin  Servicio;7131;2019-01-09  22:51:37 
+ Juan  Rojas;TT3C;Baja  Velocidad;12429;2019-01-09  22:57:19 
+ Juan  Rojas;FOPS156;Microcortes;3697;2019-01-09  22:58:30 
+ Juan  Rojas;SG2bis;Sin  Servicio;2522;2019-01-09  23:00:11 
+ Juan  Rojas;TSB1Cbis;Sin  Servicio;13496;2019-01-10  09:40:46 
+ Juan  Rojas;SSiMLu2;Sin  Servicio;2173;2019-01-10  09:43:52 
+ Juan  Rojas;PI4Cbis;Sin  Servicio;7981;2019-01-10  09:45:31 
+ Juan  Rojas;ESC2;Sin  Servicio;12483;2019-01-10  09:52:08 
+ Juan  Rojas;FOPI168;Baja  Velocidad;9277;2019-01-10  09:57:31 
+ Juan  Rojas;HE2Cbis;Sin  Servicio;8655;2019-01-10  10:06:59 
+ Juan  Rojas;HE2Cbis;Baja  Velocidad;8655;2019-01-10  10:23:36 
+ Juan  Rojas;SG1bis;Baja  Velocidad;1661;2019-01-10  10:34:40 
+ Juan  Rojas;PI1C;Sin  Servicio;11395;2019-01-10  11:06:40 
+ Juan  Rojas;TF4Cbis;Sin  Servicio;5449;2019-01-10  11:33:36 
+ Agustin  Olmos;FOPS156;Microcortes;6831;2019-01-10  11:41:39 
+ Juan  Rojas;FOPS156;Sin  Servicio;14588;2019-01-10  11:42:55 
+ Juan  Rojas;A51-1bis;Sin  Servicio;3632;2019-01-10  11:43:49 
+ Juan  Rojas;A51-1AC;Sin  Servicio;2630;2019-01-10  11:55:57 
+ Juan  Rojas;A51-3;Sin  Servicio;4756;2019-01-10  12:03:06 
+ Juan  Rojas;TSB4;Baja  Velocidad;4049;2019-01-10  12:56:29 
+ Juan  Rojas;RU3ACbis;Cortes;12918;2019-01-10  12:57:05 
+ Anna  Villegas;YL1;Cortes;4011;2019-01-10  13:06:06 
+ Anna  Villegas;PI2Cbb;Sin  Servicio;11812;2019-01-10  13:21:06 
+ Juan  Rojas;PS1C;Baja  Velocidad;14286;2019-01-10  13:32:47 
+ Juan  Rojas;RU3ACbis;Sin  Servicio;9924;2019-01-10  13:35:47 
+ Juan  Rojas;SG2;Sin  Servicio;6646;2019-01-10  13:43:17 
+ Juan  Rojas;RU2AC;Sin  Servicio;2948;2019-01-10  13:56:25 
+ Juan  Rojas;TSB1Cbis;Baja  Velocidad;9537;2019-01-10  13:58:38 
+ Juan  Rojas;TT1Cbb;Sin  Servicio;11578;2019-01-10  14:01:10 
+ Juan  Rojas;YL1AC;Sin  Servicio;10704;2019-01-10  14:35:32 
+ Juan  Rojas;FOPS156;Sin  Servicio;8753;2019-01-10  14:38:33 
+ Juan  Rojas;FOPI168;Sin  Servicio;2449;2019-01-10  14:41:04 
+ Juan  Rojas;PP2;Sin  Servicio;3251;2019-01-10  14:44:16 
+ Juan  Rojas;FOPS156;Sin  Servicio;2307;2019-01-10  14:48:22 
+ Juan  Rojas;HV2.9;Baja  Velocidad;6018;2019-01-10  14:48:47 
+ Juan  Rojas;PB2bb;Baja  Velocidad;10533;2019-01-10  14:53:32 
+ Nicolas  Vargas;FOHQ152;Baja  Velocidad;7586;2019-01-10  15:55:43 
+ Anna  Villegas;TT4C;Baja  Velocidad;7057;2019-01-10  16:14:39 
+ Nicolas  Vargas;FOHQ160;Baja  Velocidad;14706;2019-01-10  16:55:32 
+ Nicolas  Vargas;PP4;Sin  Servicio;5181;2019-01-10  17:17:48 
+ Nicolas  Vargas;SSi5;Sin  Servicio;4525;2019-01-10  17:23:49 
+ Nicolas  Vargas;RAM1AC;Baja  Velocidad;2245;2019-01-10  17:27:42 
+ Nicolas  Vargas;SG1;Baja  Velocidad;3124;2019-01-10  17:52:00 
+ Nicolas  Vargas;PB3;Sin  Servicio;9958;2019-01-10  17:52:18 
+ Agustin  Olmos;SG1ACbis;Baja  Velocidad;9912;2019-01-10  17:53:24 
+ Agustin  Olmos;GR2CBis;Baja  Velocidad;7815;2019-01-10  18:03:11 
+ Nicolas  Vargas;BF3RF;Sin  Servicio;9408;2019-01-10  18:05:06 
+ Nicolas  Vargas;PI4Cbis;Cortes;8640;2019-01-10  18:32:26 
+ Nicolas  Vargas;FOPI172;Cortes;5067;2019-01-10  18:34:07 
+ Nicolas  Vargas;AC4bis;Sin  Servicio;3051;2019-01-10  18:52:59 
+ Nicolas  Vargas;ERROR;Sin  Servicio;5940;2019-01-10  19:29:47 
+ Nicolas  Vargas;SSiP2;Baja  Velocidad;645;2019-01-10  19:47:29 
+ Nicolas  Vargas;PB1T;Sin  Servicio;9138;2019-01-10  19:49:14 
+ Nicolas  Vargas;FOPS156;Sin  Servicio;6831;2019-01-10  19:53:57 
+ Nicolas  Vargas;PI3C;Sin  Servicio;14103;2019-01-10  20:18:39 
+ Nicolas  Vargas;PI3;Wsp-Inst-Face;4697;2019-01-10  20:49:26 
+ Nicolas  Vargas;SP3AC;Sin  Servicio;9824;2019-01-10  20:59:05 
+ Nicolas  Vargas;AC3;Baja  Velocidad;7143;2019-01-10  21:06:15 
+ Nicolas  Vargas;HE3Cbis;Cortes;3174;2019-01-10  21:27:00 
+ Nicolas  Vargas;FOHQ152;Baja  Velocidad;9840;2019-01-11  09:54:17 
+ Nicolas  Vargas;FOPI168;Sin  Servicio;11792;2019-01-11  09:54:40 
+ Nicolas  Vargas;HE3Cbis;Cortes;3174;2019-01-11  09:57:40 
+ Nicolas  Vargas;FOHQ152;Sin  Servicio;14020;2019-01-11  10:01:14 
+ Nicolas  Vargas;P2P;Sin  Servicio;5473;2019-01-11  10:36:06 
+ Nicolas  Vargas;PP3;Sin  Servicio;5471;2019-01-11  10:36:17 
+ Nicolas  Vargas;TF2C;Sin  Servicio;14041;2019-01-11  10:46:08 
+ Nicolas  Vargas;TSB4Cbis;Baja  Velocidad;13916;2019-01-11  11:15:38 
+ Nicolas  Vargas;HE1C;Cortes;6468;2019-01-11  13:35:12 
+ Nicolas  Vargas;TF3Cbis;Baja  Velocidad;4741;2019-01-11  13:35:29 
+ Nicolas  Vargas;TSB1Cbis;Sin  Servicio;9537;2019-01-11  13:47:52 
+ Nicolas  Vargas;TSB2Cbis;Baja  Velocidad;4780;2019-01-11  13:49:25 
+ Nicolas  Vargas;TT2Cbb;Sin  Servicio;13927;2019-01-11  13:57:27 
+ Nicolas  Vargas;TT2Cbb;Cortes;9115;2019-01-11  14:05:31 
+ Nicolas  Vargas;SSiP3bis;Baja  Velocidad;6823;2019-01-11  14:19:47 
+ Nicolas  Vargas;TSB4;Sin  Servicio;4088;2019-01-11  14:20:05 
+ Nicolas  Vargas;SP3AC;Sin  Servicio;9824;2019-01-11  15:35:05 
+ Nicolas  Vargas;PS1C;Baja  Velocidad;14286;2019-01-11  15:50:14 
+ Nicolas  Vargas;PB1;Sin  Servicio;9948;2019-01-11  16:12:41 
+ Nicolas  Vargas;PI3bis;Baja  Velocidad;3680;2019-01-11  16:37:55 
+ Juan  Rojas;TSB4C;Sin  Servicio;5299;2019-01-11  17:34:57 
+ Juan  Rojas;LP1Cbis;Cortes;13615;2019-01-11  17:46:27 
+ Juan  Rojas;HE2Cbb;Sin  Servicio;14627;2019-01-11  17:47:38 
+ Juan  Rojas;FOPI168;Sin  Servicio;3367;2019-01-11  17:54:58 
+ Juan  Rojas;PB1T;Sin  Servicio;9138;2019-01-11  18:03:24 
+ Juan  Rojas;HE2Cbb;Cortes;1677;2019-01-11  18:29:33 
+ Juan  Rojas;FOPS156;Sin  Servicio;13817;2019-01-11  18:33:48 
+ Anna  Villegas;LP4C;Sin  Servicio;14714;2019-01-11  18:38:48 
+ Juan  Rojas;TSB3T;Sin  Servicio;13075;2019-01-11  18:51:44 
+ Juan  Rojas;SF4bis;Sin  Servicio;11811;2019-01-11  19:44:13 
+ Juan  Rojas;PI3Cbb;Sin  Servicio;3720;2019-01-11  19:57:14 
+ Juan  Rojas;centro;Sin  Servicio;399;2019-01-11  19:59:59 
+ Juan  Rojas;HE2Cbb;Sin  Servicio;11400;2019-01-11  20:15:00 
+ Juan  Rojas;SSiVG3;Sin  Servicio;5156;2019-01-11  20:18:42 
+ Juan  Rojas;HE3C;Sin  Servicio;10993;2019-01-11  20:44:55 
+ Juan  Rojas;SP4AC;Baja  Velocidad;14239;2019-01-11  20:53:15 
+ Juan  Rojas;RB2C;Sin  Servicio;11338;2019-01-11  21:03:33 
+ Juan  Rojas;FOHQ152;Baja  Velocidad;8714;2019-01-11  21:12:19 
+ Juan  Rojas;P2P;Sin  Servicio;2714;2019-01-11  21:22:19 
+ Juan  Rojas;FOPS156;Cortes;5526;2019-01-11  21:28:35 
+ Juan  Rojas;TF1CTris;Sin  Servicio;13804;2019-01-11  21:52:37 
+ Juan  Rojas;LP1C;Sin  Servicio;12092;2019-01-11  22:10:54 
+ Juan  Rojas;SG2quad;Cortes;6709;2019-01-11  22:35:25 
+ Juan  Rojas;alamos;Baja  Velocidad;5424;2019-01-11  22:41:46 
+ Juan  Rojas;FOPI168;Baja  Velocidad;10740;2019-01-11  22:58:03 
+ Juan  Rojas;LP2AC;Sin  Servicio;11837;2019-01-12  10:01:32 
+ Juan  Rojas;LP2AC;Sin  Servicio;11837;2019-01-12  10:01:44 
+ Nicolas  Vargas;RAM3C;Sin  Servicio;5609;2019-01-12  10:05:27 
+ Nicolas  Vargas;TF2C;Baja  Velocidad;8201;2019-01-12  10:08:41 
+ Nicolas  Vargas;RAM3C;Sin  Servicio;5609;2019-01-12  10:08:51 
+ Nicolas  Vargas;PS2;Sin  Servicio;4858;2019-01-12  10:09:19 
+ Nicolas  Vargas;RB3CBis;Baja  Velocidad;2677;2019-01-12  10:24:42 
+ Nicolas  Vargas;TSB1C;Sin  Servicio;14545;2019-01-12  10:32:29 
+ Nicolas  Vargas;RAM3C;Cortes;4891;2019-01-12  10:59:01 
+ Nicolas  Vargas;centro;Cortes;399;2019-01-12  11:26:25 
+ Nicolas  Vargas;SSiVG4;Sin  Servicio;2574;2019-01-12  11:26:30 
+ Nicolas  Vargas;TSB4;Cortes;4049;2019-01-12  11:55:38 
+ Anna  Villegas;FOPI168;Cortes;3367;2019-01-12  12:06:37 
+ Anna  Villegas;FOPI168;Baja  Velocidad;3367;2019-01-12  12:06:37 
+ Nicolas  Vargas;TF3Cbis;Baja  Velocidad;10288;2019-01-12  12:30:03 
+ Nicolas  Vargas;TF3Cbis;Baja  Velocidad;10288;2019-01-12  12:38:30 
+ Nicolas  Vargas;PS1C;Baja  Velocidad;2371;2019-01-12  13:31:54 
+ Nicolas  Vargas;FOPI168;Sin  Servicio;803;2019-01-12  13:32:24 
+ Nicolas  Vargas;BF2;Sin  Servicio;5423;2019-01-12  13:35:19 
+ Nicolas  Vargas;TF4C;Sin  Servicio;14170;2019-01-12  13:40:53 
+ Nicolas  Vargas;FOHQ152;Cortes;7170;2019-01-12  14:07:24 
+ Nicolas  Vargas;TSB4Cbb;Baja  Velocidad;5018;2019-01-12  14:07:46 
+ Nicolas  Vargas;TSB2C;Cortes;10253;2019-01-12  14:52:31 
+ Nicolas  Vargas;PP4C;Sin  Servicio;2938;2019-01-12  14:53:09 
+ Nicolas  Vargas;PI3Cbb;Sin  Servicio;8242;2019-01-12  14:54:20 
+ Nicolas  Vargas;PI3Cbb;Sin  Servicio;8242;2019-01-12  14:54:49 
+ Nicolas  Vargas;PI3Cbb;Sin  Servicio;6566;2019-01-12  14:55:34 
+ Nicolas  Vargas;PI1C;Sin  Servicio;1718;2019-01-12  14:56:32 
+ Nicolas  Vargas;TT5C;Baja  Velocidad;14131;2019-01-12  15:00:36 
+ Nicolas  Vargas;TT3;Sin  Servicio;6444;2019-01-12  15:00:55 
+ Nicolas  Vargas;HE3C;Sin  Servicio;8619;2019-01-12  15:01:14 
+ Nicolas  Vargas;PI3Ctris;Sin  Servicio;1466;2019-01-12  15:01:32 
+ Nicolas  Vargas;HE4;Sin  Servicio;13180;2019-01-12  15:09:35 
+ Nicolas  Vargas;AA2C;Baja  Velocidad;11027;2019-01-12  17:05:05 
+ Nicolas  Vargas;SG2;Baja  Velocidad;7308;2019-01-12  20:03:48 
+ Nicolas  Vargas;SSiVG3;Sin  Servicio;5156;2019-01-12  20:14:32 
+ Nicolas  Vargas;TT2bis;Baja  Velocidad;12545;2019-01-12  20:14:49 
+ Nicolas  Vargas;SF2ACbb;Sin  Servicio;13836;2019-01-12  20:19:10 
+ Nicolas  Vargas;ria;Baja  Velocidad;502;2019-01-12  21:02:03 
+ Nicolas  Vargas;RAM3C;Baja  Velocidad;9111;2019-01-12  21:13:52 
+ Nicolas  Vargas;PB3bb;Baja  Velocidad;12439;2019-01-12  21:14:13 
+ Nicolas  Vargas;BF3;Sin  Servicio;4027;2019-01-12  21:30:46 
+ Nicolas  Vargas;SSiVG3;Cortes;1869;2019-01-12  21:38:25 
+ Nicolas  Vargas;SSiVG3;Baja  Velocidad;1869;2019-01-12  21:38:25 
+ Nicolas  Vargas;TF3Cbb;Sin  Servicio;14658;2019-01-12  23:01:50 
+ Nicolas  Vargas;SSiP4;Baja  Velocidad;3768;2019-01-12  23:03:22 
+ Juan  Rojas;RAM3C;Sin  Servicio;5609;2019-01-13  09:53:58 
+ Juan  Rojas;AA2C;Sin  Servicio;4430;2019-01-13  09:54:14 
+ Juan  Rojas;PI2Cbb;Sin  Servicio;6668;2019-01-13  09:58:09 
+ Juan  Rojas;SF1.45AC;Baja  Velocidad;13295;2019-01-13  09:59:34 
+ Juan  Rojas;TT2;Sin  Servicio;565;2019-01-13  11:43:45 
+ Juan  Rojas;PI4Cbis;Sin  Servicio;8879;2019-01-13  11:44:44 
+ Juan  Rojas;TSB4T;Cortes;6806;2019-01-13  11:52:27 
+ Juan  Rojas;TSB3Cbis;Sin  Servicio;3948;2019-01-13  11:58:46 
+ Juan  Rojas;SF1.5;Baja  Velocidad;5438;2019-01-13  12:01:35 
+ Juan  Rojas;TT2Cbb;Sin  Servicio;12603;2019-01-13  12:05:50 
+ Juan  Rojas;TSB1T;Baja  Velocidad;1374;2019-01-13  12:12:43 
+ Juan  Rojas;TF2Cbis;Baja  Velocidad;3468;2019-01-13  12:22:57 
+ Juan  Rojas;PP4;Baja  Velocidad;9293;2019-01-13  12:35:40 
+ Juan  Rojas;PI3Ctris;Cortes;1466;2019-01-13  12:39:32 
+ Juan  Rojas;PI4C;Baja  Velocidad;7601;2019-01-13  13:18:12 
+ Juan  Rojas;GR1;Baja  Velocidad;7601;2019-01-13  13:18:17 
+ Juan  Rojas;TSB4Cbb;Sin  Servicio;14177;2019-01-13  13:38:57 
+ Juan  Rojas;SSi5;Sin  Servicio;6403;2019-01-13  13:51:19 
+ Juan  Rojas;FOPS156;Baja  Velocidad;8882;2019-01-13  14:11:34 
+ Juan  Rojas;TSB2Cbis;Sin  Servicio;14572;2019-01-13  14:14:53 
+ Juan  Rojas;TT2;Baja  Velocidad;9459;2019-01-13  14:26:59 
+ Juan  Rojas;RU1bis;Sin  Servicio;9039;2019-01-13  14:32:54 
+ Juan  Rojas;RB3CBis;Sin  Servicio;14438;2019-01-13  15:13:40 
+ Juan  Rojas;FOPS156;Cortes;5526;2019-01-13  15:41:46 
+ Juan  Rojas;PI3Ctris;Baja  Velocidad;12116;2019-01-13  15:42:29 
+ Juan  Rojas;TSB2;Baja  Velocidad;4222;2019-01-13  15:48:16 
+ Juan  Rojas;TT2bis;Sin  Servicio;1458;2019-01-13  16:12:45 
+ Juan  Rojas;PI3Ctris;Baja  Velocidad;5746;2019-01-13  17:20:04 
+ Juan  Rojas;FOPI172;Baja  Velocidad;5998;2019-01-13  17:32:20 
+ Juan  Rojas;TT2;Sin  Servicio;11346;2019-01-13  17:56:26 
+ Juan  Rojas;TSB3C;Sin  Servicio;9087;2019-01-13  17:58:44 
+ Juan  Rojas;LP1bis;Sin  Servicio;1468;2019-01-13  18:01:21 
+ Juan  Rojas;TT2Cbb;Sin  Servicio;4326;2019-01-13  18:12:42 
+ Juan  Rojas;P2P;Baja  Velocidad;3665;2019-01-13  18:21:56 
+ Juan  Rojas;FOHQ152;Baja  Velocidad;5717;2019-01-13  18:27:19 
+ Juan  Rojas;P2P;Baja  Velocidad;2142;2019-01-13  18:28:50 
+ Juan  Rojas;SP4AC;Baja  Velocidad;11974;2019-01-13  19:42:05 
+ Juan  Rojas;TSB3Cd;Sin  Servicio;11176;2019-01-13  19:42:28 
+ Juan  Rojas;ERROR;Baja  Velocidad;5251;2019-01-13  19:51:25 
+ Juan  Rojas;RU2bb;Baja  Velocidad;7054;2019-01-13  20:20:19 
+ Juan  Rojas;HI2C;Sin  Servicio;9283;2019-01-13  20:27:15 
+ Juan  Rojas;HE4C;Sin  Servicio;12502;2019-01-13  21:22:57 
+ Juan  Rojas;SG1ACbis;Sin  Servicio;9912;2019-01-13  21:31:26 
+ Juan  Rojas;PI2bis;Sin  Servicio;12625;2019-01-13  21:32:01 
+ Juan  Rojas;PI3Cbis;Baja  Velocidad;9279;2019-01-13  21:40:52 
+ Juan  Rojas;SSi1;Sin  Servicio;1129;2019-01-13  21:43:30 
+ Juan  Rojas;TG2;Sin  Servicio;4883;2019-01-13  21:50:43 
+ Juan  Rojas;PI1C;Sin  Servicio;1718;2019-01-13  22:04:46 
+ Juan  Rojas;FOPS156;Sin  Servicio;12361;2019-01-13  22:25:31 
+ Juan  Rojas;TSB1;Baja  Velocidad;10574;2019-01-13  22:39:45 
+ Juan  Rojas;SF5.3AC;Cortes;9626;2019-01-13  22:58:39 
+ Juan  Rojas;SC2;Sin  Servicio;12903;2019-01-14  09:42:08 
+ Juan  Rojas;ESC4;Sin  Servicio;12395;2019-01-14  09:50:34 
+ Agustin  Olmos;FOHQ152;Microcortes;11039;2019-01-14  10:06:36 
+ Juan  Rojas;FOPS156;Sin  Servicio;12374;2019-01-14  10:29:01 
+ Juan  Rojas;BF3bis;Cortes;6428;2019-01-14  10:40:25 
+ Juan  Rojas;RAM3C;Sin  Servicio;5609;2019-01-14  11:04:34 
+ Agustin  Olmos;HE2Cbb;Baja  Velocidad;9132;2019-01-14  11:13:46 
+ Juan  Rojas;AP-IGLESIA;Sin  Servicio;6949;2019-01-14  11:18:31 
+ Juan  Rojas;SP3AC;Sin  Servicio;14563;2019-01-14  11:20:53 
+ Juan  Rojas;PI3Ctris;Sin  Servicio;11185;2019-01-14  11:34:40 
+ Juan  Rojas;TSB4C;Sin  Servicio;8626;2019-01-14  11:36:32 
+ Juan  Rojas;SF2C;Sin  Servicio;11535;2019-01-14  11:58:21 
+ Juan  Rojas;LP2C;Sin  Servicio;8529;2019-01-14  12:21:56 
+ Juan  Rojas;PB3;Sin  Servicio;13554;2019-01-14  12:36:44 
+ Juan  Rojas;SP4AC;Sin  Servicio;12906;2019-01-14  13:01:28 
+ Juan  Rojas;GR2;Sin  Servicio;8191;2019-01-14  13:06:46 
+ Juan  Rojas;SP4AC;Sin  Servicio;14239;2019-01-14  13:08:40 
+ Juan  Rojas;HW1AC;Sin  Servicio;12417;2019-01-14  13:18:03 
+ Juan  Rojas;RB2C;Sin  Servicio;7384;2019-01-14  13:23:36 
+ Juan  Rojas;ESC4;Sin  Servicio;12274;2019-01-14  13:53:50 
+ Juan  Rojas;ESC4;Baja  Velocidad;12274;2019-01-14  13:53:57 
+ Juan  Rojas;HE1C;Baja  Velocidad;6468;2019-01-14  14:25:58 
+ Juan  Rojas;HI2Cbis;Sin  Servicio;14441;2019-01-14  14:45:34 
+ Juan  Rojas;PS4Cbis;Baja  Velocidad;11542;2019-01-14  14:57:16 
+ Nicolas  Vargas;HE2Cbis;Baja  Velocidad;9783;2019-01-14  15:39:20 
+ Nicolas  Vargas;LP2C;Baja  Velocidad;53;2019-01-14  15:39:33 
+ Nicolas  Vargas;PS4Ctris;Sin  Servicio;14697;2019-01-14  16:10:25 
+ Nicolas  Vargas;AC2;Baja  Velocidad;257;2019-01-14  16:11:08 
+ Nicolas  Vargas;FOPS156;Baja  Velocidad;1148;2019-01-14  16:37:46 
+ Nicolas  Vargas;SF1AC;Sin  Servicio;7418;2019-01-14  17:00:59 
+ Nicolas  Vargas;TT2C;Baja  Velocidad;13250;2019-01-14  17:03:06 
+ Nicolas  Vargas;TSB2C;Sin  Servicio;8395;2019-01-14  17:23:03 
+ Nicolas  Vargas;LP1bis;Sin  Servicio;6485;2019-01-14  17:38:31 
+ Nicolas  Vargas;FOPS156;Sin  Servicio;8271;2019-01-14  17:55:03 
+ Nicolas  Vargas;PB2bis;Sin  Servicio;9638;2019-01-14  18:25:11 
+ Nicolas  Vargas;FOHQ152;Sin  Servicio;8710;2019-01-14  19:14:20 
+ Nicolas  Vargas;HI2Cbis;Sin  Servicio;8496;2019-01-14  19:17:21 
+ Nicolas  Vargas;BF3bis;Sin  Servicio;1729;2019-01-14  19:34:33 
+ Nicolas  Vargas;GR2;Cortes;13665;2019-01-14  19:38:53 
+ Nicolas  Vargas;GR3;Baja  Velocidad;11673;2019-01-14  19:47:10 
+ Nicolas  Vargas;TSB1Cbis;Sin  Servicio;14615;2019-01-14  20:38:34 
+ Nicolas  Vargas;SSiP4;Baja  Velocidad;3768;2019-01-14  21:50:47 
+ Nicolas  Vargas;TSB1Cbis;Baja  Velocidad;9537;2019-01-14  22:54:01 
+ Nicolas  Vargas;TSB1Cbis;Baja  Velocidad;4937;2019-01-14  23:01:15 
+ Nicolas  Vargas;AA2C;Sin  Servicio;12979;2019-01-15  09:40:57 
+ Nicolas  Vargas;ERROR;Sin  Servicio;5971;2019-01-15  09:43:12 
+ Agustin  Olmos;SF5.3AC;Microcortes;11005;2019-01-15  10:03:47 
+ Agustin  Olmos;SF5.3AC;Baja  Velocidad;11005;2019-01-15  10:03:47 
+ Nicolas  Vargas;LP4AC;Sin  Servicio;1665;2019-01-15  10:20:20 
+ Nicolas  Vargas;RB1CBis;Sin  Servicio;7236;2019-01-15  11:26:57 
+ Nicolas  Vargas;SG2bb;Sin  Servicio;4595;2019-01-15  11:39:56 
+ Nicolas  Vargas;ESC3;Sin  Servicio;10892;2019-01-15  12:11:04 
+ Nicolas  Vargas;SP3AC;Sin  Servicio;9063;2019-01-15  12:57:15 
+ Nicolas  Vargas;PB2bis;Sin  Servicio;9638;2019-01-15  13:05:22 
+ Nicolas  Vargas;SP4AC;Sin  Servicio;8017;2019-01-15  13:42:16 
+ Nicolas  Vargas;SP3AC;Cortes;5845;2019-01-15  14:00:04 
+ Nicolas  Vargas;FMF3AC;Sin  Servicio;5131;2019-01-15  14:38:23 
+ Nicolas  Vargas;MluR2tris;Sin  Servicio;273;2019-01-15  14:43:02 
+ Nicolas  Vargas;TSB1Cbis;Sin  Servicio;11469;2019-01-15  14:45:42 
+ Nicolas  Vargas;PI3Cbb;Baja  Velocidad;8242;2019-01-15  14:55:34 
+ Nicolas  Vargas;SP4AC;Cortes;5391;2019-01-15  15:05:11 
+ Agustin  Olmos;PI3;Baja  Velocidad;4697;2019-01-15  15:18:17 
+ Agustin  Olmos;PI3;Microcortes;4697;2019-01-15  15:18:17 
+ Nicolas  Vargas;HE2Cbb;Baja  Velocidad;12677;2019-01-15  15:30:55 
+ Nicolas  Vargas;SP2AC;Sin  Servicio;7860;2019-01-15  15:38:36 
+ Nicolas  Vargas;dos;Baja  Velocidad;3153;2019-01-15  15:39:08 
+ Nicolas  Vargas;SP2AC;Sin  Servicio;7860;2019-01-15  15:40:26 
+ Nicolas  Vargas;SP2AC;Sin  Servicio;8964;2019-01-15  15:53:17 
+ Nicolas  Vargas;SP3AC;Sin  Servicio;13864;2019-01-15  15:57:36 
+ Nicolas  Vargas;TF3;Cortes;12594;2019-01-15  16:06:27 
+ Nicolas  Vargas;PS3;Sin  Servicio;12941;2019-01-15  16:27:13 
+ Nicolas  Vargas;ERROR;Sin  Servicio;2674;2019-01-15  16:33:11 
+ Nicolas  Vargas;PS2C;Sin  Servicio;6926;2019-01-15  16:45:01 
+ Nicolas  Vargas;HE3;Sin  Servicio;7189;2019-01-15  17:05:08 
+ Nicolas  Vargas;PB3bb;Sin  Servicio;11278;2019-01-15  17:11:10 
+ Juan  Rojas;PB3bb;Sin  Servicio;11278;2019-01-15  17:37:48 
+ Juan  Rojas;FOPI168;Baja  Velocidad;10710;2019-01-15  17:39:43 
+ Juan  Rojas;Omni-MluR;Baja  Velocidad;3182;2019-01-15  17:57:55 
+ Juan  Rojas;LP3C;Sin  Servicio;10843;2019-01-15  18:12:23 
+ Juan  Rojas;PB2bis;Sin  Servicio;13828;2019-01-15  18:15:39 
+ Juan  Rojas;Omni-MluR;Baja  Velocidad;3182;2019-01-15  18:32:56 
+ Juan  Rojas;FMF4;Baja  Velocidad;5294;2019-01-15  18:53:22 
+ Juan  Rojas;FOPS156;Cortes;8882;2019-01-15  19:06:36 
+ Juan  Rojas;PI3Cbb;Sin  Servicio;9527;2019-01-15  20:34:05 
+ Juan  Rojas;PS2C;Baja  Velocidad;12069;2019-01-15  20:35:01 
+ Juan  Rojas;SSiP3;Baja  Velocidad;3686;2019-01-15  20:39:34 
+ Juan  Rojas;FOHQ152;Cortes;11039;2019-01-15  20:41:31 
+ Juan  Rojas;SG3;Sin  Servicio;3620;2019-01-15  20:49:25 
+ Juan  Rojas;SSiP3;Baja  Velocidad;3686;2019-01-15  20:53:41 
+ Juan  Rojas;HE2Cbb;Sin  Servicio;9118;2019-01-15  21:03:06 
+ Juan  Rojas;GR2CBis;Sin  Servicio;14011;2019-01-15  21:07:12 
+ Juan  Rojas;SSiP2;Cortes;2561;2019-01-15  21:18:07 
+ Juan  Rojas;ESC2;Baja  Velocidad;10791;2019-01-15  21:24:53 
+ Juan  Rojas;FMF4;Cortes;6808;2019-01-15  21:26:32 
+ Juan  Rojas;RAM2C;Sin  Servicio;9688;2019-01-15  21:44:42 
+ Juan  Rojas;PS2C;Baja  Velocidad;12946;2019-01-15  21:46:14 
+ Juan  Rojas;TG2;Sin  Servicio;3831;2019-01-15  21:48:45 
+ Juan  Rojas;SF2bis;Baja  Velocidad;8210;2019-01-15  22:05:31 
+ Juan  Rojas;LP1Cbis;Baja  Velocidad;11537;2019-01-15  22:13:32 
+ Juan  Rojas;HW3AC;Sin  Servicio;7581;2019-01-15  22:19:13 
+ Juan  Rojas;RU2AC;Sin  Servicio;2948;2019-01-15  22:41:06 
+ Juan  Rojas;RB3C;Baja  Velocidad;2677;2019-01-15  22:57:11 
+ Juan  Rojas;FOPI168;Baja  Velocidad;5804;2019-01-15  22:59:52 
+ Juan  Rojas;PB2bis;Baja  Velocidad;10438;2019-01-15  23:01:44 
+ Juan  Rojas;PI3Cbis;Baja  Velocidad;6490;2019-01-15  23:05:59 
+ Juan  Rojas;HE3C;Sin  Servicio;3174;2019-01-15  23:17:19 
+ Juan  Rojas;pi2c;Sin  Servicio;8181;2019-01-16  09:29:26 
+ Juan  Rojas;SSiP3;Sin  Servicio;3686;2019-01-16  09:33:38 
+ Juan  Rojas;HE4C;Cortes;2270;2019-01-16  09:40:02 
+ Juan  Rojas;PI4Cbis;Sin  Servicio;11381;2019-01-16  10:00:36 
+ Juan  Rojas;GR2C;Sin  Servicio;7930;2019-01-16  10:05:45 
+ Juan  Rojas;FOPS156;Baja  Velocidad;10888;2019-01-16  10:12:09 
+ Juan  Rojas;TSB4C;Baja  Velocidad;8626;2019-01-16  10:41:57 
+ Juan  Rojas;HQ3AC;Sin  Servicio;5169;2019-01-16  11:21:34 
+ Agustin  Olmos;SF4;Baja  Velocidad;4253;2019-01-16  11:27:14 
+ Juan  Rojas;AP-IGLESIA;Sin  Servicio;3664;2019-01-16  11:27:54 
+ Juan  Rojas;ESC3;Sin  Servicio;11545;2019-01-16  11:37:07 
+ Juan  Rojas;SP3AC;Sin  Servicio;14203;2019-01-16  12:23:28 
+ Juan  Rojas;SP2AC;Baja  Velocidad;14492;2019-01-16  12:30:38 
+ Anna  Villegas;HV3C;Sin  Servicio;5879;2019-01-16  12:51:06 
+ Juan  Rojas;FOPI168;Baja  Velocidad;14036;2019-01-16  13:07:44 
+ Juan  Rojas;LP3C;Sin  Servicio;13591;2019-01-16  13:30:51 
+ Anna  Villegas;SG2tris;Sin  Servicio;14265;2019-01-16  13:38:07 
+ Anna  Villegas;SF2C;Cortes;14261;2019-01-16  13:38:41 
+ Anna  Villegas;SF2C;Baja  Velocidad;14261;2019-01-16  13:38:41 
+ Anna  Villegas;PI2Cbb;Cortes;14598;2019-01-16  13:39:03 
+ Juan  Rojas;PI4Cbb;Sin  Servicio;14272;2019-01-16  13:44:46 
+ Juan  Rojas;PI2bis;Cortes;13434;2019-01-16  13:50:50 
+ Juan  Rojas;PS2;Cortes;4858;2019-01-16  13:51:24 
+ Juan  Rojas;HE4C;Cortes;7986;2019-01-16  14:18:00 
+ Juan  Rojas;HE4C;Cortes;13831;2019-01-16  14:18:12 
+ Juan  Rojas;SG1AC-TEST;Cortes;10208;2019-01-16  14:23:33 
+ Juan  Rojas;TSB2T;Sin  Servicio;1742;2019-01-16  14:35:46 
+ Juan  Rojas;TSB3Cbb;Baja  Velocidad;9990;2019-01-16  14:36:12 
+ Juan  Rojas;SSi3;Sin  Servicio;5194;2019-01-16  14:49:58 
+ Nicolas  Vargas;PI2bis;Baja  Velocidad;9631;2019-01-16  15:56:35 
+ Nicolas  Vargas;TF3Cbis;Sin  Servicio;10356;2019-01-16  16:02:44 
+ Nicolas  Vargas;TG2;Sin  Servicio;4089;2019-01-16  16:08:57 
+ Nicolas  Vargas;RB3CBis;Sin  Servicio;7817;2019-01-16  16:17:51 
+ Nicolas  Vargas;HQ2C;Cortes;12394;2019-01-16  16:24:22 
+ Nicolas  Vargas;PI3Cbis;Baja  Velocidad;6490;2019-01-16  16:42:48 
+ Nicolas  Vargas;BC2AC;Sin  Servicio;8658;2019-01-16  16:58:44 
+ Nicolas  Vargas;GR1C;Sin  Servicio;14657;2019-01-16  17:37:36 
+ Nicolas  Vargas;SSiP3bis;Baja  Velocidad;7455;2019-01-16  17:55:31 
+ Nicolas  Vargas;TF3Cbb;Baja  Velocidad;3842;2019-01-16  18:00:41 
+ Anna  Villegas;PS3C;Baja  Velocidad;14703;2019-01-16  18:19:03 
+ Nicolas  Vargas;SF2bis;Sin  Servicio;6975;2019-01-16  18:25:18 
+ Nicolas  Vargas;TSB4Cbis;Sin  Servicio;14631;2019-01-16  18:46:38 
+ Nicolas  Vargas;FOHQ152;Baja  Velocidad;14742;2019-01-16  19:26:25 
+ Nicolas  Vargas;FOPI168;Baja  Velocidad;5804;2019-01-16  19:27:34 
+ Nicolas  Vargas;PI4Cbb;Sin  Servicio;11187;2019-01-16  19:28:56 
+ Nicolas  Vargas;HW3AC;Sin  Servicio;12454;2019-01-16  21:07:01 
+ Nicolas  Vargas;ESC2;Sin  Servicio;10877;2019-01-16  21:08:59 
+ Nicolas  Vargas;ESC2;Sin  Servicio;10877;2019-01-16  21:21:54 
+ Nicolas  Vargas;AC1;Sin  Servicio;694;2019-01-16  21:22:42 
+ Nicolas  Vargas;TT1C;Baja  Velocidad;9100;2019-01-16  21:29:17 
+ Nicolas  Vargas;LP4AC;Sin  Servicio;7739;2019-01-16  21:58:42 
+ Nicolas  Vargas;TSB1Cbis;Sin  Servicio;1378;2019-01-16  22:32:48 
+ Nicolas  Vargas;FOPS156;Baja  Velocidad;10520;2019-01-16  22:48:55 
+ Nicolas  Vargas;FOPS156;Baja  Velocidad;10520;2019-01-16  22:51:52 
+ Nicolas  Vargas;TSB1T;Sin  Servicio;12325;2019-01-17  09:45:13 
+ Nicolas  Vargas;TSB1T;Sin  Servicio;10393;2019-01-17  09:49:38 
+ Nicolas  Vargas;PS3C;Sin  Servicio;14703;2019-01-17  10:50:38 
+ Agustin  Olmos;RU1bis;Microcortes;9170;2019-01-17  11:14:03 
+ Agustin  Olmos;RU1bis;Baja  Velocidad;9170;2019-01-17  11:14:03 
+ Anna  Villegas;SF2C;Baja  Velocidad;4408;2019-01-17  12:22:19 
+ Nicolas  Vargas;BF3bis;Baja  Velocidad;1453;2019-01-17  12:59:37 
+ Nicolas  Vargas;TSB4bis;Baja  Velocidad;9186;2019-01-17  13:35:49 
+ Nicolas  Vargas;HW3AC;Sin  Servicio;12454;2019-01-17  14:01:37 
+ Nicolas  Vargas;PI1C;Cortes;1718;2019-01-17  14:17:40 
+ Nicolas  Vargas;LP2AC;Sin  Servicio;10601;2019-01-17  14:22:22 
+ Nicolas  Vargas;BF3RF;Sin  Servicio;7074;2019-01-17  14:25:04 
+ Anna  Villegas;PI3Cbb;Sin  Servicio;14689;2019-01-17  14:55:05 
+ Nicolas  Vargas;BF3.5RF;Sin  Servicio;4512;2019-01-17  15:08:53 
+ Nicolas  Vargas;PI3C;Baja  Velocidad;5746;2019-01-17  15:10:54 
+ Nicolas  Vargas;BF3bis;Baja  Velocidad;3596;2019-01-17  15:13:46 
+ Nicolas  Vargas;TSB4Cbis;Baja  Velocidad;14412;2019-01-17  16:21:51 
+ Anna  Villegas;BC1;Baja  Velocidad;7293;2019-01-17  16:30:04 
+ Nicolas  Vargas;TSB4Cbis;Cortes;14412;2019-01-17  16:34:47 
+ Nicolas  Vargas;YL2AC;Sin  Servicio;14542;2019-01-17  17:26:25 
+ Nicolas  Vargas;HE4C;Cortes;7986;2019-01-17  17:27:51 
+ Nicolas  Vargas;ESC3;Baja  Velocidad;11261;2019-01-17  17:28:30 
+ Nicolas  Vargas;TF3Cbis;Baja  Velocidad;7185;2019-01-17  17:28:40 
+ Nicolas  Vargas;BF3AC;Sin  Servicio;9424;2019-01-17  17:28:54 
+ Nicolas  Vargas;FOHQ152;Baja  Velocidad;14601;2019-01-17  17:30:08 
+ Nicolas  Vargas;SSiVG4;Sin  Servicio;2574;2019-01-17  17:30:31 
+ Nicolas  Vargas;ERROR;Sin  Servicio;11864;2019-01-17  17:31:09 
+ Juan  Rojas;TSB1C;Sin  Servicio;14545;2019-01-17  17:45:59 
+ Juan  Rojas;PI2Cbb;Baja  Velocidad;7013;2019-01-17  17:50:36 
+ Juan  Rojas;YL2AC;Sin  Servicio;14542;2019-01-17  17:52:15 
+ Juan  Rojas;RAM2C;Sin  Servicio;9688;2019-01-17  19:00:49 
+ Juan  Rojas;PI2Cbb;Sin  Servicio;11812;2019-01-17  19:02:27 
+ Juan  Rojas;PS2C;Cortes;14678;2019-01-17  19:08:42 
+ Juan  Rojas;HE4C;Baja  Velocidad;7363;2019-01-17  19:52:28 
+ Juan  Rojas;LP2C;Baja  Velocidad;13160;2019-01-17  20:44:04 
+ Juan  Rojas;FOHQ152;Sin  Servicio;6244;2019-01-17  20:58:22 
+ Juan  Rojas;HE2Cbb;Sin  Servicio;9118;2019-01-17  21:00:11 
+ Juan  Rojas;ERROR;Sin  Servicio;10288;2019-01-17  21:37:37 
+ Juan  Rojas;LP2bis;Baja  Velocidad;4887;2019-01-17  21:37:42 
+ Juan  Rojas;PI4;Sin  Servicio;1407;2019-01-17  21:51:03 
+ Juan  Rojas;TF3;Baja  Velocidad;11818;2019-01-17  21:52:16 
+ Juan  Rojas;TSB1T;Baja  Velocidad;6386;2019-01-17  22:02:19 
+ Juan  Rojas;TSB3Cbb;Sin  Servicio;13829;2019-01-17  22:04:45 
+ Juan  Rojas;PS3;Baja  Velocidad;1038;2019-01-17  22:08:56 
+ Juan  Rojas;PS2C;Sin  Servicio;14678;2019-01-17  22:39:41 
+ Juan  Rojas;TF3Cbb;Baja  Velocidad;11285;2019-01-17  22:43:05 
+ Juan  Rojas;MluR1etc;Sin  Servicio;10436;2019-01-18  09:40:12 
+ Nicolas  Vargas;TSB4bis;Sin  Servicio;9859;2019-01-18  09:42:00 
+ Nicolas  Vargas;TSB4Cbb;Sin  Servicio;13472;2019-01-18  09:55:55 
+ Nicolas  Vargas;LP3AC;Baja  Velocidad;9778;2019-01-18  10:44:58 
+ Nicolas  Vargas;AC2bis;Sin  Servicio;7176;2019-01-18  11:04:25 
+ Nicolas  Vargas;FOHQ152;Sin  Servicio;8939;2019-01-18  11:27:17 
+ Nicolas  Vargas;RB3CBis;Cortes;13930;2019-01-18  12:20:48 
+ Nicolas  Vargas;HE3C;Sin  Servicio;10352;2019-01-18  13:18:58 
+ Nicolas  Vargas;PB3T;Sin  Servicio;12955;2019-01-18  13:21:39 
+ Nicolas  Vargas;SSiP4;Sin  Servicio;2605;2019-01-18  13:21:55 
+ Nicolas  Vargas;RB3CBis;Cortes;13930;2019-01-18  13:22:21 
+ Nicolas  Vargas;FOHQ152;Sin  Servicio;8939;2019-01-18  13:22:39 
+ Nicolas  Vargas;HE4C;Sin  Servicio;8813;2019-01-18  13:45:01 
+ Nicolas  Vargas;SF4bis;Sin  Servicio;10625;2019-01-18  13:47:43 
+ Nicolas  Vargas;PB2bb;Sin  Servicio;13631;2019-01-18  14:55:36 
+ Nicolas  Vargas;TT5C;Baja  Velocidad;12645;2019-01-18  15:19:56 
+ Nicolas  Vargas;FOHQ152;Sin  Servicio;5924;2019-01-18  16:16:15 
+ Nicolas  Vargas;TF1C;Baja  Velocidad;14233;2019-01-18  16:17:56 
+ Nicolas  Vargas;MluR1bb;Sin  Servicio;7248;2019-01-18  16:18:30 
+ Juan  Rojas;ERROR;Cortes;10288;2019-01-18  17:43:03 
+ Juan  Rojas;PS3;Sin  Servicio;1196;2019-01-18  17:43:40 
+ Juan  Rojas;SP4AC;Sin  Servicio;12906;2019-01-18  18:11:23 
+ Juan  Rojas;FMF4;Sin  Servicio;4849;2019-01-18  18:26:17 
+ Juan  Rojas;sb;Sin  Servicio;1330;2019-01-18  18:26:34 
+ Juan  Rojas;RU2AC;Sin  Servicio;2948;2019-01-18  19:32:50 
+ Juan  Rojas;FOHQ160;Sin  Servicio;14667;2019-01-18  19:34:38 
+ Juan  Rojas;TSB3Cbis;Baja  Velocidad;11259;2019-01-18  19:37:37 
+ Juan  Rojas;FOPS156;Baja  Velocidad;8981;2019-01-18  20:20:18 
+ Juan  Rojas;SF4bis;Sin  Servicio;9223;2019-01-18  20:53:39 
+ Juan  Rojas;PB3;Sin  Servicio;7491;2019-01-18  20:54:03 
+ Juan  Rojas;AC4bis;Sin  Servicio;2312;2019-01-18  21:38:01 
+ Juan  Rojas;HQ2C;Cortes;484;2019-01-18  22:06:50 
+ Juan  Rojas;YL2AC;Sin  Servicio;6952;2019-01-18  22:25:58 
+ Juan  Rojas;SF5.9AC;Sin  Servicio;1709;2019-01-18  22:29:09 
+ Juan  Rojas;TSB2Cbis;Sin  Servicio;9251;2019-01-18  22:52:07 
+ Juan  Rojas;TSB4T;Baja  Velocidad;14655;2019-01-18  22:59:41 
+ Juan  Rojas;SSiP2bis;Sin  Servicio;3073;2019-01-19  14:01:48 
+ Juan  Rojas;HV3-epmp2000smart;Sin  Servicio;7531;2019-01-19  14:02:40 
+ Juan  Rojas;AC1;Sin  Servicio;694;2019-01-19  14:15:47 
+ Juan  Rojas;FOPI168;Sin  Servicio;3647;2019-01-19  14:23:16 
+ Juan  Rojas;SSiP4bis;Sin  Servicio;1026;2019-01-19  14:28:37 
+ Juan  Rojas;TT1C;Sin  Servicio;6992;2019-01-19  14:33:27 
+ Juan  Rojas;FOPI168;Sin  Servicio;14036;2019-01-19  14:37:31 
+ Juan  Rojas;GR4;Sin  Servicio;8435;2019-01-19  14:41:29 
+ Juan  Rojas;PB2T;Sin  Servicio;9555;2019-01-19  14:47:56 
+ Juan  Rojas;YL2AC;Sin  Servicio;13768;2019-01-19  14:50:30 
+ Juan  Rojas;PI4;Cortes;1407;2019-01-19  14:52:15 
+ Juan  Rojas;SSiMLu3;Sin  Servicio;143;2019-01-19  14:53:23 
+ Juan  Rojas;YL2AC;Sin  Servicio;13768;2019-01-19  14:54:45 
+ Juan  Rojas;FOHQ160;Sin  Servicio;5731;2019-01-19  14:56:59 
+ Juan  Rojas;TF2;Sin  Servicio;3248;2019-01-19  15:12:03 
+ Juan  Rojas;RAM3C;Sin  Servicio;4809;2019-01-19  15:12:29 
+ Juan  Rojas;AA1C;Baja  Velocidad;12107;2019-01-19  15:16:21 
+ Juan  Rojas;TSB2T;Sin  Servicio;14661;2019-01-19  15:20:59 
+ Juan  Rojas;FOPS156;Baja  Velocidad;9836;2019-01-19  15:23:36 
+ Juan  Rojas;PS1;Sin  Servicio;434;2019-01-19  15:29:52 
+ Juan  Rojas;A51-1AC;Sin  Servicio;6583;2019-01-19  15:37:04 
+ Juan  Rojas;FOPS156;Sin  Servicio;8269;2019-01-19  16:10:44 
+ Juan  Rojas;ERROR;Sin  Servicio;14673;2019-01-19  16:16:27 
+ Juan  Rojas;A51-1AC;Baja  Velocidad;14664;2019-01-19  16:17:47 
+ Juan  Rojas;FOHQ152;Baja  Velocidad;5917;2019-01-19  16:28:59 
+ Juan  Rojas;TF4Cbis;Sin  Servicio;10950;2019-01-19  16:37:55 
+ Juan  Rojas;FOPS156;Sin  Servicio;14157;2019-01-19  17:13:40 
+ Juan  Rojas;FOPS156;Sin  Servicio;8269;2019-01-19  17:15:42 
+ Juan  Rojas;PS3C;Sin  Servicio;8035;2019-01-19  17:37:58 
+ Juan  Rojas;RAM1AC;Sin  Servicio;5624;2019-01-19  17:40:25 
+ Juan  Rojas;FOPS156;Sin  Servicio;14157;2019-01-19  17:45:19 
+ Juan  Rojas;TT2Cbb;Sin  Servicio;10719;2019-01-19  18:02:03 
+ Juan  Rojas;SF1.5;Baja  Velocidad;5438;2019-01-19  18:09:27 
+ Juan  Rojas;FOPI168;Sin  Servicio;9645;2019-01-19  18:13:56 
+ Juan  Rojas;SSiP3;Sin  Servicio;3686;2019-01-19  18:15:04 
+ Juan  Rojas;BC1;Sin  Servicio;6477;2019-01-19  19:02:38 
+ Juan  Rojas;TT2Cbb;Sin  Servicio;11926;2019-01-19  19:23:24 
+ Juan  Rojas;PP4C;Sin  Servicio;9123;2019-01-19  19:37:09 
+ Juan  Rojas;TSB2Cbis;Baja  Velocidad;12798;2019-01-19  19:43:36 
+ Juan  Rojas;TSB2Cbis;Baja  Velocidad;13830;2019-01-19  19:55:11 
+ Juan  Rojas;HE1C;Sin  Servicio;7812;2019-01-19  20:02:03 
+ Juan  Rojas;LP2bis;Sin  Servicio;741;2019-01-19  20:04:50 
+ Juan  Rojas;HE2Cbb;Baja  Velocidad;5439;2019-01-19  20:35:57 
+ Juan  Rojas;TSB1C;Baja  Velocidad;121;2019-01-19  20:37:16 
+ Juan  Rojas;FOPS156;Sin  Servicio;13035;2019-01-19  20:51:40 
+ Juan  Rojas;TF3;Baja  Velocidad;14478;2019-01-19  21:00:42 
+ Juan  Rojas;SF5.9AC;Cortes;1709;2019-01-19  21:15:29 
+ Juan  Rojas;TF1;Cortes;3305;2019-01-19  21:16:52 
+ Juan  Rojas;centro;Sin  Servicio;1991;2019-01-19  21:33:30 
+ Juan  Rojas;FOHQ152;Sin  Servicio;8369;2019-01-19  21:52:52 
+ Juan  Rojas;HI3C;Sin  Servicio;9441;2019-01-19  21:53:12 
+ Juan  Rojas;RU2bb;Baja  Velocidad;12477;2019-01-19  22:51:11 
+ Juan  Rojas;PS2C;Sin  Servicio;6430;2019-01-19  22:53:24 
+ Nicolas  Vargas;MluR1bb;Sin  Servicio;5338;2019-01-20  09:16:06 
+ Nicolas  Vargas;MluR1tris;Sin  Servicio;6547;2019-01-20  09:16:57 
+ Nicolas  Vargas;MluR1bis;Sin  Servicio;7516;2019-01-20  09:17:43 
+ Nicolas  Vargas;MluR1tris;Sin  Servicio;3658;2019-01-20  09:18:16 
+ Nicolas  Vargas;SSi3;Baja  Velocidad;3636;2019-01-20  09:29:32 
+ Nicolas  Vargas;Omni-MluR;Baja  Velocidad;4285;2019-01-20  09:33:17 
+ Nicolas  Vargas;MluR1etc;Sin  Servicio;1504;2019-01-20  09:33:38 
+ Nicolas  Vargas;MluR2tris;Sin  Servicio;273;2019-01-20  09:37:58 
+ Nicolas  Vargas;Omni-MluR;Sin  Servicio;4934;2019-01-20  10:38:00 
+ Nicolas  Vargas;SF3C;Sin  Servicio;13936;2019-01-20  10:39:10 
+ Nicolas  Vargas;MluR1tris;Sin  Servicio;6416;2019-01-20  10:46:19 
+ Nicolas  Vargas;MluR1bb;Sin  Servicio;2688;2019-01-20  10:47:19 
+ Nicolas  Vargas;MluR1etc;Sin  Servicio;4941;2019-01-20  10:59:17 
+ Nicolas  Vargas;FOHQ160;Sin  Servicio;14688;2019-01-20  11:16:37 
+ Nicolas  Vargas;MluR1;Sin  Servicio;1751;2019-01-20  11:37:25 
+ Nicolas  Vargas;MluR2tris;Sin  Servicio;13119;2019-01-20  11:58:10 
+ Nicolas  Vargas;MluR2bis;Sin  Servicio;4576;2019-01-20  11:59:08 
+ Nicolas  Vargas;SG2;Sin  Servicio;3814;2019-01-20  12:08:57 
+ Nicolas  Vargas;MluR1;Sin  Servicio;483;2019-01-20  12:13:02 
+ Nicolas  Vargas;MluR1bis;Sin  Servicio;3136;2019-01-20  12:14:14 
+ Nicolas  Vargas;MluR1bis;Sin  Servicio;3136;2019-01-20  12:17:08 
+ Nicolas  Vargas;MluR1tris;Sin  Servicio;3950;2019-01-20  12:19:56 
+ Nicolas  Vargas;MluR2bis;Sin  Servicio;251;2019-01-20  12:21:01 
+ Nicolas  Vargas;MluR1bis;Sin  Servicio;5417;2019-01-20  12:49:29 
+ Nicolas  Vargas;MluR1etc;Sin  Servicio;661;2019-01-20  12:51:02 
+ Nicolas  Vargas;MluR1bis;Sin  Servicio;5417;2019-01-20  12:51:28 
+ Nicolas  Vargas;MluR1tris;Sin  Servicio;3238;2019-01-20  12:56:10 
+ Nicolas  Vargas;AC4;Sin  Servicio;4441;2019-01-20  13:19:16 
+ Nicolas  Vargas;RB1CBis;Sin  Servicio;7236;2019-01-20  13:20:33 
+ Nicolas  Vargas;Omni-MluR;Sin  Servicio;5618;2019-01-20  13:21:01 
+ Nicolas  Vargas;Omni-MluR;Sin  Servicio;7537;2019-01-20  13:21:28 
+ Nicolas  Vargas;MluR2tris;Sin  Servicio;6736;2019-01-20  13:28:47 
+ Nicolas  Vargas;MluR1tris;Sin  Servicio;3418;2019-01-20  13:29:23 
+ Nicolas  Vargas;TSB4C;Sin  Servicio;8626;2019-01-20  14:35:00 
+ Nicolas  Vargas;FOPS156;Baja  Velocidad;7971;2019-01-20  14:37:36 
+ Nicolas  Vargas;MluR2bis;Sin  Servicio;985;2019-01-20  16:28:55 
+ Nicolas  Vargas;A51-1AC;Sin  Servicio;7263;2019-01-20  16:34:46 
+ Nicolas  Vargas;TSB2C;Baja  Velocidad;7743;2019-01-20  16:38:14 
+ Nicolas  Vargas;FOHQ152;Sin  Servicio;14886;2019-01-20  16:57:07 
+ Nicolas  Vargas;TT5C;Sin  Servicio;7274;2019-01-20  17:18:00 
+ Nicolas  Vargas;HE3C;Sin  Servicio;10352;2019-01-20  18:18:02 
+ Nicolas  Vargas;HV3-epmp2000smart;Sin  Servicio;2697;2019-01-20  19:17:34 
+ Nicolas  Vargas;alamos;Sin  Servicio;5225;2019-01-20  19:55:23 
+ Nicolas  Vargas;alamos;Sin  Servicio;5225;2019-01-20  20:08:35 
+ Nicolas  Vargas;PB2bis;Sin  Servicio;9342;2019-01-20  20:26:04 
+ Nicolas  Vargas;SSiP3bis;Baja  Velocidad;7049;2019-01-20  20:43:11 
+ Nicolas  Vargas;HE1Cbb;Baja  Velocidad;8676;2019-01-20  21:17:28 
+ Nicolas  Vargas;TSB3Cd;Sin  Servicio;9087;2019-01-20  22:00:46 
+ Nicolas  Vargas;PS4Ctris;Baja  Velocidad;14081;2019-01-20  22:22:24 
+ Nicolas  Vargas;RU2bb;Baja  Velocidad;10944;2019-01-20  22:32:19 
+ Nicolas  Vargas;ESC3;Sin  Servicio;10920;2019-01-20  23:06:38 
+ Mauricio  Priotti;TSB3T;Sin  Servicio;2510;2019-01-21  10:17:55 
+ Mauricio  Priotti;TSB3Cbb;Sin  Servicio;1680;2019-01-21  10:26:26 
+ Mauricio  Priotti;SF0.5AC;Sin  Servicio;14330;2019-01-21  10:57:41 
+ Mauricio  Priotti;SP3AC;Baja  Velocidad;13174;2019-01-21  11:14:33 
+ Mauricio  Priotti;HW2C;Sin  Servicio;9195;2019-01-21  11:25:04 
+ Mauricio  Priotti;FOHQ152;Sin  Servicio;9840;2019-01-21  14:51:11 
+ Mauricio  Priotti;PI3bis;Sin  Servicio;1257;2019-01-21  16:57:09 
+ Nicolas  Vargas;FOPI168;Sin  Servicio;14036;2019-01-21  17:04:53 
+ Nicolas  Vargas;FOPI168;Cortes;14480;2019-01-21  17:17:00 
+ Nicolas  Vargas;FOPI168;Cortes;14036;2019-01-21  17:18:11 
+ Nicolas  Vargas;PI4Cbis;Sin  Servicio;8982;2019-01-21  17:19:37 
+ Nicolas  Vargas;FOHQ152;Cortes;7170;2019-01-21  17:29:09 
+ Nicolas  Vargas;FOPI168;Sin  Servicio;7864;2019-01-21  17:31:57 
+ Nicolas  Vargas;FOPI168;Sin  Servicio;3647;2019-01-21  17:39:26 
+ Anna  Villegas;TSB2Cbis;Cortes;14491;2019-01-21  17:57:27 
+ Anna  Villegas;LP2AC;Sin  Servicio;11371;2019-01-21  18:19:01 
+ Anna  Villegas;MluR1bb;Cortes;7248;2019-01-21  18:39:30 
+ Anna  Villegas;TSB4C;Sin  Servicio;7980;2019-01-21  18:45:30 
+ Nicolas  Vargas;RB2CBis;Sin  Servicio;14849;2019-01-21  18:45:39 
+ Nicolas  Vargas;GR2CBis;Baja  Velocidad;13104;2019-01-21  19:01:01 
+ Nicolas  Vargas;AC2;Sin  Servicio;622;2019-01-21  19:02:05 
+ Anna  Villegas;BF2AC;Sin  Servicio;12634;2019-01-21  19:06:39 
+ Nicolas  Vargas;HV4;Sin  Servicio;4618;2019-01-21  19:09:22 
+ Nicolas  Vargas;TSB2Cbis;Sin  Servicio;5348;2019-01-21  19:34:02 
+ Nicolas  Vargas;RAM3C;Sin  Servicio;6040;2019-01-21  19:37:08 
+ Nicolas  Vargas;HE2Cbis;Sin  Servicio;2777;2019-01-21  19:58:46 
+ Nicolas  Vargas;HE1C;Sin  Servicio;12157;2019-01-21  20:02:28 
+ Nicolas  Vargas;PP2C;Sin  Servicio;14110;2019-01-21  20:05:02 
+ Nicolas  Vargas;TT2;Sin  Servicio;14593;2019-01-21  20:05:17 
+ Nicolas  Vargas;AC4bis;Sin  Servicio;2312;2019-01-21  20:35:51 
+ Nicolas  Vargas;SF1AC;Baja  Velocidad;6627;2019-01-21  20:51:40 
+ Nicolas  Vargas;FOPS156;Cortes;7764;2019-01-21  21:04:26 
+ Nicolas  Vargas;RB3C;Sin  Servicio;12055;2019-01-21  21:05:00 
+ Nicolas  Vargas;PB3bb;Baja  Velocidad;12439;2019-01-21  21:06:31 
+ Nicolas  Vargas;PB2bis;Baja  Velocidad;6747;2019-01-21  21:11:17 
+ Nicolas  Vargas;Uno;Sin  Servicio;1227;2019-01-21  21:38:54 
+ Nicolas  Vargas;ERROR;Baja  Velocidad;7647;2019-01-21  22:29:02 
+ Nicolas  Vargas;RAM1AC;Baja  Velocidad;8407;2019-01-21  22:45:30 
+ Nicolas  Vargas;SF2C;Sin  Servicio;14261;2019-01-21  22:46:37 
+ Nicolas  Vargas;AC4bis;Sin  Servicio;2312;2019-01-21  22:57:22 
+ Mauricio  Priotti;PP1;Sin  Servicio;783;2019-01-22  10:25:42 
+ Mauricio  Priotti;SG2;Sin  Servicio;3814;2019-01-22  10:46:04 
+ Mauricio  Priotti;LP1AC;Sin  Servicio;11383;2019-01-22  11:19:08 
+ Mauricio  Priotti;PI4C;Sin  Servicio;8738;2019-01-22  12:01:23 
+ Mauricio  Priotti;LP3;Sin  Servicio;5507;2019-01-22  12:21:39 
+ Mauricio  Priotti;LP1AC;Sin  Servicio;11383;2019-01-22  12:28:44 
+ Mauricio  Priotti;RB1CBis;Cortes;14198;2019-01-22  12:29:34 
+ Mauricio  Priotti;HE3;Sin  Servicio;13110;2019-01-22  12:41:49 
+ Mauricio  Priotti;HE1C;Sin  Servicio;8676;2019-01-22  12:53:17 
+ Mauricio  Priotti;A51-1bis;Sin  Servicio;13333;2019-01-22  13:01:38 
+ Mauricio  Priotti;SC2;Baja  Velocidad;10763;2019-01-22  13:44:01 
+ Mauricio  Priotti;PB2bb;Sin  Servicio;10042;2019-01-22  13:50:04 
+ Mauricio  Priotti;FOPI168;Sin  Servicio;14037;2019-01-22  13:58:11 
+ Mauricio  Priotti;SSiP3;Sin  Servicio;3686;2019-01-22  14:03:11 
+ Mauricio  Priotti;MluR2tris;Sin  Servicio;273;2019-01-22  14:11:51 
+ Mauricio  Priotti;B4RF;Sin  Servicio;5418;2019-01-22  14:43:33 
+ Mauricio  Priotti;SF4bis;Sin  Servicio;11958;2019-01-22  14:58:26 
+ Nicolas  Vargas;SF2C;Baja  Velocidad;14700;2019-01-22  15:26:02 
+ Mauricio  Priotti;FOHQ160;Sin  Servicio;12929;2019-01-22  15:26:15 
+ Mauricio  Priotti;PI2Cbb;Sin  Servicio;11812;2019-01-22  15:33:32 
+ Mauricio  Priotti;PI2Cbb;Sin  Servicio;11812;2019-01-22  16:44:38 
+ Nicolas  Vargas;PS4Ctris;Baja  Velocidad;7921;2019-01-22  17:20:07 
+ Nicolas  Vargas;PI2;Sin  Servicio;12419;2019-01-22  17:37:25 
+ Nicolas  Vargas;SG1;Baja  Velocidad;3260;2019-01-22  17:44:48 
+ Nicolas  Vargas;RU3ACbis;Sin  Servicio;452;2019-01-22  17:54:52 
+ Nicolas  Vargas;SP2AC;Sin  Servicio;12280;2019-01-22  18:10:59 
+ Nicolas  Vargas;HE4C;Baja  Velocidad;7363;2019-01-22  18:20:51 
+ Nicolas  Vargas;PB2bis;Baja  Velocidad;11232;2019-01-22  19:00:58 
+ Nicolas  Vargas;BF3AC;Baja  Velocidad;9424;2019-01-22  19:01:10 
+ Nicolas  Vargas;FOHQ160;Sin  Servicio;6362;2019-01-22  19:14:57 
+ Nicolas  Vargas;HV4;Sin  Servicio;4618;2019-01-22  19:26:49 
+ Nicolas  Vargas;TF3Cbb;Baja  Velocidad;5346;2019-01-22  19:33:57 
+ Nicolas  Vargas;LP1AC;Sin  Servicio;11383;2019-01-22  19:44:43 
+ Nicolas  Vargas;TF3C;Baja  Velocidad;6864;2019-01-22  20:45:00 
+ Nicolas  Vargas;HE4C;Sin  Servicio;7986;2019-01-22  20:55:16 
+ Nicolas  Vargas;TSB1C;Sin  Servicio;11628;2019-01-22  20:55:47 
+ Nicolas  Vargas;FOPS156;Sin  Servicio;7501;2019-01-22  20:57:38 
+ Nicolas  Vargas;PS4Cbis;Baja  Velocidad;11542;2019-01-22  21:12:57 
+ Nicolas  Vargas;HE3C;Sin  Servicio;10352;2019-01-22  21:21:34 
+ Nicolas  Vargas;PB3bb;Sin  Servicio;9947;2019-01-22  21:50:30 
+ Nicolas  Vargas;FMF1;Sin  Servicio;1919;2019-01-22  22:38:30 
+ Mauricio  Priotti;PB2;Baja  Velocidad;10189;2019-01-23  11:18:33 
+ Agustin  Olmos;PI4Cbis;Baja  Velocidad;7981;2019-01-23  11:23:43 
+ Mauricio  Priotti;HE4C;Baja  Velocidad;2270;2019-01-23  11:45:54 
+ Mauricio  Priotti;RB2C;Sin  Servicio;7384;2019-01-23  11:58:37 
+ Mauricio  Priotti;FOPI168;Sin  Servicio;3647;2019-01-23  12:02:38 
+ Mauricio  Priotti;TSB2Cbis;Sin  Servicio;5348;2019-01-23  12:04:10 
+ Mauricio  Priotti;TF3Cbis;Sin  Servicio;7938;2019-01-23  12:09:08 
+ Mauricio  Priotti;HE2Cbis;Sin  Servicio;10696;2019-01-23  12:24:55 
+ Mauricio  Priotti;AC4bis;Sin  Servicio;2312;2019-01-23  12:49:24 
+ Anna  Villegas;BF1;Sin  Servicio;6860;2019-01-23  12:52:19 
+ Mauricio  Priotti;P2P;Sin  Servicio;3895;2019-01-23  12:55:46 
+ Mauricio  Priotti;FOHQ152;Cortes;13575;2019-01-23  13:14:31 
+ Mauricio  Priotti;BF4.5RF;Sin  Servicio;4652;2019-01-23  13:14:51 
+ Mauricio  Priotti;PB2T;Sin  Servicio;12347;2019-01-23  13:21:43 
+ Mauricio  Priotti;BF2;Sin  Servicio;5421;2019-01-23  14:19:48 
+ Anna  Villegas;TSB3Cbb;Cortes;14762;2019-01-23  15:32:16 
+ Nicolas  Vargas;LP3C;Sin  Servicio;12026;2019-01-23  16:25:58 
+ Nicolas  Vargas;TT1C;Sin  Servicio;8601;2019-01-23  17:02:08 
+ Nicolas  Vargas;HE1C;Sin  Servicio;14812;2019-01-23  17:05:24 
+ Nicolas  Vargas;HE2Cbb;Sin  Servicio;1677;2019-01-23  17:19:37 
+ Nicolas  Vargas;HW1C;Sin  Servicio;14162;2019-01-23  17:26:52 
+ Nicolas  Vargas;HW1C;Cortes;14162;2019-01-23  17:35:48 
+ Nicolas  Vargas;TSB4;Sin  Servicio;10605;2019-01-23  17:38:37 
+ Nicolas  Vargas;FOHQ152;Sin  Servicio;13575;2019-01-23  18:04:57 
+ Nicolas  Vargas;SF1AC;Sin  Servicio;1642;2019-01-23  18:34:22 
+ Nicolas  Vargas;TF4Cbis;Sin  Servicio;13306;2019-01-23  19:21:28 
+ Nicolas  Vargas;TF3;Baja  Velocidad;13295;2019-01-23  19:21:37 
+ Nicolas  Vargas;TSB2C;Sin  Servicio;7743;2019-01-23  19:59:50 
+ Nicolas  Vargas;BF3RF;Baja  Velocidad;6817;2019-01-23  20:43:24 
+ Nicolas  Vargas;PI4C;Baja  Velocidad;8517;2019-01-23  20:47:26 
+ Nicolas  Vargas;TSB1;Baja  Velocidad;11651;2019-01-23  21:36:39 
+ Nicolas  Vargas;ESC3;Baja  Velocidad;10569;2019-01-23  21:41:49 
+ Nicolas  Vargas;GR2CBis;Baja  Velocidad;13996;2019-01-23  21:41:55 
+ Nicolas  Vargas;ESC3;Baja  Velocidad;10790;2019-01-23  21:48:05 
+ Nicolas  Vargas;TSB2;Baja  Velocidad;9404;2019-01-23  22:46:14 
+ Nicolas  Vargas;TT1Cbb;Sin  Servicio;6364;2019-01-23  22:47:30 
+ Mauricio  Priotti;TSB4Cbis;Baja  Velocidad;5629;2019-01-24  11:12:21 
+ Mauricio  Priotti;ESC2;Baja  Velocidad;12931;2019-01-24  11:14:10 
+ Mauricio  Priotti;FOPS156;Cortes;820;2019-01-24  13:36:04 
+ Mauricio  Priotti;FOPS156;Baja  Velocidad;820;2019-01-24  13:36:04 
+ Mauricio  Priotti;SSiP2;Baja  Velocidad;2561;2019-01-24  13:36:49 
+ Mauricio  Priotti;ERROR;Cortes;2624;2019-01-24  13:45:23 
+ Mauricio  Priotti;FOPI172;Cortes;5998;2019-01-24  13:58:35 
+ Mauricio  Priotti;TSB2T;Sin  Servicio;14674;2019-01-24  13:59:37 
+ Mauricio  Priotti;TSB4Cbis;Baja  Velocidad;5629;2019-01-24  14:28:13 
+ Nicolas  Vargas;TT2;Sin  Servicio;4453;2019-01-24  15:20:53 
+ Nicolas  Vargas;B3RF;Sin  Servicio;6521;2019-01-24  15:30:25 
+ Nicolas  Vargas;HI3;Baja  Velocidad;12108;2019-01-24  16:01:06 
+ Nicolas  Vargas;FOPS156;Cortes;5526;2019-01-24  16:06:59 
+ Nicolas  Vargas;SF3;Sin  Servicio;5792;2019-01-24  16:11:10 
+ Nicolas  Vargas;RAM3AC;Sin  Servicio;10615;2019-01-24  16:23:58 
+ Nicolas  Vargas;HE2Cbis;Cortes;10696;2019-01-24  16:43:00 
+ Nicolas  Vargas;B3RF;Sin  Servicio;6551;2019-01-24  16:59:02 
+ Nicolas  Vargas;RB1C;Sin  Servicio;14291;2019-01-24  17:53:49 
+ Nicolas  Vargas;PI3bis;Baja  Velocidad;10734;2019-01-24  17:59:40 
+ Nicolas  Vargas;TT2C;Sin  Servicio;13920;2019-01-24  18:23:32 
+ Nicolas  Vargas;TF1Cbis;Cortes;807;2019-01-24  18:37:41 
+ Nicolas  Vargas;LP3C;Sin  Servicio;6450;2019-01-24  18:50:29 
+ Nicolas  Vargas;BF1;Sin  Servicio;7942;2019-01-24  19:18:20 
+ Nicolas  Vargas;FOPI168;Sin  Servicio;8628;2019-01-24  19:30:56 
+ Nicolas  Vargas;HE3Cbis;Sin  Servicio;4575;2019-01-24  19:46:39 
+ Nicolas  Vargas;SF1AC;Sin  Servicio;1642;2019-01-24  20:53:40 
+ Nicolas  Vargas;TT2;Sin  Servicio;11346;2019-01-24  20:54:45 
+ Nicolas  Vargas;FOPS156;Sin  Servicio;7780;2019-01-24  21:00:45 
+ Nicolas  Vargas;PI2Cbb;Sin  Servicio;11773;2019-01-24  21:02:35 
+ Nicolas  Vargas;GR2C;Sin  Servicio;12902;2019-01-24  21:13:46 
+ Nicolas  Vargas;FOPS156;Sin  Servicio;11414;2019-01-24  21:16:03 
+ Nicolas  Vargas;ria;Baja  Velocidad;1063;2019-01-24  21:40:27 
+ Nicolas  Vargas;HW2C;Sin  Servicio;4642;2019-01-24  21:43:33 
+ Nicolas  Vargas;PB3T;Sin  Servicio;13543;2019-01-24  21:44:44 
+ Nicolas  Vargas;HE4;Sin  Servicio;481;2019-01-24  22:23:53 
+ Nicolas  Vargas;SG2;Sin  Servicio;14120;2019-01-24  22:45:56 
+ Nicolas  Vargas;RAM3AC;Baja  Velocidad;13620;2019-01-24  22:48:40 
+ Nicolas  Vargas;FOPI168;Sin  Servicio;4090;2019-01-24  22:59:15 
+ Mauricio  Priotti;AP-Hope2;Sin  Servicio;5154;2019-01-25  10:24:40 
+ Mauricio  Priotti;SF5.9AC;Sin  Servicio;1709;2019-01-25  10:31:43 
+ Mauricio  Priotti;SP3AC;Sin  Servicio;13174;2019-01-25  10:51:53 
+ Mauricio  Priotti;PB2;Sin  Servicio;10030;2019-01-25  11:24:15 
+ Mauricio  Priotti;LP4;Sin  Servicio;6678;2019-01-25  11:52:56 
+ Mauricio  Priotti;FOPS156;Sin  Servicio;7409;2019-01-25  11:54:07 
+ Mauricio  Priotti;BF1;Cortes;7942;2019-01-25  12:04:21 
+ Mauricio  Priotti;FOPS156;Sin  Servicio;4630;2019-01-25  12:24:35 
+ Mauricio  Priotti;FOPS156;Sin  Servicio;7409;2019-01-25  12:25:31 
+ Mauricio  Priotti;TF4Cbis;Sin  Servicio;11905;2019-01-25  12:32:37 
+ Mauricio  Priotti;AC3RF;Baja  Velocidad;1627;2019-01-25  13:02:28 
+ Anna  Villegas;TT1C;Cortes;7402;2019-01-25  13:11:53 
+ Anna  Villegas;TT1C;Baja  Velocidad;7402;2019-01-25  13:11:53 
+ Anna  Villegas;TF3Cbb;Sin  Servicio;2424;2019-01-25  13:14:45 
+ Mauricio  Priotti;TF3Cbb;Sin  Servicio;5889;2019-01-25  13:15:13 
+ Mauricio  Priotti;TF3Cbb;Sin  Servicio;5598;2019-01-25  13:24:20 
+ Mauricio  Priotti;TSB4Cbb;Sin  Servicio;6281;2019-01-25  13:34:57 
+ Mauricio  Priotti;TSB4Cbb;Sin  Servicio;5790;2019-01-25  13:35:04 
+ Mauricio  Priotti;TSB2T;Baja  Velocidad;1021;2019-01-25  13:44:05 
+ Mauricio  Priotti;TSB4Cbb;Sin  Servicio;13176;2019-01-25  13:57:23 
+ Mauricio  Priotti;PS3C;Sin  Servicio;11769;2019-01-25  14:19:08 
+ Mauricio  Priotti;FOPS156;Sin  Servicio;10392;2019-01-25  14:46:01 
+ Nicolas  Vargas;TF4Cbis;Cortes;6848;2019-01-25  15:30:49 
+ Nicolas  Vargas;TF4Cbis;Baja  Velocidad;6848;2019-01-25  15:30:49 
+ Nicolas  Vargas;PB3;Baja  Velocidad;7491;2019-01-25  17:05:30 
+ Nicolas  Vargas;PB3;Baja  Velocidad;7235;2019-01-25  17:34:37 
+ Nicolas  Vargas;PI3Cbis;Baja  Velocidad;13032;2019-01-25  17:46:20 
+ Nicolas  Vargas;AP-Los  Lolos;Sin  Servicio;4376;2019-01-25  18:16:31 
+ Nicolas  Vargas;TT2Cbb;Sin  Servicio;10326;2019-01-25  18:35:31 
+ Nicolas  Vargas;RB3C;Sin  Servicio;10928;2019-01-25  18:45:47 
+ Nicolas  Vargas;A51-1bis;Sin  Servicio;4903;2019-01-25  18:51:38 
+ Nicolas  Vargas;RB2C;Baja  Velocidad;13346;2019-01-25  19:06:05 
+ Nicolas  Vargas;TSB2Cbis;Baja  Velocidad;12354;2019-01-25  19:23:25 
+ Nicolas  Vargas;SF2C;Sin  Servicio;14261;2019-01-25  19:32:53 
+ Nicolas  Vargas;TF3Cbis;Baja  Velocidad;6848;2019-01-25  19:58:05 
+ Nicolas  Vargas;PB3bb;Sin  Servicio;9947;2019-01-25  20:37:05 
+ Nicolas  Vargas;A51-1AC;Sin  Servicio;9106;2019-01-25  20:38:21 
+ Nicolas  Vargas;FOPS156;Sin  Servicio;14163;2019-01-25  20:38:25 
+ Nicolas  Vargas;SG2bis;Cortes;5295;2019-01-25  20:40:06 
+ Nicolas  Vargas;TF3Cbb;Baja  Velocidad;12917;2019-01-25  20:40:29 
+ Nicolas  Vargas;A51-1bis;Sin  Servicio;4903;2019-01-25  22:17:53 
+ Nicolas  Vargas;LP1;Sin  Servicio;3096;2019-01-25  22:48:43 
+ Nicolas  Vargas;TSB3Cbis;Sin  Servicio;10324;2019-01-25  22:55:23 
+ Nicolas  Vargas;TSB1C;Baja  Velocidad;12576;2019-01-25  22:55:30 
+ Nicolas  Vargas;TSB1C;Baja  Velocidad;6341;2019-01-26  10:45:07 
+ Mauricio  Priotti;MluR1tris;Sin  Servicio;3950;2019-01-26  11:16:49 
+ Mauricio  Priotti;MluR1tris;Sin  Servicio;433;2019-01-26  11:17:17 
+ Mauricio  Priotti;MluR1etc;Sin  Servicio;6162;2019-01-26  11:17:39 
+ Mauricio  Priotti;MluR1tris;Sin  Servicio;5554;2019-01-26  11:17:53 
+ Mauricio  Priotti;SF5.3AC;Sin  Servicio;9613;2019-01-26  11:17:56 
+ Mauricio  Priotti;MluR2tris;Sin  Servicio;273;2019-01-26  11:18:58 
+ Mauricio  Priotti;MluR2tris;Sin  Servicio;8912;2019-01-26  11:19:21 
+ Mauricio  Priotti;MluR1etc;Sin  Servicio;4941;2019-01-26  11:19:56 
+ Mauricio  Priotti;Omni-MluR;Sin  Servicio;4934;2019-01-26  11:20:49 
+ Mauricio  Priotti;MluR1;Sin  Servicio;3932;2019-01-26  11:21:46 
+ Mauricio  Priotti;MluR1etc;Sin  Servicio;661;2019-01-26  11:23:27 
+ Mauricio  Priotti;MluR1bb;Sin  Servicio;6080;2019-01-26  11:23:41 
+ Mauricio  Priotti;MluR1bb;Sin  Servicio;6080;2019-01-26  11:24:25 
+ Mauricio  Priotti;MluR2tris;Sin  Servicio;971;2019-01-26  11:24:56 
+ Mauricio  Priotti;MluR1tris;Sin  Servicio;327;2019-01-26  11:25:14 
+ Mauricio  Priotti;MluR1tris;Sin  Servicio;3950;2019-01-26  11:25:32 
+ Mauricio  Priotti;MluR1bis;Sin  Servicio;1855;2019-01-26  11:25:54 
+ Mauricio  Priotti;MluR1bb;Sin  Servicio;2467;2019-01-26  11:26:31 
+ Mauricio  Priotti;MluR1tris;Sin  Servicio;14490;2019-01-26  11:26:33 
+ Mauricio  Priotti;MluR2tris;Sin  Servicio;273;2019-01-26  11:26:59 
+ Mauricio  Priotti;MluR1etc;Sin  Servicio;1504;2019-01-26  11:27:50 
+ Mauricio  Priotti;MluR2bis;Sin  Servicio;7242;2019-01-26  11:28:12 
+ Mauricio  Priotti;MluR2bis;Sin  Servicio;7435;2019-01-26  11:29:36 
+ Mauricio  Priotti;MluR1tris;Sin  Servicio;6416;2019-01-26  11:30:18 
+ Mauricio  Priotti;MluR1;Sin  Servicio;272;2019-01-26  11:32:18 
+ Mauricio  Priotti;MluR1bb;Sin  Servicio;300;2019-01-26  11:32:58 
+ Mauricio  Priotti;MluR1bb;Sin  Servicio;2688;2019-01-26  11:35:14 
+ Mauricio  Priotti;MluR1;Sin  Servicio;5522;2019-01-26  11:36:09 
+ Mauricio  Priotti;MluR1;Sin  Servicio;272;2019-01-26  11:37:23 
+ Mauricio  Priotti;MluR1tris;Sin  Servicio;3238;2019-01-26  11:41:04 
+ Mauricio  Priotti;Omni-MluR;Sin  Servicio;5618;2019-01-26  11:42:05 
+ Mauricio  Priotti;MluR1;Sin  Servicio;5485;2019-01-26  11:42:38 
+ Mauricio  Priotti;MluR1tris;Sin  Servicio;245;2019-01-26  11:43:47 
+ Mauricio  Priotti;Omni-MluR;Sin  Servicio;2675;2019-01-26  11:45:20 
+ Mauricio  Priotti;MluR1bb;Sin  Servicio;5338;2019-01-26  11:45:54 
+ Mauricio  Priotti;MluR1;Sin  Servicio;1180;2019-01-26  11:46:56 
+ Mauricio  Priotti;TT2Cbb;Sin  Servicio;10326;2019-01-26  11:48:00 
+ Mauricio  Priotti;Omni-MluR;Sin  Servicio;1379;2019-01-26  11:48:39 
+ Mauricio  Priotti;MluR1bb;Sin  Servicio;2467;2019-01-26  11:48:54 
+ Mauricio  Priotti;TF1C;Sin  Servicio;12248;2019-01-26  11:49:24 
+ Mauricio  Priotti;MluR1bb;Sin  Servicio;5338;2019-01-26  11:53:51 
+ Mauricio  Priotti;MluR1;Sin  Servicio;3330;2019-01-26  11:58:05 
+ Mauricio  Priotti;MluR1bis;Sin  Servicio;5477;2019-01-26  11:59:39 
+ Mauricio  Priotti;MluR1etc;Sin  Servicio;437;2019-01-26  11:59:51 
+ Mauricio  Priotti;MluR1bis;Sin  Servicio;5417;2019-01-26  12:05:33 
+ Mauricio  Priotti;MluR2bis;Sin  Servicio;4576;2019-01-26  12:26:17 
+ Mauricio  Priotti;MluR2bis;Sin  Servicio;4656;2019-01-26  12:26:24 
+ Mauricio  Priotti;Omni-MluR;Sin  Servicio;1763;2019-01-26  12:28:51 
+ Mauricio  Priotti;MluR2tris;Sin  Servicio;2492;2019-01-26  12:34:23 
+ Mauricio  Priotti;SC2;Sin  Servicio;10769;2019-01-26  12:38:58 
+ Mauricio  Priotti;TSB1C;Baja  Velocidad;12576;2019-01-26  12:38:59 
+ Mauricio  Priotti;MluR2bis;Sin  Servicio;4335;2019-01-26  12:41:58 
+ Mauricio  Priotti;MluR1etc;Sin  Servicio;8885;2019-01-26  12:47:24 
+ Mauricio  Priotti;MluR2tris;Sin  Servicio;7648;2019-01-26  12:48:27 
+ Mauricio  Priotti;MluR1tris;Sin  Servicio;8608;2019-01-26  12:48:36 
+ Mauricio  Priotti;TT5C;Sin  Servicio;7274;2019-01-26  14:14:05 
+ Mauricio  Priotti;ESC3;Sin  Servicio;10723;2019-01-26  14:14:13 
+ Mauricio  Priotti;AC3RF;Sin  Servicio;2496;2019-01-26  14:14:20 
+ Mauricio  Priotti;LP1AC;Baja  Velocidad;11558;2019-01-26  14:36:27 
+ Mauricio  Priotti;TF3;Baja  Velocidad;13295;2019-01-26  14:50:55 
+ Mauricio  Priotti;SF2;Sin  Servicio;4775;2019-01-26  15:05:25 
+ Mauricio  Priotti;HE3Cbis;Sin  Servicio;4575;2019-01-26  15:20:33 
+ Mauricio  Priotti;TF1C;Sin  Servicio;12248;2019-01-26  16:07:58 
+ Mauricio  Priotti;PB2bis;Sin  Servicio;6747;2019-01-26  16:30:11 
+ Mauricio  Priotti;LP4Cbis;Sin  Servicio;11768;2019-01-26  16:42:29 
+ Mauricio  Priotti;TSB1Cbis;Sin  Servicio;13496;2019-01-26  17:25:04 
+ Mauricio  Priotti;A51-1AC;Sin  Servicio;7751;2019-01-26  17:46:36 
+ Mauricio  Priotti;pi2c;Baja  Velocidad;5224;2019-01-26  18:08:59 
+ Mauricio  Priotti;PB1T;Baja  Velocidad;12882;2019-01-26  19:09:42 
+ Mauricio  Priotti;ERROR;Sin  Servicio;7497;2019-01-26  19:13:58 
+ Mauricio  Priotti;MluR2;Sin  Servicio;5060;2019-01-26  20:04:33 
+ Mauricio  Priotti;PB3;Cortes;7235;2019-01-26  20:44:06 
+ Mauricio  Priotti;PB3;Baja  Velocidad;7235;2019-01-26  20:44:06 
+ Mauricio  Priotti;HI3C;Sin  Servicio;7994;2019-01-26  21:00:14 
+ Mauricio  Priotti;BF3.5RF;Sin  Servicio;4512;2019-01-26  21:03:48 
+ Mauricio  Priotti;PI4Cbb;Baja  Velocidad;177;2019-01-26  21:11:37 
+ Mauricio  Priotti;PS1;Sin  Servicio;13002;2019-01-26  22:10:07 
+ Mauricio  Priotti;TSB2Cbis;Sin  Servicio;11328;2019-01-26  23:03:48 
+ Mauricio  Priotti;SSiVG3;Sin  Servicio;1900;2019-01-26  23:16:24 
+ Mauricio  Priotti;TF3Cbb;Baja  Velocidad;5590;2019-01-26  23:23:35 
+ Nicolas  Vargas;YL1;Sin  Servicio;6486;2019-01-27  10:19:14 
+ Nicolas  Vargas;PB3;Baja  Velocidad;10258;2019-01-27  12:31:59 
+ Nicolas  Vargas;TSB4Cbis;Baja  Velocidad;5591;2019-01-27  14:17:56 
+ Nicolas  Vargas;ria;Sin  Servicio;1913;2019-01-27  15:19:51 
+ Nicolas  Vargas;TF2Cbis;Baja  Velocidad;13845;2019-01-27  16:59:35 
+ Nicolas  Vargas;TG2;Baja  Velocidad;3735;2019-01-27  17:03:29 
+ Nicolas  Vargas;ERROR;Sin  Servicio;14834;2019-01-27  17:56:33 
+ Nicolas  Vargas;BC1;Sin  Servicio;7293;2019-01-27  18:54:35 
+ Nicolas  Vargas;PB3bb;Baja  Velocidad;12439;2019-01-27  19:18:40 
+ Nicolas  Vargas;LP4C;Baja  Velocidad;12599;2019-01-27  19:31:11 
+ Nicolas  Vargas;SF1;Cortes;3104;2019-01-27  19:39:14 
+ Nicolas  Vargas;TT1bis;Sin  Servicio;13855;2019-01-27  19:46:04 
+ Nicolas  Vargas;RB3C;Sin  Servicio;12864;2019-01-27  20:34:39 
+ Nicolas  Vargas;PS3C;Baja  Velocidad;8035;2019-01-27  20:42:32 
+ Nicolas  Vargas;HE1;Sin  Servicio;14659;2019-01-27  21:44:43 
+ Nicolas  Vargas;HE1;Baja  Velocidad;4770;2019-01-27  22:57:25 
+ Agustin  Olmos;Omni-MluR;Sin  Servicio;8044;2019-01-28  09:49:03 
+ Mauricio  Priotti;ria;Cortes;1913;2019-01-28  09:56:56 
+ Mauricio  Priotti;ria;Baja  Velocidad;1913;2019-01-28  09:56:56 
+ Agustin  Olmos;GR3;Sin  Servicio;14788;2019-01-28  10:51:27 
+ Agustin  Olmos;HE3C;Microcortes;3027;2019-01-28  11:17:05 
+ Agustin  Olmos;HE3C;Baja  Velocidad;3027;2019-01-28  11:18:22 
+ Agustin  Olmos;P2P;Sin  Servicio;2711;2019-01-28  11:21:01 
+ Mauricio  Priotti;TF3;Sin  Servicio;9528;2019-01-28  11:37:22 
+ Mauricio  Priotti;LP1Cbis;Sin  Servicio;13536;2019-01-28  12:12:48 
+ Mauricio  Priotti;RAM3C;Sin  Servicio;4809;2019-01-28  13:50:54 
+ Nicolas  Vargas;RB2C;Sin  Servicio;14526;2019-01-28  15:14:16 
+ Nicolas  Vargas;PB3bis;Baja  Velocidad;10219;2019-01-28  15:26:55 
+ Nicolas  Vargas;GR3;Sin  Servicio;14788;2019-01-28  15:43:12 
+ Nicolas  Vargas;SF3C;Baja  Velocidad;14753;2019-01-28  16:26:58 
+ Nicolas  Vargas;PI3C;Sin  Servicio;8977;2019-01-28  16:34:41 
+ Nicolas  Vargas;RAM3C;Baja  Velocidad;4891;2019-01-28  16:47:30 
+ Nicolas  Vargas;SSi5;Sin  Servicio;5960;2019-01-28  17:02:25 
+ Nicolas  Vargas;TF2C;Sin  Servicio;12682;2019-01-28  17:09:19 
+ Mauricio  Priotti;FOPI168;Sin  Servicio;8764;2019-01-28  17:11:59 
+ Mauricio  Priotti;TSB4Cbb;Sin  Servicio;13256;2019-01-28  17:16:26 
+ Anna  Villegas;SF1.5;Sin  Servicio;4628;2019-01-28  17:21:35 
+ Nicolas  Vargas;GR2CBis;Baja  Velocidad;7576;2019-01-28  17:25:55 
+ Nicolas  Vargas;FOPI168;Sin  Servicio;8764;2019-01-28  17:26:42 
+ Nicolas  Vargas;ESC3;Sin  Servicio;10753;2019-01-28  17:33:15 
+ Nicolas  Vargas;FMF4;Sin  Servicio;3928;2019-01-28  17:48:00 
+ Nicolas  Vargas;PB3;Baja  Velocidad;9335;2019-01-28  18:24:26 
+ Nicolas  Vargas;SSiP2bis;Baja  Velocidad;3103;2019-01-28  18:24:33 
+ Nicolas  Vargas;HI4C;Sin  Servicio;2262;2019-01-28  18:28:52 
+ Anna  Villegas;LP1AC;Sin  Servicio;10863;2019-01-28  18:44:27 
+ Anna  Villegas;PB2bis;Sin  Servicio;12852;2019-01-28  18:58:59 
+ Nicolas  Vargas;PB2bis;Sin  Servicio;12852;2019-01-28  18:59:10 
+ Nicolas  Vargas;TSB4C;Baja  Velocidad;2355;2019-01-28  19:13:22 
+ Nicolas  Vargas;SSiP4;Sin  Servicio;7006;2019-01-28  19:40:24 
+ Nicolas  Vargas;PB3;Sin  Servicio;7412;2019-01-28  19:44:26 
+ Nicolas  Vargas;SF1.5;Cortes;5438;2019-01-28  19:52:57 
+ Nicolas  Vargas;BF4;Sin  Servicio;3475;2019-01-28  19:53:50 
+ Nicolas  Vargas;AA1;Sin  Servicio;13570;2019-01-28  19:55:04 
+ Nicolas  Vargas;TSB2T;Baja  Velocidad;11941;2019-01-28  20:05:14 
+ Nicolas  Vargas;TSB2T;Baja  Velocidad;11941;2019-01-28  20:25:20 
+ Nicolas  Vargas;PS3C;Sin  Servicio;14625;2019-01-28  20:28:43 
+ Nicolas  Vargas;AA2;Sin  Servicio;8011;2019-01-28  20:51:29 
+ Nicolas  Vargas;AA2;Sin  Servicio;8011;2019-01-28  20:51:44 
+ Nicolas  Vargas;FOPS156;Sin  Servicio;13035;2019-01-28  20:52:47 
+ Nicolas  Vargas;MluR1;Baja  Velocidad;3932;2019-01-28  21:07:41 
+ Nicolas  Vargas;TSB3Cbis;Sin  Servicio;10324;2019-01-28  21:24:36 
+ Nicolas  Vargas;ESC3;Sin  Servicio;10569;2019-01-28  22:00:12 
+ Nicolas  Vargas;PI1C;Baja  Velocidad;9484;2019-01-28  22:01:39 
+ Nicolas  Vargas;HE4;Sin  Servicio;481;2019-01-28  22:26:21 
+ Nicolas  Vargas;SG1bis;Baja  Velocidad;275;2019-01-28  22:26:57 
+ Nicolas  Vargas;RAM3C;Sin  Servicio;13859;2019-01-28  22:42:01 
+ Nicolas  Vargas;TSB1C;Baja  Velocidad;12259;2019-01-28  22:45:53 
+ Nicolas  Vargas;TF3bis;Baja  Velocidad;12700;2019-01-28  22:47:15 
+ Nicolas  Vargas;PS4;Sin  Servicio;2672;2019-01-28  22:48:19 
+ Agustin  Olmos;SF1bb;Sin  Servicio;4571;2019-01-29  10:15:00 
+ Mauricio  Priotti;HQ3AC;Sin  Servicio;14223;2019-01-29  11:00:02 
+ Mauricio  Priotti;ESC2;Baja  Velocidad;12931;2019-01-29  11:00:35 
+ Mauricio  Priotti;SF5.3AC;Baja  Velocidad;8798;2019-01-29  11:00:59 
+ Mauricio  Priotti;GR1C;Baja  Velocidad;6144;2019-01-29  11:01:28 
+ Mauricio  Priotti;TF3Cbis;Cortes;4741;2019-01-29  11:27:48 
+ Mauricio  Priotti;PI4C;Baja  Velocidad;3586;2019-01-29  11:47:42 
+ Mauricio  Priotti;FOPS156;Sin  Servicio;8091;2019-01-29  11:50:21 
+ Mauricio  Priotti;MluR2;Sin  Servicio;3161;2019-01-29  11:50:36 
+ Mauricio  Priotti;GR2C;Baja  Velocidad;13800;2019-01-29  12:12:03 
+ Mauricio  Priotti;PI4C;Baja  Velocidad;3586;2019-01-29  12:41:05 
+ Mauricio  Priotti;FOPS156;Sin  Servicio;10248;2019-01-29  13:24:06 
+ Mauricio  Priotti;TF3Cbis;Sin  Servicio;12826;2019-01-29  13:30:18 
+ Mauricio  Priotti;A51-3;Sin  Servicio;4756;2019-01-29  13:41:53 
+ Mauricio  Priotti;TF2Cbis;Cortes;13845;2019-01-29  13:47:41 
+ Mauricio  Priotti;PB2bis;Sin  Servicio;6747;2019-01-29  13:50:02 
+ Nicolas  Vargas;TSB3Cbis;Baja  Velocidad;2620;2019-01-29  15:27:18 
+ Nicolas  Vargas;PI3Ctris;Baja  Velocidad;12399;2019-01-29  15:28:11 
+ Nicolas  Vargas;PB3;Baja  Velocidad;10258;2019-01-29  15:31:36 
+ Nicolas  Vargas;PB3;Sin  Servicio;12757;2019-01-29  15:32:24 
+ Nicolas  Vargas;A51-3;Sin  Servicio;4756;2019-01-29  15:36:17 
+ Nicolas  Vargas;PB2bis;Baja  Velocidad;6747;2019-01-29  15:59:04 
+ Nicolas  Vargas;TF1C;Cortes;3423;2019-01-29  16:26:25 
+ Nicolas  Vargas;PI3C;Cortes;2431;2019-01-29  16:29:59 
+ Agustin  Olmos;TSB4Cbis;Baja  Velocidad;13916;2019-01-29  16:55:04 
+ Agustin  Olmos;TSB4Cbis;Microcortes;13916;2019-01-29  16:55:04 
+ Agustin  Olmos;TSB4Cbb;Microcortes;13256;2019-01-29  17:06:20 
+ Agustin  Olmos;TSB4Cbb;Baja  Velocidad;13256;2019-01-29  17:06:20 
+ Agustin  Olmos;SSi4;Sin  Servicio;1920;2019-01-29  17:35:25 
+ Agustin  Olmos;TSB1Cbis;Sin  Servicio;14644;2019-01-29  17:35:57 
+ Agustin  Olmos;TSB1Cbis;Sin  Servicio;14644;2019-01-29  17:36:10 
+ Agustin  Olmos;PS4C;Cortes;2822;2019-01-29  17:37:51 
+ Agustin  Olmos;TSB3Cbis;Baja  Velocidad;1982;2019-01-29  17:56:03 
+ Nicolas  Vargas;TSB3Cbis;Baja  Velocidad;1982;2019-01-29  17:56:17 
+ Nicolas  Vargas;SSiP3bis;Sin  Servicio;6339;2019-01-29  18:04:08 
+ Nicolas  Vargas;HI2C;Sin  Servicio;12273;2019-01-29  18:08:39 
+ Nicolas  Vargas;FOPS156;Cortes;14876;2019-01-29  18:14:50 
+ Nicolas  Vargas;FOPS156;Baja  Velocidad;14876;2019-01-29  18:14:50 
+ Nicolas  Vargas;GR2C;Baja  Velocidad;11311;2019-01-29  18:21:05 
+ Nicolas  Vargas;SSiMLu1;Baja  Velocidad;1668;2019-01-29  18:24:27 
+ Nicolas  Vargas;TSB1;Sin  Servicio;10678;2019-01-29  19:43:00 
+ Nicolas  Vargas;ERROR;Sin  Servicio;24;2019-01-29  19:43:55 
+ Nicolas  Vargas;TSB2C;Baja  Velocidad;7743;2019-01-29  19:48:07 
+ Nicolas  Vargas;RAM3C;Sin  Servicio;13859;2019-01-29  19:55:28 
+ Nicolas  Vargas;TSB4C;Sin  Servicio;1609;2019-01-29  20:40:00 
+ Nicolas  Vargas;SG2;Baja  Velocidad;7308;2019-01-29  20:41:10 
+ Nicolas  Vargas;GR2C;Baja  Velocidad;13187;2019-01-29  20:54:54 
+ Nicolas  Vargas;GR2C;Baja  Velocidad;511;2019-01-29  20:54:58 
+ Nicolas  Vargas;GR2C;Baja  Velocidad;14801;2019-01-29  21:13:06 
+ Nicolas  Vargas;PI3Cbb;Baja  Velocidad;10423;2019-01-29  21:22:49 
+ Nicolas  Vargas;PB1;Sin  Servicio;10261;2019-01-29  21:23:37 
+ Nicolas  Vargas;TSB3Cd;Baja  Velocidad;9990;2019-01-29  21:24:36 
+ Nicolas  Vargas;PI3bis;Sin  Servicio;10811;2019-01-29  21:25:10 
+ Nicolas  Vargas;AC3RF;Sin  Servicio;2477;2019-01-29  21:27:44 
+ Nicolas  Vargas;TF3Cbis;Baja  Velocidad;12917;2019-01-29  21:33:28 
+ Nicolas  Vargas;HE4C;Baja  Velocidad;2270;2019-01-29  21:51:18 
+ Nicolas  Vargas;HE4C;Baja  Velocidad;2270;2019-01-29  21:58:15 
+ Nicolas  Vargas;BF2AC;Baja  Velocidad;5392;2019-01-29  22:01:26 
+ Nicolas  Vargas;ERROR;Baja  Velocidad;7416;2019-01-29  22:05:50 
+ Nicolas  Vargas;PI3Cbb;Baja  Velocidad;4099;2019-01-29  22:06:02 
+ Nicolas  Vargas;HQ1;Sin  Servicio;799;2019-01-29  22:08:02 
+ Nicolas  Vargas;TT2;Baja  Velocidad;9459;2019-01-29  22:12:06 
+ Nicolas  Vargas;SG1bis;Sin  Servicio;1626;2019-01-29  22:17:18 
+ Nicolas  Vargas;FOPS156;Sin  Servicio;4076;2019-01-29  22:19:50 
+ Nicolas  Vargas;PB2bis;Sin  Servicio;12852;2019-01-29  22:25:41 
+ Nicolas  Vargas;HE2Cbis;Baja  Velocidad;6657;2019-01-29  22:29:17 
+ Nicolas  Vargas;TSB2Cbis;Baja  Velocidad;5363;2019-01-29  22:38:09 
+ Nicolas  Vargas;TT1Cbis;Baja  Velocidad;9512;2019-01-29  22:39:58 
+ Nicolas  Vargas;PB2bis;Baja  Velocidad;6747;2019-01-29  22:44:53 
+ Nicolas  Vargas;AA1;Sin  Servicio;1313;2019-01-29  22:50:11 
+ Nicolas  Vargas;AA2C;Sin  Servicio;11027;2019-01-30  09:34:05 
+ Nicolas  Vargas;PB1bis;Sin  Servicio;10976;2019-01-30  09:37:46 
+ Mauricio  Priotti;AC3RF;Sin  Servicio;2477;2019-01-30  09:49:50 
+ Mauricio  Priotti;SG1bis;Sin  Servicio;1626;2019-01-30  09:50:39 
+ Mauricio  Priotti;PB1;Cortes;9331;2019-01-30  10:08:09 
+ Mauricio  Priotti;TF1C;Baja  Velocidad;14233;2019-01-30  10:10:33 
+ Mauricio  Priotti;TSB1C;Baja  Velocidad;12259;2019-01-30  10:20:35 
+ Mauricio  Priotti;BF3AC;Sin  Servicio;9070;2019-01-30  11:04:19 
+ Mauricio  Priotti;TSB4C;Baja  Velocidad;3751;2019-01-30  11:06:33 
+ Mauricio  Priotti;RU1bis;Sin  Servicio;14332;2019-01-30  11:13:14 
+ Mauricio  Priotti;TSB1C;Sin  Servicio;8657;2019-01-30  11:25:16 
+ Mauricio  Priotti;PS3C;Cortes;14008;2019-01-30  11:33:09 
+ Mauricio  Priotti;HE3C;Baja  Velocidad;1677;2019-01-30  11:52:05 
+ Mauricio  Priotti;A51-2;Sin  Servicio;2287;2019-01-30  12:09:17 
+ Anna  Villegas;TSB2C;Baja  Velocidad;7361;2019-01-30  12:22:49 
+ Mauricio  Priotti;MluR2;Sin  Servicio;3161;2019-01-30  13:02:03 
+ Mauricio  Priotti;LP4C;Sin  Servicio;12599;2019-01-30  14:00:59 
+ Mauricio  Priotti;TF2C;Sin  Servicio;8054;2019-01-30  14:49:48 
+ Mauricio  Priotti;TSB1Cbis;Baja  Velocidad;6341;2019-01-30  14:50:12 
+ Mauricio  Priotti;TSB4Cbb;Sin  Servicio;9990;2019-01-30  14:50:46 
+ Mauricio  Priotti;TT2;Sin  Servicio;14593;2019-01-30  14:50:57 
+ Mauricio  Priotti;FOPS156;Sin  Servicio;8091;2019-01-30  14:51:07 
+ Mauricio  Priotti;TSB4C;Sin  Servicio;5048;2019-01-30  15:16:22 
+ Nicolas  Vargas;SSiMLu1;Sin  Servicio;2185;2019-01-30  15:16:35 
+ Nicolas  Vargas;FOPS156;Sin  Servicio;4076;2019-01-30  15:21:19 
+ Nicolas  Vargas;SSiP3bis;Baja  Velocidad;7455;2019-01-30  15:33:52 
+ Nicolas  Vargas;FOPS156;Baja  Velocidad;847;2019-01-30  15:33:54 
+ Nicolas  Vargas;GR2CBis;Baja  Velocidad;13187;2019-01-30  15:54:09 
+ Nicolas  Vargas;A51-1AC;Sin  Servicio;11138;2019-01-30  15:55:50 
+ Nicolas  Vargas;BF4AC;Sin  Servicio;2050;2019-01-30  15:58:55 
+ Nicolas  Vargas;RAM3AC;Cortes;13620;2019-01-30  16:04:17 
+ Anna  Villegas;FOPS156;Baja  Velocidad;8549;2019-01-30  17:23:35 
+ Anna  Villegas;TF3Cbb;Baja  Velocidad;14522;2019-01-30  17:34:31 
+ Nicolas  Vargas;RAM3AC;Cortes;13620;2019-01-30  17:49:20 
+ Nicolas  Vargas;LP1;Baja  Velocidad;1136;2019-01-30  17:52:51 
+ Nicolas  Vargas;SSiMLu3;Cortes;3041;2019-01-30  17:56:24 
+ Nicolas  Vargas;SSiP3bis;Baja  Velocidad;5054;2019-01-30  18:09:56 
+ Nicolas  Vargas;SSiP4;Baja  Velocidad;2605;2019-01-30  18:21:32 
+ Nicolas  Vargas;HE2Cbis;Baja  Velocidad;2777;2019-01-30  18:44:21 
+ Nicolas  Vargas;BF3bis;Baja  Velocidad;4486;2019-01-30  18:48:04 
+ Nicolas  Vargas;PI4C;Sin  Servicio;8595;2019-01-30  19:07:42 
+ Anna  Villegas;LP2bis;Microcortes;1832;2019-01-30  19:09:49 
+ Anna  Villegas;LP2bis;Baja  Velocidad;1832;2019-01-30  19:09:49 
+ Nicolas  Vargas;TT3C;Sin  Servicio;10025;2019-01-30  19:19:11 
+ Nicolas  Vargas;TF2;Sin  Servicio;12765;2019-01-30  19:27:46 
+ Nicolas  Vargas;PB2bis;Baja  Velocidad;6747;2019-01-30  19:30:41 
+ Nicolas  Vargas;RAM3C;Cortes;1735;2019-01-30  19:57:45 
+ Nicolas  Vargas;BF3RF;Sin  Servicio;6817;2019-01-30  20:03:51 
+ Nicolas  Vargas;SSiP3bis;Baja  Velocidad;4801;2019-01-30  20:27:12 
+ Nicolas  Vargas;HE2Cbb;Baja  Velocidad;6515;2019-01-30  20:28:10 
+ Nicolas  Vargas;BF4;Cortes;3475;2019-01-30  20:28:46 
+ Nicolas  Vargas;PI3C;Baja  Velocidad;613;2019-01-30  20:32:18 
+ Nicolas  Vargas;PS3;Baja  Velocidad;11523;2019-01-30  20:35:57 
+ Nicolas  Vargas;TSB1;Sin  Servicio;11450;2019-01-30  20:36:43 
+ Nicolas  Vargas;TSB4T;Baja  Velocidad;3252;2019-01-30  20:38:51 
+ Nicolas  Vargas;PB2bis;Baja  Velocidad;9982;2019-01-30  20:41:17 
+ Nicolas  Vargas;PS4Cbis;Baja  Velocidad;14127;2019-01-30  20:46:15 
+ Nicolas  Vargas;FOPS156;Baja  Velocidad;9357;2019-01-30  20:51:44 
+ Nicolas  Vargas;FOPS156;Baja  Velocidad;4076;2019-01-30  20:51:50 
+ Nicolas  Vargas;PI3C;Baja  Velocidad;2431;2019-01-30  21:16:31 
+ Nicolas  Vargas;TT4C;Sin  Servicio;12598;2019-01-30  21:40:56 
+ Nicolas  Vargas;TT4C;Baja  Velocidad;13416;2019-01-30  21:44:42 
+ Nicolas  Vargas;HE2Cbb;Sin  Servicio;8178;2019-01-30  21:50:38 
+ Nicolas  Vargas;HE4;Cortes;9756;2019-01-30  21:53:16 
+ Nicolas  Vargas;PB2bis;Baja  Velocidad;10007;2019-01-30  22:27:19 
+ Nicolas  Vargas;FOHQ152;Baja  Velocidad;12746;2019-01-30  22:30:24 
+ Nicolas  Vargas;PB2bis;Sin  Servicio;12852;2019-01-30  22:35:01 
+ Nicolas  Vargas;TSB4C;Baja  Velocidad;6511;2019-01-30  22:42:53 
+ Nicolas  Vargas;SC2;Sin  Servicio;10809;2019-01-30  22:48:30 
+ Nicolas  Vargas;LP1AC;Sin  Servicio;10978;2019-01-30  22:49:28 
+ Nicolas  Vargas;BF3RF;Sin  Servicio;7074;2019-01-30  22:55:27 
+ Mauricio  Priotti;TT1Cbb;Baja  Velocidad;10873;2019-01-31  09:48:56 
+ Mauricio  Priotti;AP-IGLESIA;Baja  Velocidad;1968;2019-01-31  10:23:27 
+ Mauricio  Priotti;PI4C;Sin  Servicio;4377;2019-01-31  11:00:24 
+ Mauricio  Priotti;PB2;Sin  Servicio;12876;2019-01-31  11:27:01 
+ Mauricio  Priotti;SSiP4;Baja  Velocidad;6478;2019-01-31  11:32:29 
+ Mauricio  Priotti;HI3C;Sin  Servicio;9042;2019-01-31  12:16:50 
+ Mauricio  Priotti;FOHQ152;Baja  Velocidad;9414;2019-01-31  12:48:02 
+ Mauricio  Priotti;HQ3AC;Sin  Servicio;8698;2019-01-31  12:48:09 
+ Mauricio  Priotti;SF1.45AC;Sin  Servicio;11936;2019-01-31  13:38:29 
+ Mauricio  Priotti;FOHQ152;Cortes;5924;2019-01-31  14:15:59 
+ Mauricio  Priotti;BF2AC;Sin  Servicio;11854;2019-01-31  15:27:06 
+ Mauricio  Priotti;SSiP2bis;Baja  Velocidad;3103;2019-01-31  15:36:59 
+ Mauricio  Priotti;PI4C;Baja  Velocidad;8517;2019-01-31  15:37:09 
+ Nicolas  Vargas;PB2bis;Baja  Velocidad;9982;2019-01-31  16:00:37 
+ Nicolas  Vargas;sb;Baja  Velocidad;5763;2019-01-31  16:04:59 
+ Nicolas  Vargas;PB2bis;Cortes;9982;2019-01-31  16:11:34 
+ Anna  Villegas;SSib4;Cortes;4464;2019-01-31  16:42:48 
+ Anna  Villegas;TSB2T;Baja  Velocidad;12359;2019-01-31  16:51:12 
+ Anna  Villegas;TSB4Cbis;Baja  Velocidad;6082;2019-01-31  17:31:01 
+ Nicolas  Vargas;FOHQ152;Sin  Servicio;6446;2019-01-31  17:33:35 
+ Nicolas  Vargas;HI3C;Sin  Servicio;11030;2019-01-31  17:41:39 
+ Nicolas  Vargas;TSB1C;Sin  Servicio;7771;2019-01-31  17:49:07 
+ Nicolas  Vargas;RU2AC;Baja  Velocidad;2948;2019-01-31  17:51:22 
+ Nicolas  Vargas;TSB4Cbb;Baja  Velocidad;3903;2019-01-31  17:55:59 
+ Nicolas  Vargas;GR3;Sin  Servicio;14788;2019-01-31  18:49:56 
+ Nicolas  Vargas;PI4C;Baja  Velocidad;11381;2019-01-31  18:58:40 
+ Nicolas  Vargas;LP1C;Sin  Servicio;8906;2019-01-31  19:33:19 
+ Nicolas  Vargas;BF4RF;Baja  Velocidad;137;2019-01-31  19:48:17 
+ Nicolas  Vargas;RB3C;Baja  Velocidad;11657;2019-01-31  20:06:23 
+ Nicolas  Vargas;TT1bis;Sin  Servicio;3039;2019-01-31  20:07:44 
+ Nicolas  Vargas;PB3bb;Sin  Servicio;12962;2019-01-31  20:35:53 
+ Nicolas  Vargas;TSB1T;Baja  Velocidad;4718;2019-01-31  20:37:03 
+ Nicolas  Vargas;FOPI168;Sin  Servicio;3367;2019-01-31  20:38:08 
+ Nicolas  Vargas;TSB3Cbb;Baja  Velocidad;9990;2019-01-31  20:40:43 
+ Nicolas  Vargas;NetW3;Cortes;1684;2019-01-31  20:45:31 
+ Nicolas  Vargas;SF2ACbb;Cortes;11709;2019-01-31  20:49:52 
+ Nicolas  Vargas;PS4bis;Sin  Servicio;12660;2019-01-31  20:57:16 
+ Nicolas  Vargas;AA3;Baja  Velocidad;10182;2019-01-31  21:00:31 
+ Nicolas  Vargas;PS4bis;Baja  Velocidad;13567;2019-01-31  21:11:29 
+ Nicolas  Vargas;PS4bis;Baja  Velocidad;12660;2019-01-31  21:13:54 
+ Nicolas  Vargas;TSB2Cbis;Baja  Velocidad;4780;2019-01-31  21:14:44 
+ Nicolas  Vargas;LP1C;Baja  Velocidad;12092;2019-01-31  21:36:41 
+ Nicolas  Vargas;PS3C;Sin  Servicio;13659;2019-01-31  22:28:26 
+ Nicolas  Vargas;TF2;Sin  Servicio;3906;2019-01-31  22:29:05 
+ Nicolas  Vargas;TSB1Cbis;Baja  Velocidad;9882;2019-01-31  22:46:32 

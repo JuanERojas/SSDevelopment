@@ -1,0 +1,133 @@
+Estadisticas;2019-09-24-2019-09-24
+Tecnico;Panel;Reclamo;Cliente;Hora
+ Nicolas  Vargas;GR4;Wsp-Inst-Face;16514;2019-09-24  09:55:37 
+ Nicolas  Vargas;OLT1.UBNT.TF;Sin  Servicio;17151;2019-09-24  09:55:41 
+ Nicolas  Vargas;SP4bis;Wsp-Inst-Face;14687;2019-09-24  09:57:01 
+ Nicolas  Vargas;OLT1.UBNT.HQ;Wsp-Inst-Face;8294;2019-09-24  09:58:47 
+ Nicolas  Vargas;BC2AC;Wsp-Inst-Face;6367;2019-09-24  10:00:17 
+ Nicolas  Vargas;RAM3C;Sin  Servicio;9116;2019-09-24  10:01:48 
+ Nicolas  Vargas;OLT1.UBNT.PI;Wsp-Inst-Face;3838;2019-09-24  10:02:39 
+ Nicolas  Vargas;TT1;Wsp-Inst-Face;8536;2019-09-24  10:04:41 
+ Nicolas  Vargas;BF4.5RF;Wsp-Inst-Face;174;2019-09-24  10:11:11 
+ Nicolas  Vargas;YL2AC;Sin  Servicio;14470;2019-09-24  10:11:56 
+ Nicolas  Vargas;GR3C;Cortes;12334;2019-09-24  10:13:42 
+ Nicolas  Vargas;TSB2Cbis;Sin  Servicio;4718;2019-09-24  10:15:39 
+ Nicolas  Vargas;ERROR;Sin  Servicio;16010;2019-09-24  10:16:19 
+ Nicolas  Vargas;HW1AC;Baja  Velocidad;8649;2019-09-24  10:32:28 
+ Nicolas  Vargas;TSB2Cbis;Cortes;1140;2019-09-24  10:47:53 
+ Nicolas  Vargas;OLT1.UBNT.HQ;Sin  Servicio;2443;2019-09-24  10:51:10 
+ Nicolas  Vargas;OLT2.UBNT.PI;Wsp-Inst-Face;12152;2019-09-24  11:00:05 
+ Nicolas  Vargas;TF3Cbb;Wsp-Inst-Face;11285;2019-09-24  11:06:19 
+ Nicolas  Vargas;TSB3C;Corte  Administrativo;7197;2019-09-24  11:43:58 
+ Nicolas  Vargas;BF2;Corte  Administrativo;5421;2019-09-24  11:45:24 
+ Nicolas  Vargas;HV3-epmp2000smart;Corte  Administrativo;6331;2019-09-24  11:47:22 
+ Nicolas  Vargas;OLT1.HUAWEI.SF;Corte  Administrativo;15286;2019-09-24  11:48:21 
+ Nicolas  Vargas;OLT2.UBNT.HQ;Corte  Administrativo;6149;2019-09-24  11:53:18 
+ Nicolas  Vargas;OLT4.HUAWEI.HQ;Wsp-Inst-Face;16298;2019-09-24  11:54:25 
+ Nicolas  Vargas;SSiU1;Corte  Administrativo;7043;2019-09-24  12:01:20 
+ Nicolas  Vargas;SG2quad;Wsp-Inst-Face;698;2019-09-24  12:02:41 
+ Nicolas  Vargas;SG2bb;Corte  Administrativo;5810;2019-09-24  12:04:41 
+ Nicolas  Vargas;OLT2.HUAWEI.PS;Corte  Administrativo;5928;2019-09-24  12:05:59 
+ Nicolas  Vargas;TSB3;Corte  Administrativo;6960;2019-09-24  12:07:18 
+ Nicolas  Vargas;OLT1.UBNT.PI;Wsp-Inst-Face;9610;2019-09-24  12:08:56 
+ Nicolas  Vargas;PB2;Corte  Administrativo;6889;2019-09-24  12:10:18 
+ Nicolas  Vargas;TSB4C;Corte  Administrativo;5591;2019-09-24  12:10:56 
+ Nicolas  Vargas;TSB1T;Corte  Administrativo;6072;2019-09-24  12:14:46 
+ Nicolas  Vargas;OLT2.UBNT.PI;Corte  Administrativo;15564;2019-09-24  12:16:58 
+ Nicolas  Vargas;OLT1.UBNT.PI;Corte  Administrativo;5335;2019-09-24  12:17:31 
+ Nicolas  Vargas;GR2CBis;Corte  Administrativo;7576;2019-09-24  12:18:35 
+ Nicolas  Vargas;RAM3AC;Wsp-Inst-Face;7001;2019-09-24  12:19:04 
+ Nicolas  Vargas;OLT2.UBNT.PI;Corte  Administrativo;7776;2019-09-24  12:19:57 
+ Nicolas  Vargas;OLT1.UBNT.HQ;Corte  Administrativo;4141;2019-09-24  12:21:42 
+ Nicolas  Vargas;OLT1.UBNT.PS;Corte  Administrativo;5713;2019-09-24  12:24:24 
+ Nicolas  Vargas;TF3;Corte  Administrativo;3544;2019-09-24  12:25:14 
+ Nicolas  Vargas;TF3bis;Corte  Administrativo;5658;2019-09-24  12:26:46 
+ Nicolas  Vargas;OLT1.UBNT.PI;Corte  Administrativo;15499;2019-09-24  12:32:56 
+ Mauricio  Priotti;OLT1.HUAWEI.AC;Corte  Administrativo;14680;2019-09-24  12:33:15 
+ Mauricio  Priotti;OLT2.HUAWEI.PS;Corte  Administrativo;5439;2019-09-24  12:33:29 
+ Mauricio  Priotti;TF3bis;Corte  Administrativo;5658;2019-09-24  12:33:44 
+ Mauricio  Priotti;OLT2.UBNT.PI;Corte  Administrativo;15605;2019-09-24  12:34:00 
+ Mauricio  Priotti;3L1;Corte  Administrativo;6022;2019-09-24  12:34:11 
+ Nicolas  Vargas;OLT1.UBNT.PI;Corte  Administrativo;15908;2019-09-24  12:36:27 
+ Nicolas  Vargas;PS1bis;Corte  Administrativo;4197;2019-09-24  12:37:17 
+ Nicolas  Vargas;OLT2.HUAWEI.PS;Corte  Administrativo;7682;2019-09-24  12:38:16 
+ Nicolas  Vargas;SSiP3bb;Corte  Administrativo;5885;2019-09-24  12:39:53 
+ Nicolas  Vargas;TSB3;Corte  Administrativo;6960;2019-09-24  12:41:07 
+ Nicolas  Vargas;OLT3.HUAWEI.PI;Corte  Administrativo;3456;2019-09-24  12:42:05 
+ Nicolas  Vargas;OLT1.UBNT.PS;Corte  Administrativo;6194;2019-09-24  12:47:51 
+ Mauricio  Priotti;OLT1.UBNT.HQ;Corte  Administrativo;7089;2019-09-24  12:51:24 
+ Nicolas  Vargas;HE3Cbis;Sin  Servicio;8949;2019-09-24  12:53:49 
+ Nicolas  Vargas;SC2;Corte  Administrativo;13022;2019-09-24  12:55:40 
+ Mauricio  Priotti;OLT1.UBNT.TF;Corte  Administrativo;15915;2019-09-24  12:56:08 
+ Nicolas  Vargas;RAM4C;Corte  Administrativo;4369;2019-09-24  12:57:53 
+ Nicolas  Vargas;PB2;Corte  Administrativo;10533;2019-09-24  12:59:49 
+ Nicolas  Vargas;SSiDC2;Corte  Administrativo;5355;2019-09-24  13:00:59 
+ Nicolas  Vargas;HQ4;Corte  Administrativo;7414;2019-09-24  13:02:10 
+ Mauricio  Priotti;PI4C;Corte  Administrativo;8579;2019-09-24  13:03:00 
+ Nicolas  Vargas;TF4C;Corte  Administrativo;7845;2019-09-24  13:03:44 
+ Nicolas  Vargas;HI3C;Corte  Administrativo;6232;2019-09-24  13:04:19 
+ Nicolas  Vargas;RAM3AC;Corte  Administrativo;5630;2019-09-24  13:05:26 
+ Nicolas  Vargas;OLT2.UBNT.HQ;Corte  Administrativo;7042;2019-09-24  13:06:12 
+ Nicolas  Vargas;LP4;Corte  Administrativo;4507;2019-09-24  13:08:25 
+ Nicolas  Vargas;OLT2.UBNT.HQ;Corte  Administrativo;6923;2019-09-24  13:08:53 
+ Nicolas  Vargas;TSB4Cbis;Corte  Administrativo;7457;2019-09-24  13:09:37 
+ Nicolas  Vargas;TSB4T;Sin  Servicio;11205;2019-09-24  13:10:51 
+ Mauricio  Priotti;PP2;Corte  Administrativo;4617;2019-09-24  13:11:43 
+ Nicolas  Vargas;HE3C;Corte  Administrativo;7160;2019-09-24  13:12:16 
+ Mauricio  Priotti;OLT1.UBNT.HQ;Corte  Administrativo;15794;2019-09-24  13:12:57 
+ Nicolas  Vargas;HV4;Wsp-Inst-Face;13887;2019-09-24  13:13:10 
+ Nicolas  Vargas;OLT1.UBNT.PS;Wsp-Inst-Face;17963;2019-09-24  13:16:12 
+ Nicolas  Vargas;PI4;Corte  Administrativo;5138;2019-09-24  13:16:47 
+ Nicolas  Vargas;OLT4.HUAWEI.HQ;Corte  Administrativo;8779;2019-09-24  13:17:11 
+ Nicolas  Vargas;OLT2.UBNT.PI;Corte  Administrativo;15710;2019-09-24  13:18:13 
+ Mauricio  Priotti;TT2;Corte  Administrativo;15680;2019-09-24  13:18:23 
+ Mauricio  Priotti;SP4bis;Corte  Administrativo;5391;2019-09-24  13:18:57 
+ Nicolas  Vargas;TSB2C;Sin  Servicio;9002;2019-09-24  13:19:29 
+ Nicolas  Vargas;OLT1.UBNT.PI;Corte  Administrativo;15882;2019-09-24  13:20:01 
+ Nicolas  Vargas;OLT1.UBNT.PS;Corte  Administrativo;12226;2019-09-24  13:21:30 
+ Nicolas  Vargas;OLT1.UBNT.TF;Corte  Administrativo;7770;2019-09-24  13:23:12 
+ Nicolas  Vargas;ESC2;Corte  Administrativo;10872;2019-09-24  13:25:56 
+ Nicolas  Vargas;OLT4.HUAWEI.HQ;Corte  Administrativo;4450;2019-09-24  13:26:34 
+ Nicolas  Vargas;BF3.5RF;Corte  Administrativo;15647;2019-09-24  13:28:08 
+ Nicolas  Vargas;PI4;Corte  Administrativo;5550;2019-09-24  13:30:18 
+ Mauricio  Priotti;SC2;Corte  Administrativo;10776;2019-09-24  13:33:05 
+ Nicolas  Vargas;OLT2.HUAWEI.PS;Wsp-Inst-Face;18372;2019-09-24  13:34:20 
+ Mauricio  Priotti;PB3;Corte  Administrativo;6841;2019-09-24  13:35:41 
+ Nicolas  Vargas;OLT1.UBNT.TF;Sin  Servicio;3159;2019-09-24  13:35:59 
+ Nicolas  Vargas;PS4C;Sin  Servicio;8182;2019-09-24  13:37:36 
+ Nicolas  Vargas;SG2AC;Corte  Administrativo;7530;2019-09-24  13:38:55 
+ Mauricio  Priotti;ESC4;Corte  Administrativo;12274;2019-09-24  13:40:12 
+ Nicolas  Vargas;RB3CBis;Corte  Administrativo;14438;2019-09-24  13:45:13 
+ Nicolas  Vargas;OLT2.UBNT.PI;Corte  Administrativo;6104;2019-09-24  13:45:47 
+ Nicolas  Vargas;OLT1.UBNT.HQ;Sin  Servicio;18570;2019-09-24  13:47:13 
+ Nicolas  Vargas;ERROR;Corte  Administrativo;15791;2019-09-24  13:47:46 
+ Nicolas  Vargas;OLT1.UBNT.HQ;Corte  Administrativo;6431;2019-09-24  13:49:03 
+ Nicolas  Vargas;RAM1AC;Corte  Administrativo;7874;2019-09-24  13:51:46 
+ Nicolas  Vargas;AP-IGLESIA;Baja  Velocidad;5490;2019-09-24  13:52:21 
+ Nicolas  Vargas;BF4RF;Corte  Administrativo;7112;2019-09-24  13:52:47 
+ Nicolas  Vargas;OLT1.HUAWEI.SF;Corte  Administrativo;11700;2019-09-24  13:56:07 
+ Mauricio  Priotti;OLT1.UBNT.PI;Corte  Administrativo;6995;2019-09-24  13:56:51 
+ Mauricio  Priotti;RU2bis;Corte  Administrativo;6892;2019-09-24  13:57:24 
+ Nicolas  Vargas;AC2bis;Corte  Administrativo;7113;2019-09-24  14:00:21 
+ Nicolas  Vargas;B1bis;Sin  Servicio;7359;2019-09-24  14:05:34 
+ Nicolas  Vargas;PB2bb;Sin  Servicio;13373;2019-09-24  14:17:39 
+ Nicolas  Vargas;PB1bis;Corte  Administrativo;11680;2019-09-24  14:18:52 
+ Nicolas  Vargas;GR1C;Corte  Administrativo;15807;2019-09-24  14:20:40 
+ Nicolas  Vargas;TT5C;Sin  Servicio;11919;2019-09-24  14:27:21 
+ Nicolas  Vargas;RAM3C;Corte  Administrativo;4809;2019-09-24  14:28:27 
+ Nicolas  Vargas;B3RF;Corte  Administrativo;5210;2019-09-24  14:29:52 
+ Nicolas  Vargas;OLT1.UBNT.PS;Corte  Administrativo;4440;2019-09-24  14:30:58 
+ Nicolas  Vargas;OLT4.HUAWEI.HQ;Wsp-Inst-Face;12208;2019-09-24  14:33:05 
+ Nicolas  Vargas;OLT2.UBNT.PI;Wsp-Inst-Face;11363;2019-09-24  14:33:33 
+ Nicolas  Vargas;TSB4;Corte  Administrativo;4088;2019-09-24  14:36:44 
+ Nicolas  Vargas;SF1.45AC;Corte  Administrativo;14307;2019-09-24  14:37:12 
+ Nicolas  Vargas;OLT1.UBNT.TF;Wsp-Inst-Face;13719;2019-09-24  14:39:05 
+ Nicolas  Vargas;SC2;Corte  Administrativo;11179;2019-09-24  14:44:01 
+ Nicolas  Vargas;ERROR;Corte  Administrativo;12296;2019-09-24  14:46:19 
+ Nicolas  Vargas;OLT4.HUAWEI.HQ;Sin  Servicio;4369;2019-09-24  14:49:30 
+ Nicolas  Vargas;SC2;Sin  Servicio;10785;2019-09-24  14:53:56 
+ Nicolas  Vargas;OLT2.HUAWEI.PS;Baja  Velocidad;10044;2019-09-24  14:55:05 
+ Nicolas  Vargas;OLT1.UBNT.HQ;Baja  Velocidad;13657;2019-09-24  14:55:43 
+ Nicolas  Vargas;OLT1.UBNT.TF;Corte  Administrativo;7181;2019-09-24  15:00:07 
+ Nicolas  Vargas;OLT1.UBNT.HQ;Corte  Administrativo;4857;2019-09-24  15:05:37 
+ Eduardo  Portillo;MluR2tris;Wsp-Inst-Face;16315;2019-09-24  15:11:17 

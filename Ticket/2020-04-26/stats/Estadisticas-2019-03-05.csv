@@ -1,0 +1,25 @@
+Estadisticas;2019-03-05-2019-03-05
+Tecnico;Panel;Reclamo;Cliente;Hora
+ Eduardo  Portillo;RAM1C;Baja  Velocidad;10423;2019-03-05  15:54:35 
+ Eduardo  Portillo;TSB4C;Baja  Velocidad;12526;2019-03-05  16:11:51 
+ Eduardo  Portillo;HQ3AC;Baja  Velocidad;3189;2019-03-05  16:02:51 
+ Marycarmen  Diaz;FOPS156;Baja  Velocidad;9357;2019-03-05  12:26:25 
+ Marycarmen  Diaz;SF1bb;Baja  Velocidad;4133;2019-03-05  10:37:03 
+ Marycarmen  Diaz;SG1;Cortes;1512;2019-03-05  15:06:37 
+ Marycarmen  Diaz;PI3Cbb;Cortes;3720;2019-03-05  10:59:06 
+ Marycarmen  Diaz;SF2C;Cortes;2218;2019-03-05  12:34:00 
+ Eduardo  Portillo;RU2AC;Cortes;8461;2019-03-05  18:40:47 
+ Marycarmen  Diaz;YL1;Cortes;5414;2019-03-05  13:49:07 
+ Marycarmen  Diaz;TSB2C;Sin  Servicio;12003;2019-03-05  10:07:21 
+ Eduardo  Portillo;ERROR;Sin  Servicio;3987;2019-03-05  18:56:20 
+ Eduardo  Portillo;FOHQ152;Sin  Servicio;11897;2019-03-05  17:10:16 
+ Marycarmen  Diaz;BF4bis;Sin  Servicio;4526;2019-03-05  13:10:46 
+ Marycarmen  Diaz;AC4;Sin  Servicio;1184;2019-03-05  10:14:46 
+ Eduardo  Portillo;LP4Cbis;Sin  Servicio;4291;2019-03-05  19:13:23 
+ Eduardo  Portillo;FOPS156;Sin  Servicio;1628;2019-03-05  18:55:53 
+ Marycarmen  Diaz;BF1;Sin  Servicio;4810;2019-03-05  14:18:02 
+ Marycarmen  Diaz;ERROR;Sin  Servicio;3402;2019-03-05  10:51:36 
+ Marycarmen  Diaz;HE4C;Sin  Servicio;15016;2019-03-05  10:11:51 
+ Eduardo  Portillo;PS3;Sin  Servicio;14709;2019-03-05  18:58:48 
+ Eduardo  Portillo;BF1;Sin  Servicio;4505;2019-03-05  15:08:08 
+ Eduardo  Portillo;HQ1;Wsp-Inst-Face;2116;2019-03-05  15:25:27 

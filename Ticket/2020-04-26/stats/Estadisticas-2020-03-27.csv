@@ -1,0 +1,27 @@
+Estadisticas;2020-03-27-2020-03-27
+Tecnico;Panel;Reclamo;Cliente;Hora
+ Martín  Tolaba;SSiDC1;Cortes;4814;2020-03-27  09:36:01 
+ Nicolas  Vargas;HW3C;Sin  Servicio;11457;2020-03-27  09:36:51 
+ Martín  Tolaba;ERROR;Cortes;11061;2020-03-27  09:38:17 
+ Martín  Tolaba;HV2.6;Sin  Servicio;17596;2020-03-27  10:39:25 
+ Nicolas  Vargas;HV2.6;Sin  Servicio;17596;2020-03-27  10:39:35 
+ Nicolas  Vargas;LP3C;Sin  Servicio;12308;2020-03-27  11:05:21 
+ Nicolas  Vargas;PS1C;Sin  Servicio;8101;2020-03-27  11:08:03 
+ Nicolas  Vargas;ERROR;Sin  Servicio;19474;2020-03-27  11:08:38 
+ Nicolas  Vargas;RU3ACbis;Sin  Servicio;12134;2020-03-27  12:11:29 
+ Nicolas  Vargas;PB3;Sin  Servicio;12103;2020-03-27  12:13:17 
+ Martín  Tolaba;OLT1.UBNT.PI;Baja  Velocidad;13328;2020-03-27  12:17:47 
+ Martín  Tolaba;HE1C;Sin  Servicio;2798;2020-03-27  15:13:28 
+ Eduardo  Portillo;YL1;Sin  Servicio;9216;2020-03-27  15:33:18 
+ Eduardo  Portillo;OLT1.HUAWEI.AC;Sin  Servicio;20619;2020-03-27  15:39:46 
+ Eduardo  Portillo;A51-1bis;Cortes;164;2020-03-27  15:41:41 
+ Eduardo  Portillo;PP2;Sin  Servicio;1580;2020-03-27  15:48:27 
+ Nicolas  Vargas;HV1.9;Sin  Servicio;6626;2020-03-27  15:50:18 
+ Nicolas  Vargas;MluR1bb;Sin  Servicio;5576;2020-03-27  15:52:43 
+ Nicolas  Vargas;PI2;Sin  Servicio;20002;2020-03-27  15:54:09 
+ Nicolas  Vargas;PS2;Sin  Servicio;2582;2020-03-27  16:48:55 
+ Nicolas  Vargas;OLT3.HUAWEI.PI;Baja  Velocidad;6571;2020-03-27  17:06:18 
+ Nicolas  Vargas;TSB1C;Baja  Velocidad;7737;2020-03-27  17:12:06 
+ Eduardo  Portillo;ERROR;Sin  Servicio;8469;2020-03-27  17:14:21 
+ Eduardo  Portillo;centro;Sin  Servicio;875;2020-03-27  17:30:17 
+ Eduardo  Portillo;RAM2C;Sin  Servicio;17237;2020-03-27  17:39:38 

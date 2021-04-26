@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conexiones>
+    <conexion>
+        <serverName>172.16.2.173</serverName>
+        <dataBase>SS-DBTK</dataBase>
+        <uid>userticket</uid>
+        <pwd>ReadWriteTk@SS</pwd>
+    </conexion>
+</conexiones>
